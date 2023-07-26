@@ -13,23 +13,20 @@ const Home = ({ data }) => {
   const renderGifs = gifs.map(gif => {
     return (
       <li key={`key${gif.day}`} className={styles.item}>
-        <div className={styles.content}>
-          <div className={styles.caption}>
-            <div>Day: {gif.day}</div>
-            <h2>{gif.title}</h2>
-            <p>{gif.content}</p>
-            <p>Client: {gif.client}</p>
-          </div>
-          <div className={styles.gif}>
-            {
-              allGifs.map(item => item.relativePath === gif.gif 
-                ? item.extension === "mp4" 
-                  ? <video key={item.relativePath} src={item.publicURL} autoPlay loop playsInline muted><track kind="captions" /></video>
-                  : <img key={item.publicURL} src={item.publicURL} alt="" />
-                : "")
-            }
-            <div className={styles.itemNumber}>{gif.day}</div>
-          </div>
+        <div className={styles.caption}>
+          <div className={styles.day}><strong>Day </strong>{gif.day}</div>
+          <p>{gif.content}</p>
+          <p className={styles.client}><strong>Client: </strong>{gif.client}</p>
+        </div>
+        <div className={styles.gif}>
+          {
+            allGifs.map(item => item.relativePath === gif.gif 
+              ? item.extension === "mp4" 
+                ? <video key={item.relativePath} src={item.publicURL} autoPlay loop playsInline muted><track kind="captions" /></video>
+                : <img key={item.publicURL} src={item.publicURL} alt="" />
+              : "")
+          }
+          <div className={styles.itemNumber}>{gif.day}</div>
         </div>
       </li>
     );

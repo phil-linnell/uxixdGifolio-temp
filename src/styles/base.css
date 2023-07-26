@@ -18,7 +18,7 @@
 
 body {
   font-family: "TitilliumWeb", "Arial", sans-serif;
-  line-height: 1.4;
+  line-height: 1.2;
   font-size: calc(13px + (24 - 13) * ((100vw - 320px) / (3200 - 320)));
   -webkit-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
