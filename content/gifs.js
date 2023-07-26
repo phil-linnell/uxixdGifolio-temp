@@ -1,7 +1,7 @@
 const gifs = [
   {
     day: "003",
-    content: "Lorem ipsum dolor sit amet lorem ipsum dolor sit amet.",
+    content: "HELLO PHIL. BEER SOON?.",
     client: "A different client name",
     gif: "animal.gif"
   },
