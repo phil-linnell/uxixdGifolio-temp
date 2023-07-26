@@ -1,5 +1,33 @@
 @import "./normalize.css";
 
+@font-face {
+  font-family: SpaceMono;
+  src: url("../assets/SpaceMono-Regular.woff2") format('woff2');
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: TitilliumWeb;
+  src: url("../assets/TitilliumWeb-Light.woff2") format('woff2');
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+}
+
 body {
+  font-family: "TitilliumWeb", "Arial", sans-serif;
+  line-height: 1.4;
+  font-size: calc(13px + (24 - 13) * ((100vw - 320px) / (3200 - 320)));
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
   background-color: white;
+}
+
+h1, .h1,
+h2, .h2,
+h3, .h3,
+h4, .h4 {
+  font-family: "SpaceMono", Arial, Helvetica, sans-serif;
 }

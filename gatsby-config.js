@@ -15,6 +15,9 @@ module.exports = {
         name: "assets",
         path: `${__dirname}/content/gifs/`
       }
-    }
+    },
+    `gatsby-plugin-image`,
+    `gatsby-plugin-sharp`,
+    `gatsby-transformer-sharp`
   ],
 }

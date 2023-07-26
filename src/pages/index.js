@@ -1,5 +1,6 @@
 import * as React from "react";
 import { graphql } from "gatsby";
+import { StaticImage } from "gatsby-plugin-image";
 import gifs from "../../content/gifs.js";
 import "../styles/base.css";
 import * as styles from "./index.module.css";
@@ -24,9 +25,10 @@ const Home = ({ data }) => {
               allGifs.map(item => item.relativePath === gif.gif 
                 ? item.extension === "mp4" 
                   ? <video key={item.relativePath} src={item.publicURL} autoPlay loop playsInline muted><track kind="captions" /></video>
-                  : <img src={item.publicURL} alt="" />
+                  : <img key={item.publicURL} src={item.publicURL} alt="" />
                 : "")
             }
+            <div className={styles.itemNumber}>{gif.day}</div>
           </div>
         </div>
       </li>
@@ -35,9 +37,8 @@ const Home = ({ data }) => {
   
   const noOfBlanks = 100 - gifs.length;
 
-  
   const renderBlanks = [...Array(noOfBlanks)].map((_, i) => (
-    <li className={styles.item}><div className={styles.content} /></li>
+    <li className={styles.item} key={`key${i}`}><div className={styles.content} /></li>
   ));
     
   renderAll.push(renderGifs);
@@ -45,7 +46,10 @@ const Home = ({ data }) => {
 
   return (
     <div className={styles.container}>
-      <h1>UXIXD</h1>
+      <header className={styles.header}>
+        <h1><StaticImage src="../assets/uxixd-logo.png" alt="UXIXD Gifolio" /></h1>
+        <div className={styles.strapline}>100 days of <strong>UX</strong> and <strong>IXD</strong> gifs<span className={styles.asterisk}>*</span></div>
+      </header>
       <ul className={styles.list}>
         {renderAll}
       </ul>
