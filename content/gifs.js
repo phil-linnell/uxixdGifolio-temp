@@ -1,27 +1,21 @@
 const gifs = [
    {
-    day: "004",
+    day: "003",
     content: "TEST.",
     client: "Micro but Many",
     gif: "randomcar.mp4"
   },
   {
-    day: "003",
+    day: "002",
     content: "HELLO PHIL. BEER SOON?.",
     client: "A different client name",
     gif: "cluster.mp4"
   },
   {
-    day: "002",
-    content: "Lorem ipsum dolor sit amet lorem ipsum dolor sit amet.",
-    client: "Client name",
-    gif: "centerplan.mp4"
-  },
-  {
     day: "001",
     content: "Lorem ipsum dolor sit amet lorem ipsum dolor sit amet.",
     client: "Client name",
-    gif: "gif.mp4"
+    gif: "centerplan.mp4"
   }
 ];
 

@@ -55,7 +55,7 @@ const Home = ({ data }) => {
         <div className={styles.headerInner}>
           <div className={styles.headerContent}>
             <h1><StaticImage src="../assets/uxixd-logo.png" alt="UXIXD Gifolio" placeholder="none" /></h1>
-            <div className={styles.strapline}>100 days of <strong>UX</strong> and <strong>IXD</strong> gifs<span className={styles.asterisk}>*</span></div>
+            <div className={styles.strapline}>100 days of <strong>UX</strong> &amp; <strong>IXD</strong> gifs</div>
           </div>
         </div>
       </header>
