@@ -1,10 +1,17 @@
 const gifs = [
    {
+    day: "007",
+    content: "Contextual actions. Directions back to your car, with beep and flash offered upon approach.",
+    client: "JLR / ustwo",
+    gif: "jlr.mp4"
+  },  
+   {
     day: "006",
     content: "Bluetooth scent emmiter protoype - adding smell ot VR experiences.",
     client: "NewTerritory",
     gif: "spray.mp4"
-  },   {
+  },  
+   {
     day: "005",
     content: "Is a needle pointing at a number the best way to show speed?",
     client: "ustwo",
