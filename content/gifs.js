@@ -7,20 +7,20 @@ const gifs = [
   },
    {
     day: "003",
-    content: "TEST.",
+    content: "Decision fatigue? Select an option at random with a 'Surprise me' option.",
     client: "Micro but Many",
     gif: "randomcar.mp4"
   },
   {
     day: "002",
-    content: "HELLO PHIL. BEER SOON?.",
-    client: "A different client name",
+    content: "Indicate speed exceeds the road's limit with peripheral colour.",
+    client: "Citroën / ustwo",
     gif: "cluster.mp4"
   },
   {
     day: "001",
-    content: "Lorem ipsum dolor sit amet lorem ipsum dolor sit amet.",
-    client: "Client name",
+    content: "Dynamic navigation that meets you where most comfortable.",
+    client: "CenterPlan / GR/DD",
     gif: "centerplan.mp4"
   }
 ];
