@@ -1,6 +1,11 @@
 const gifs = [
    {
-    day: "NEW",
+    day: "005",
+    content: "Is a needle pointing at a number the best way to show speed?",
+    client: "ustwo",
+    gif: "ferrari.mp4"
+  },{
+    day: "004",
     content: "Context is key(board). An on-screen keyboard with the space bar centred can save input time.",
     client: "Samsung / AllofUs",
     gif: "keyboard.mp4"
