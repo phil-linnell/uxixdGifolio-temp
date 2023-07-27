@@ -50,7 +50,7 @@ const gifs = [
   {
     day: "001",
     content: "Dynamic navigation that meets you where most comfortable.",
-    client: "CenterPlan / GR/DD",
+    client: "CenterPlan / Unit9",
     gif: "centerplan.mp4"
   }
 ];
