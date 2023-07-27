@@ -3,13 +3,13 @@ const gifs = [
     day: "003",
     content: "HELLO PHIL. BEER SOON?.",
     client: "A different client name",
-    gif: "animal.gif"
+    gif: "cluster.mp4"
   },
   {
     day: "002",
     content: "Lorem ipsum dolor sit amet lorem ipsum dolor sit amet.",
     client: "Client name",
-    gif: "gonzo.gif"
+    gif: "centerplan.mp4"
   },
   {
     day: "001",

@@ -1,6 +1,7 @@
 import * as React from "react";
 import { graphql } from "gatsby";
 import { StaticImage } from "gatsby-plugin-image";
+import Meta from "../components/meta";
 import gifs from "../../content/gifs.js";
 import "../styles/base.css";
 import * as styles from "./index.module.css";
@@ -12,7 +13,7 @@ const Home = ({ data }) => {
 
   const renderGifs = gifs.map(gif => {
     return (
-      <li key={`key${gif.day}`} className={styles.item}>
+      <li key={`key${gif.day}`} className={`${styles.item} ${styles.itemGif}`}>
         <div className={styles.caption}>
           <div className={styles.day}><strong>Day </strong>{gif.day}</div>
           <p>{gif.content}</p>
@@ -54,8 +55,11 @@ const Home = ({ data }) => {
   );
 }
 
-
 export default Home;
+
+export const Head = () => {
+  return <Meta />
+};
 
 export const query = graphql`
   query {
