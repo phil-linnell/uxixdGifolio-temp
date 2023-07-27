@@ -67,7 +67,7 @@ const Home = ({ data }) => {
       <footer className={styles.footer}>
         <div className={styles.footerInner}>
           <div className={styles.footerLogo}>
-            <StaticImage src="../assets/uxixd-logo-alt.png" alt="UXIXD" />
+            <StaticImage src="../assets/uxixd-logo-alt.png" alt="UXIXD" placeholder="none" />
           </div>
           <div className={styles.footerSmallPrint}>
             <p>UX, IXD and IP invention with over 20 years experience leading in design with auto and tech brands. UXIXD provides consultancy, research, content creation, conception, direction and expert profile. Founded by Tim Smith.</p>
