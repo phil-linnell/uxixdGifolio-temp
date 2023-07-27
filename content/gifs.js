@@ -1,8 +1,8 @@
 const gifs = [
    {
     day: "NEW",
-    content: "TEST.",
-    client: "Micro but Many",
+    content: "Context is key(board). An on-screen keyboard with the space bar centred can save input time.",
+    client: "Samsung / AllofUs",
     gif: "keyboard.mp4"
   },
    {
