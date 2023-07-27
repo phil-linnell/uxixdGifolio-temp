@@ -1,5 +1,11 @@
 const gifs = [
    {
+    day: "008",
+    content: "E-ink tech means utilisation of a single autonomous vehicle can shift to the cities demands throughout the day.",
+    client: "JLR / ustwo",
+    gif: "roo.mp4"
+  },  
+   {
     day: "007",
     content: "Contextual actions. Directions back to your car, with beep and flash offered upon approach.",
     client: "JLR / ustwo",
