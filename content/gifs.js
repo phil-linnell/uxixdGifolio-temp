@@ -1,10 +1,16 @@
 const gifs = [
    {
+    day: "006",
+    content: "Bluetooth scent emmiter protoype - adding smell ot VR experiences.",
+    client: "NewTerritory",
+    gif: "spray.mp4"
+  },   {
     day: "005",
     content: "Is a needle pointing at a number the best way to show speed?",
     client: "ustwo",
     gif: "ferrari.mp4"
-  },{
+  },
+   {
     day: "004",
     content: "Context is key(board). An on-screen keyboard with the space bar centred can save input time.",
     client: "Samsung / AllofUs",
