@@ -1,5 +1,11 @@
 const gifs = [
    {
+    day: "NEW",
+    content: "TEST.",
+    client: "Micro but Many",
+    gif: "keyboard.mp4"
+  },
+   {
     day: "003",
     content: "TEST.",
     client: "Micro but Many",
