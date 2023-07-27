@@ -1,13 +1,20 @@
 import * as React from "react";
-import { graphql } from "gatsby";
+import { graphql, Link } from "gatsby";
+import classnames from "classnames";
 import { StaticImage } from "gatsby-plugin-image";
 import Meta from "../components/meta";
+import { useScrollPosition } from "../utils/hooks";
 import gifs from "../../content/gifs.js";
 import "../styles/base.css";
 import * as styles from "./index.module.css";
 
 const Home = ({ data }) => {
+  const scrollY = useScrollPosition();
+  const classes = classnames(styles.container, {
+    [styles.scrolled]: scrollY > 0
+  });
   const allGifs = data.allFile.edges.map(x => x.node);
+
 
   const renderAll = [];
 
@@ -43,14 +50,34 @@ const Home = ({ data }) => {
   renderAll.push(renderBlanks);
 
   return (
-    <div className={styles.container}>
+    <div className={classes}>
       <header className={styles.header}>
-        <h1><StaticImage src="../assets/uxixd-logo.png" alt="UXIXD Gifolio" /></h1>
-        <div className={styles.strapline}>100 days of <strong>UX</strong> and <strong>IXD</strong> gifs<span className={styles.asterisk}>*</span></div>
+        <div className={styles.headerInner}>
+          <div className={styles.headerContent}>
+            <h1><StaticImage src="../assets/uxixd-logo.png" alt="UXIXD Gifolio" placeholder="none" /></h1>
+            <div className={styles.strapline}>100 days of <strong>UX</strong> and <strong>IXD</strong> gifs<span className={styles.asterisk}>*</span></div>
+          </div>
+        </div>
       </header>
-      <ul className={styles.list}>
-        {renderAll}
-      </ul>
+      <div className={styles.listWrapper}>
+        <ul className={styles.list}>
+          {renderAll}
+        </ul>
+      </div>
+      <footer className={styles.footer}>
+        <div className={styles.footerInner}>
+          <div className={styles.footerLogo}>
+            <StaticImage src="../assets/uxixd-logo-alt.png" alt="UXIXD" />
+          </div>
+          <div className={styles.footerSmallPrint}>
+            <p>UX, IXD and IP invention with over 20 years experience leading in design with auto and tech brands. UXIXD provides consultancy, research, content creation, conception, direction and expert profile. Founded by Tim Smith.</p>
+          </div>
+          <div className={styles.copyright}>
+            <div>&copy; Tim Smith 2023</div>
+            <Link to="/privacy">Privacy Policy</Link>
+          </div>
+        </div>
+      </footer>
     </div>
   );
 }
