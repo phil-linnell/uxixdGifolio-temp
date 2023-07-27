@@ -40,3 +40,7 @@ p {
 a {
   color: #7a7979;
 }
+
+a:hover {
+  text-decoration: none;
+}
