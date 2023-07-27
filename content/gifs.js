@@ -1,4 +1,10 @@
 const gifs = [
+ {
+    day: "009",
+    content: "Contextual actions. Directions back to your car, with beep and flash offered upon approach.",
+    client: "JLR / ustwo",
+    gif: "jlr.mp4"
+  },  
    {
     day: "008",
     content: "E-ink tech means utilisation of a single autonomous vehicle can shift to the cities demands throughout the day.",
@@ -7,9 +13,9 @@ const gifs = [
   },  
    {
     day: "007",
-    content: "Contextual actions. Directions back to your car, with beep and flash offered upon approach.",
+    content: "Start your car, from your watch - like James Bond.",
     client: "JLR / ustwo",
-    gif: "jlr.mp4"
+    gif: "jlrremote.mp4"
   },  
    {
     day: "006",
