@@ -1,7 +1,7 @@
 const gifs = [
  {
     day: "013",
-    content: "Gestures in the car can be problematic. We explore a "gesture zone" to control the interaction method.",
+    content: "Gestures in the car can be problematic. We explored a "gesture zone" to control the interaction method.",
     client: "Toyota / ustwo",
     gif: "toyotavolume.mp4"
   },  
