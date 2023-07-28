@@ -1,5 +1,11 @@
 const gifs = [
  {
+    day: "011",
+    content: "Connected homes with contextual presets. Ie. Away Mode, Cosy Mode, Part Mode etc.",
+    client: "Garmin",
+    gif: "garminhome.mp4"
+  },  
+ {
     day: "010",
     content: "Contextual surface displays for pairing and authorisation feedback.",
     client: "Garmin",
