@@ -1,5 +1,11 @@
 const gifs = [
   {
+     day: "021",
+     content: "Architect your own building floorplan as you navigate through this architect's digital showroom.",
+     client: "CenterPlan / Unit9",
+     gif: "centerplanbuild.mp4"
+   }, 
+  {
      day: "020",
      content: "Packaging is where interaction design can bring brand delight - or a raspberry from a new virtual pet.",
      client: "PlayStation",
