@@ -1,5 +1,11 @@
 const gifs = [
  {
+    day: "014",
+    content: "Using facial recognition to detect when the user looks at the HMI.",
+    client: "Toyota / ustwo",
+    gif: "toyotafocus.mp4"
+  },  
+{
     day: "013",
     content: "Gestures in the car can be problematic. We explored a "gesture zone" to control the interaction method.",
     client: "Toyota / ustwo",
