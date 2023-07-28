@@ -1,7 +1,7 @@
 const gifs = [
  {
     day: "012",
-    content: "Motion sickness occurs when our balance and vision don't match. This game I Spy solves that, with Echo Auto suggesting up real word items from around the car.",
+    content: "Motion sickness happens when our balance and vision don't match. This game of Alexa I Spy solves that using real word items from around the car.",
     client: "Ford / HMSD",
     gif: "fordechoauto.mp4"
   },  
