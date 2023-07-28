@@ -56,32 +56,44 @@
 }
 
 .headerButton {
-  display: block;
+  position: relative;
   width: 40px;
   height: 40px;
   opacity: 0;
+}
+
+.headerButton:before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 40px;
+  height: 40px;
+  opacity: 0;
+  border-radius: 50%;
+  background-color: #f2ffbf;
+  transform: translate(3px, 3px);
+  transition: opacity 0.2s ease-in-out;
+}
+
+.headerButton > a {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  width: 40px;
+  height: 40px;
+  opacity: 1;
   transition: all 0.32s ease-in-out;
   background-size: 100% 100%;
   background-repeat: no-repeat;
   background-position: 50% 50%;
-  /* border-radius: 50%; */
 }
 
-/* .headerButtonWrapper:before {
-  content: "";
-  display: block;
-  position: relative;
-  z-index: -1;
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-  background-color: #f2ffbf;
-  transform: translate(4px, 4px);
-}
-
-.headerButtonWrapper:before:hover {
+.headerButton:hover:before {
   opacity: 1; 
-} */
+}
 
 .headerButton,
 .headerContent {
@@ -107,15 +119,21 @@
 
 .buttonXX {
   margin-left: 7px;
+}
+.buttonXX a {
   background-image: url("../assets/button_xx.png");
 }
 .buttonEmail{
   margin-right: 7px;
+}
+.buttonEmail a {
   background-image: url("../assets/button_email.png");
 }
 .buttonLinktree {
   display: none;
   margin-left: 20px;
+}
+.buttonLinktree a {
   background-image: url("../assets/button_linktree.png");
 }
 

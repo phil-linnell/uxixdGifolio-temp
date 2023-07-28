@@ -56,13 +56,13 @@ const Home = ({ data }) => {
     <div className={classes}>
       <header className={styles.header}>
         <div className={styles.headerInner}>
-          <div className={styles.headerButtonWrapper}><a href="/" className={`${styles.headerButton} ${styles.buttonXX}`} aria-label="XX" /></div>
-          <div className={styles.headerButtonWrapper}><a href="/" className={`${styles.headerButton} ${styles.buttonLinktree}`} aria-label="Linktree" /></div>
+          <div className={`${styles.headerButton} ${styles.buttonXX}`}><a href="/" aria-label="XX" /></div>
+          <div className={`${styles.headerButton} ${styles.buttonLinktree}`}><a href="/" aria-label="Linktree" /></div>
           <div className={styles.headerContent}>
             <h1><StaticImage src="../assets/uxixd-logo.png" alt="UXIXD Gifolio" placeholder="none" /></h1>
             <div className={styles.strapline}>100 days of <strong>UX</strong> &amp; <strong>IXD</strong> gifs</div>
           </div>
-          <div className={styles.headerButtonWrapper}><a href="/" className={`${styles.headerButton} ${styles.buttonEmail}`} aria-label="Email" /></div>
+          <div className={`${styles.headerButton} ${styles.buttonEmail}`}><a href="/" aria-label="Email" /></div>
         </div>
       </header>
       <div className={styles.listWrapper}>
