@@ -1,5 +1,11 @@
 const gifs = [
  {
+    day: "012",
+    content: "Motion sickness occurs when our balance and vision don't match. This game I Spy solves that, with Echo Auto suggesting up real word items from around the car.",
+    client: "Ford / HMSD",
+    gif: "fordechoauto.mp4"
+  },  
+ {
     day: "011",
     content: "Connected homes with contextual presets. Ie. Away Mode, Cosy Mode, Part Mode etc.",
     client: "Garmin",
