@@ -1,8 +1,14 @@
 const gifs = [
+  {
+     day: "020",
+     content: "Packaging is where interaction design can bring brand delight - or a raspberry from a new virtual pet.",
+     client: "PlayStation",
+     gif: "eyepet.mp4"
+   }, 
    {
      day: "019",
      content: "Design your island on the physical gameboard and see it come to life, mimicked with AR on screem.",
-     client: "Science Museum / GR/DD",
+     client: "Science Museum",
      gif: "sciencemuseum.mp4"
    }, 
   {
@@ -26,7 +32,7 @@ const gifs = [
   {
     day: "015",
     content: "An unboxing narrative that releases components in order of installation steps.",
-    client: "PlayStation / GR/DD",
+    client: "PlayStation",
     gif: "playtvunbox.mp4"
   }, 
   {
