@@ -1,5 +1,11 @@
 const gifs = [
  {
+    day: "017",
+    content: "Special screens use sound waves so blind people can feel the buttons on a flat touchscreen.",
+    client: "Volkswagen / ustwo",
+    gif: "vwblindscreen.mp4"
+  }, 
+ {
     day: "016",
     content: "An AR car configurator with life-size Land Rover so you can picture it in your driveway.",
     client: "JLR / ustwo",
