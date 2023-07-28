@@ -1,5 +1,11 @@
 const gifs = [
  {
+    day: "016",
+    content: "An AR car configurator with life-size Land Rover so you can picture it in your driveway.",
+    client: "JLR / ustwo",
+    gif: "jlrar.mp4"
+  }, 
+ {
     day: "015",
     content: "An unboxing narrative that releases components in order of installation steps.",
     client: "PlayStation / GR/DD",
