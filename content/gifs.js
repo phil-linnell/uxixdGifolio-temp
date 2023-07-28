@@ -1,5 +1,11 @@
 const gifs = [
  {
+    day: "015",
+    content: "An unboxing narrative that releases components in order of installation steps.",
+    client: "PlayStation / GR/DD",
+    gif: "playtvunbox.mp4"
+  }, 
+ {
     day: "014",
     content: "Using facial recognition to detect when the HMI needs to display for the driver.",
     client: "Toyota / ustwo",
