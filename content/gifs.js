@@ -1,5 +1,11 @@
 const gifs = [
  {
+    day: "013",
+    content: "Gestures in the car can be problematic. We explore a "gesture zone" to control the interaction method.",
+    client: "Toyota / ustwo",
+    gif: "toyotavolume.mp4"
+  },  
+ {
     day: "012",
     content: "Motion sickness happens when our balance and vision don't match. This game of Alexa I Spy solves that using real word items from around the car.",
     client: "Ford / HMSD",
