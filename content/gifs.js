@@ -1,7 +1,7 @@
 const gifs = [
  {
     day: "014",
-    content: "Using facial recognition to detect when the user looks at the HMI.",
+    content: "Using facial recognition to detect when the HMI needs to display for the user.",
     client: "Toyota / ustwo",
     gif: "toyotafocus.mp4"
   },  
