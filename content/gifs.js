@@ -1,5 +1,11 @@
 const gifs = [
  {
+    day: "018",
+    content: "Move map under pin, rather than move pin. A green closing apeture reaffrims focus on selection.",
+    client: "Ford / ustwo",
+    gif: "fordgoparkzone.mp4"
+  }, 
+ {
     day: "017",
     content: "Special screens use sound waves so blind people can feel the buttons on a flat touchscreen.",
     client: "Volkswagen / ustwo",
