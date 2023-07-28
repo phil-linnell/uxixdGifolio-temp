@@ -1,5 +1,5 @@
 import * as React from "react";
-import { graphql, Link } from "gatsby";
+import { graphql } from "gatsby";
 import classnames from "classnames";
 import { StaticImage } from "gatsby-plugin-image";
 import Meta from "../components/meta";
@@ -80,7 +80,7 @@ const Home = ({ data }) => {
           </div>
           <div className={styles.copyright}>
             <div>&copy; Tim Smith 2023</div>
-            <Link to="/privacy">Privacy Policy</Link>
+            <a href="https://uxixd.com/#privacy">Privacy Policy</a>
           </div>
         </div>
       </footer>

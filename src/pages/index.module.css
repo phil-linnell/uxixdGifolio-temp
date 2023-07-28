@@ -51,6 +51,7 @@
 
 .container.scrolled .headerContent {
   width: 50%;
+  max-width: 260px;
   /* margin-top: 0; */
 }
 
@@ -71,7 +72,14 @@
 
 .container.scrolled .headerButton,
 .container.scrolled .headerContent {
-  transform: translateY(10px);
+  transform: translateY(5px);
+}
+
+@media screen and (min-width: 768px) {
+  .container.scrolled .headerButton,
+  .container.scrolled .headerContent {
+    transform: translateY(0);
+  }
 }
 
 .container.scrolled .headerButton {
