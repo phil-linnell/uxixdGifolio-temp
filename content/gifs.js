@@ -1,10 +1,34 @@
 const gifs = [
-  // {
-  //   day: "018",
-  //   content: "Move map under pin, rather than move pin. A green closing apeture reaffrims focus on selection.",
-  //   client: "Ford / ustwo",
-  //   gif: "fordgoparkzone.mp4"
-  // }, 
+  {
+     day: "022",
+     content: "The illusion of making a solid metal cube levitate using precision weight distribution. Not as high as we would've liked.",
+     client: "CenterPlan / Unit9",
+     gif: "huaweicube.mp4"
+   }, 
+  {
+     day: "021",
+     content: "Architect your own building floorplan as you navigate through this architect's digital showroom.",
+     client: "CenterPlan / Unit9",
+     gif: "centerplanbuild.mp4"
+   }, 
+  {
+     day: "020",
+     content: "Packaging is where interaction design can bring brand delight - or a raspberry from a new virtual pet.",
+     client: "PlayStation",
+     gif: "eyepet.mp4"
+   }, 
+   {
+     day: "019",
+     content: "Design your island on the physical gameboard and see it come to life, mimicked with AR on screem.",
+     client: "Science Museum",
+     gif: "sciencemuseum.mp4"
+   }, 
+  {
+     day: "018",
+     content: "Move map under pin, rather than move pin. A green closing apeture reaffrims focus on selection.",
+     client: "Ford / ustwo",
+     gif: "fordgoparkzone.mp4"
+   }, 
   {
     day: "017",
     content: "Special screens use sound waves so blind people can feel the buttons on a flat touchscreen.",
@@ -20,7 +44,7 @@ const gifs = [
   {
     day: "015",
     content: "An unboxing narrative that releases components in order of installation steps.",
-    client: "PlayStation / GR/DD",
+    client: "PlayStation",
     gif: "playtvunbox.mp4"
   }, 
   {
@@ -62,7 +86,7 @@ const gifs = [
   {
     day: "008",
     content: "E-ink tech means utilisation of a single autonomous vehicle can shift to the cities demands throughout the day.",
-    client: "JLR / ustwo",
+    client: "ustwo",
     gif: "roo.mp4"
   },  
    
