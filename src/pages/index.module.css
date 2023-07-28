@@ -57,12 +57,31 @@
 
 .headerButton {
   display: block;
-  width: 30px;
-  height: 30px;
-  background: red;
+  width: 40px;
+  height: 40px;
   opacity: 0;
   transition: all 0.32s ease-in-out;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  /* border-radius: 50%; */
 }
+
+/* .headerButtonWrapper:before {
+  content: "";
+  display: block;
+  position: relative;
+  z-index: -1;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #f2ffbf;
+  transform: translate(4px, 4px);
+}
+
+.headerButtonWrapper:before:hover {
+  opacity: 1; 
+} */
 
 .headerButton,
 .headerContent {
@@ -86,16 +105,18 @@
   opacity: 1;
 }
 
-
-
 .buttonXX {
   margin-left: 7px;
+  background-image: url("../assets/button_xx.png");
 }
 .buttonEmail{
   margin-right: 7px;
+  background-image: url("../assets/button_email.png");
 }
 .buttonLinktree {
   display: none;
+  margin-left: 20px;
+  background-image: url("../assets/button_linktree.png");
 }
 
 @media screen and (min-width: 768px) {
