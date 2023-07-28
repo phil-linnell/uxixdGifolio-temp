@@ -7,6 +7,7 @@ import { useScrollPosition } from "../utils/hooks";
 import gifs from "../../content/gifs.js";
 import "../styles/base.css";
 import * as styles from "./index.module.css";
+import logoFooter from "../assets/uxixd-logo-alt.png";
 
 const Home = ({ data }) => {
   const scrollY = useScrollPosition();
@@ -22,9 +23,11 @@ const Home = ({ data }) => {
     return (
       <li key={`key${gif.day}`} className={`${styles.item} ${styles.itemGif}`}>
         <div className={styles.caption}>
-          <div className={styles.day}><strong>Day </strong>{gif.day}</div>
-          <p>{gif.content}</p>
-          <p className={styles.client}><strong>Client: </strong>{gif.client}</p>
+          <div className={styles.captionInner}>
+            <div className={styles.day}><strong>Day </strong>{gif.day}</div>
+            <p>{gif.content}</p>
+            <p className={styles.client}><strong>Client: </strong>{gif.client}</p>
+          </div>
         </div>
         <div className={styles.gif}>
           {
@@ -43,7 +46,7 @@ const Home = ({ data }) => {
   const noOfBlanks = 100 - gifs.length;
 
   const renderBlanks = [...Array(noOfBlanks)].map((_, i) => (
-    <li className={styles.item} key={`key${i}`}><div className={styles.content} /></li>
+    <li className={`${styles.item} ${styles.itemBlank}`} key={`key${i}`}><div className={styles.content} /></li>
   ));
     
   renderAll.push(renderGifs);
@@ -53,10 +56,13 @@ const Home = ({ data }) => {
     <div className={classes}>
       <header className={styles.header}>
         <div className={styles.headerInner}>
+          <a href="/" className={`${styles.headerButton} ${styles.buttonXX}`} aria-label="XX" />
+          <a href="/" className={`${styles.headerButton} ${styles.buttonLinktree}`} aria-label="Linktree" />
           <div className={styles.headerContent}>
             <h1><StaticImage src="../assets/uxixd-logo.png" alt="UXIXD Gifolio" placeholder="none" /></h1>
             <div className={styles.strapline}>100 days of <strong>UX</strong> &amp; <strong>IXD</strong> gifs</div>
           </div>
+          <a href="/" className={`${styles.headerButton} ${styles.buttonEmail}`} aria-label="Email" />
         </div>
       </header>
       <div className={styles.listWrapper}>
@@ -67,10 +73,10 @@ const Home = ({ data }) => {
       <footer className={styles.footer}>
         <div className={styles.footerInner}>
           <div className={styles.footerLogo}>
-            <StaticImage src="../assets/uxixd-logo-alt.png" alt="UXIXD" placeholder="none" />
+            <img src={logoFooter} alt="UXIXD" />
           </div>
           <div className={styles.footerSmallPrint}>
-            <p>UX, IXD and IP invention with over 20 years experience leading in design with auto and tech brands. UXIXD provides consultancy, research, content creation, conception, direction and expert profile. Founded by <a href="https://www.linkedin.com/in/t-i-m-s-m-i-t-h/" target="_blank">Tim Smith</a>.</p>
+            <p>UX, IXD and IP invention with over 20 years experience leading in design with auto and tech brands. UXIXD provides consultancy, research, content creation, conception, direction and expert profile. Founded by <a href="https://www.linkedin.com/in/t-i-m-s-m-i-t-h/" target="_blank" rel="noreferrer">Tim Smith</a>.</p>
           </div>
           <div className={styles.copyright}>
             <div>&copy; Tim Smith 2023</div>
