@@ -1,5 +1,11 @@
 const gifs = [
   {
+     day: "022",
+     content: "The illusion of making a solid metal cube levitate using precision weight distribution. Not as high as we would've liked.",
+     client: "CenterPlan / Unit9",
+     gif: "huaweicube.mp4"
+   }, 
+  {
      day: "021",
      content: "Architect your own building floorplan as you navigate through this architect's digital showroom.",
      client: "CenterPlan / Unit9",
