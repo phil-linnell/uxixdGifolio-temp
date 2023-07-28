@@ -80,7 +80,7 @@ const Home = ({ data }) => {
           </div>
           <div className={styles.copyright}>
             <div>&copy; Tim Smith 2023</div>
-            <a href="https://uxixd.com/#privacy">Privacy Policy</a>
+            <a href="https://uxixd.com/#privacy" target="_blank">Privacy Policy</a>
           </div>
         </div>
       </footer>
