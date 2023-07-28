@@ -1,10 +1,16 @@
 const gifs = [
-  // {
-  //   day: "018",
-  //   content: "Move map under pin, rather than move pin. A green closing apeture reaffrims focus on selection.",
-  //   client: "Ford / ustwo",
-  //   gif: "fordgoparkzone.mp4"
-  // }, 
+   {
+     day: "019",
+     content: "Design your island on the physical gameboard and see it come to life, mimicked with AR on screem.",
+     client: "Science Museum / GR/DD",
+     gif: "sciencemuseum.mp4"
+   }, 
+  {
+     day: "018",
+     content: "Move map under pin, rather than move pin. A green closing apeture reaffrims focus on selection.",
+     client: "Ford / ustwo",
+     gif: "fordgoparkzone.mp4"
+   }, 
   {
     day: "017",
     content: "Special screens use sound waves so blind people can feel the buttons on a flat touchscreen.",
@@ -62,7 +68,7 @@ const gifs = [
   {
     day: "008",
     content: "E-ink tech means utilisation of a single autonomous vehicle can shift to the cities demands throughout the day.",
-    client: "JLR / ustwo",
+    client: "ustwo",
     gif: "roo.mp4"
   },  
    
