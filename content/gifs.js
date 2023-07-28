@@ -1,5 +1,11 @@
 const gifs = [
  {
+    day: "010",
+    content: "Contextual surface displays for pairing and authorisation feedback.",
+    client: "Garmin",
+    gif: "garmincar.mp4"
+  },  
+ {
     day: "009",
     content: "Contextual actions. Directions back to your car, with beep and flash offered upon approach.",
     client: "JLR / ustwo",
