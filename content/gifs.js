@@ -1,39 +1,45 @@
 edconst gifs = [
   {
+     day: "024",
+     content: "Concept for an interactive sphere using interior projection and touch-sensitive mesh.",
+     client: "NBA / AllofUs",
+     gif: "nbabasketball.mp4"
+   }, 
+  {
      day: "023",
+     content: "Move map under pin, rather than move pin. A green aperture reaffrims focus on selection.",
+     client: "Ford / ustwo",
+     gif: "fordgoparkzone.mp4"
+   }, 
+  {
+     day: "022",
      content: "A 'phygital' twin of a final experience helps test for ditial and physical requirements",
      client: "Coolmore / AllofUs",
      gif: "phygitaltwin.mp4"
    }, 
+   {
+     day: "021",
+     content: "IXD can bring brand delight to packaging - or a raspberry from a virtual pet.",
+     client: "PlayStation",
+     gif: "eyepet.mp4"
+   }, 
   {
-     day: "022",
+     day: "020",
      content: "Making a metal cube levitate using electromagnets and precision weight distribution.",
      client: "Huawei / AllofUs",
      gif: "huaweicube.mp4"
    }, 
   {
-     day: "021",
+     day: "019",
      content: "Architect your own floorplan as you navigate through this architect's digital showroom.",
      client: "CenterPlan / Unit9",
      gif: "centerplanbuild.mp4"
    }, 
-  {
-     day: "020",
-     content: "IXD can bring brand delight to packaging - or a raspberry from a virtual pet.",
-     client: "PlayStation",
-     gif: "eyepet.mp4"
-   }, 
    {
-     day: "019",
+     day: "018",
      content: "Design your island on the physical gameboard and see it come to life with AR on screen.",
      client: "Science Museum",
      gif: "sciencemuseum.mp4"
-   }, 
-  {
-     day: "018",
-     content: "Move map under pin, rather than move pin. A green aperture reaffrims focus on selection.",
-     client: "Ford / ustwo",
-     gif: "fordgoparkzone.mp4"
    }, 
   {
     day: "017",
