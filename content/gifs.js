@@ -1,4 +1,4 @@
-const gifs = [
+edconst gifs = [
   {
      day: "022",
      content: "Making a metal cube levitate using electromagnets and precision weight distribution.",
@@ -19,7 +19,7 @@ const gifs = [
    }, 
    {
      day: "019",
-     content: "Design your island on the physical gameboard and see it come to life with AR on screem.",
+     content: "Design your island on the physical gameboard and see it come to life with AR on screen.",
      client: "Science Museum",
      gif: "sciencemuseum.mp4"
    }, 
@@ -37,7 +37,7 @@ const gifs = [
   },
   {
     day: "016",
-    content: "An AR car configurator with life-size Land Rover so you can picture it in your driveway.",
+    content: "An AR car configurator with life-size Land Rover so you can picture yours in your driveway.",
     client: "JLR / ustwo",
     gif: "jlrar.mp4"
   }, 
@@ -55,7 +55,7 @@ const gifs = [
   },  
  {
     day: "013",
-    content: "Gestures in the car can be problematic. We explored a 'gesture zone' to control the interaction method.",
+    content: "Gestures in the car can be problematic. We explored a 'gesture zone' to rein in the interaction method.",
     client: "Toyota / ustwo",
     gif: "toyotavolume.mp4"
   },  
@@ -67,7 +67,7 @@ const gifs = [
   },  
   {
     day: "011",
-    content: "Connected homes with contextual presets. Ie. Away Mode, Cosy Mode, Part Mode etc.",
+    content: "Connected homes with contextual presets. Ie. 'Away Mode', 'Cosy Mode', 'Party Mode' etc.",
     client: "Garmin",
     gif: "garminhome.mp4"
   },  
@@ -85,14 +85,14 @@ const gifs = [
   },  
   {
     day: "008",
-    content: "E-ink tech means utilisation of a single driverless car can shift to the city's demands through the day.",
+    content: "E-ink tech means utilisation of a single driverless car can shift to the city's demands throughout the day.",
     client: "ustwo",
     gif: "roo.mp4"
   },  
    
   {
     day: "007",
-    content: "Start your car, from your watch - like James Bond.",
+    content: "Start your car, from your watch - just like James Bond.",
     client: "JLR / ustwo",
     gif: "jlrremote.mp4"
   },  
@@ -128,7 +128,7 @@ const gifs = [
   },
   {
     day: "001",
-    content: "Haptic screens use sound waves to mimic the feel of physical buttons for the blind.",
+    content: "We used haptic screens that use sound waves to mimic the feel of physical buttons for the blind.",
     client: "Volkswagen / ustwo",
     gif: "vwblindscreen.mp4"
   }
