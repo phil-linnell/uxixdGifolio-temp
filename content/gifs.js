@@ -1,4 +1,4 @@
-edconst gifs = [
+const gifs = [
   {
      day: "024",
      content: "Concept for an interactive touch sphere using interior projection and touch-sensitive mesh.",
