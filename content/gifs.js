@@ -1,5 +1,11 @@
 const gifs = [
   {
+     day: "023",
+     content: "Simple interactions are often the best, like this radial dial and button combo.",
+     client: "Science Museum",
+     gif: "greenhouse.mp4"
+   }, 
+  {
      day: "022",
      content: "The illusion of making a solid metal cube levitate using precision weight distribution. Not as high as we would've liked.",
      client: "CenterPlan / Unit9",
