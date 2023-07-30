@@ -17,11 +17,11 @@ const gifs = [
     client: "Toyota / ustwo",
     gif: "toyotavolume.mp4"
   },  
-  {
-    day: "027",
-    content: "Contextual surface displays for pairing and authorisation feedback.",
-    client: "Garmin",
-    gif: "garmincar.mp4"
+    {
+     day: "027",
+     content: "IXD can bring brand delight to packaging - or a raspberry from a virtual pet.",
+     client: "PlayStation",
+     gif: "eyepet.mp4"
   },  
   {
     day: "026",
@@ -72,10 +72,10 @@ const gifs = [
     gif: "jlr.mp4"
   }, 
   {
-     day: "018",
-     content: "IXD can bring brand delight to packaging - or a raspberry from a virtual pet.",
-     client: "PlayStation",
-     gif: "eyepet.mp4"
+    day: "018",
+    content: "Contextual surface displays for pairing and authorisation feedback.",
+    client: "Garmin",
+    gif: "garmincar.mp4"
   }, 
   {
      day: "017",
