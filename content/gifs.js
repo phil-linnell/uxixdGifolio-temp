@@ -55,57 +55,57 @@ const gifs = [
   }, 
   {
      day: "021",
-     content: "The motorcycle ignition kicks off the startup for the HMI with a colour-coded systems check.",
-     client: "Ducati",
-     gif: "bikestartup.mp4"
-  }, 
-  {
-     day: "020",
-     content: "Concept for an interactive touch sphere using interior projection and touch-sensitive mesh.",
-     client: "NBA / AllofUs",
-     gif: "nbabasketball.mp4"
-  }, 
-  {
-     day: "019",
      content: "Move map under pin, rather than move pin. A green aperture reaffrims focus on selection.",
      client: "Ford / ustwo",
      gif: "fordgoparkzone.mp4"
   }, 
   {
-     day: "018",
+     day: "020",
      content: "A 'phygital' twin of a working project helps test for digital and physical / ergonomic requirements offsite.",
      client: "AllofUs",
      gif: "phygitaltwin.mp4"
   }, 
   {
-     day: "017",
+     day: "019",
      content: "IXD can bring brand delight to packaging - or a raspberry from a virtual pet.",
      client: "PlayStation",
      gif: "eyepet.mp4"
   }, 
   {
-     day: "016",
+     day: "018",
      content: "A metal cube levitates with electro-magnets + precision weight distribution.",
      client: "Huawei / AllofUs",
      gif: "huaweicube.mp4"
   }, 
   {
-     day: "015",
+     day: "017",
      content: "Architect your own floorplan as you explore the architect's digital showroom.",
      client: "CenterPlan / Unit9",
      gif: "centerplanbuild.mp4"
   }, 
   {
-     day: "014",
+     day: "016",
      content: "Design your island on the physical game-board as it comes to life with AR on screen.",
      client: "Science Museum",
      gif: "sciencemuseum.mp4"
   }, 
   {
-    day: "013",
+    day: "015",
     content: "An AR car configurator with life-size Land Rover so you can picture yours in your driveway.",
     client: "JLR / ustwo",
     gif: "jlrar.mp4"
+  }, 
+  {
+     day: "014",
+     content: "The motorcycle ignition kicks off the startup for the HMI with a colour-coded systems check.",
+     client: "Ducati",
+     gif: "bikestartup.mp4"
+  }, 
+  {
+     day: "013",
+     content: "Concept for an interactive touch sphere using interior projection and touch-sensitive mesh.",
+     client: "NBA / AllofUs",
+     gif: "nbabasketball.mp4"
   }, 
   {
     day: "012",
