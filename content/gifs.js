@@ -55,13 +55,13 @@ const gifs = [
   }, 
   {
      day: "018",
-     content: "Architect your own floorplan as you navigate this architect's digital showroom.",
+     content: "Architect your own floorplan as you navigate this architect's digital home.",
      client: "CenterPlan / Unit9",
      gif: "centerplanbuild.mp4"
   }, 
   {
      day: "017",
-     content: "Design your island on the physical game-board and see it come to life with AR on screen.",
+     content: "Design your island on the physical game-board as it comes to life with AR on screen.",
      client: "Science Museum",
      gif: "sciencemuseum.mp4"
   }, 
