@@ -49,7 +49,7 @@ const gifs = [
   }, 
   {
      day: "022",
-     content: "Shifting seat configuration allows for groups of friends and groups of strangers.",
+     content: "Shifting seat configuration allows for groups of friends or groups of strangers.",
      client: "ustwo",
      gif: "rooseating.mp4"
   }, 
