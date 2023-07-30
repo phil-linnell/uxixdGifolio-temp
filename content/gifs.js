@@ -1,4 +1,4 @@
-const gifs = [
+pconst gifs = [
   {
     day: "027",
     content: "Is a needle pointing at a number the best way to show speed? We explore alternatives.",
@@ -55,7 +55,7 @@ const gifs = [
   }, 
   {
      day: "018",
-     content: "Architect your own floorplan as you navigate this architect's digital home.",
+     content: "Architect your own floorplan as you explore this architect's digital showroom.",
      client: "CenterPlan / Unit9",
      gif: "centerplanbuild.mp4"
   }, 
