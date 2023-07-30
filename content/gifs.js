@@ -1,11 +1,5 @@
 const gifs = [
   {
-    day: "031",
-    content: "Driver's replying to text messages is a danger. This solution informs the sender the recipient is driving.",
-    client: "UCL | ustwo",
-    gif: "textdrive.mp4"
-  }, 
-  {
     day: "030",
     content: "Explore the life-size exterior and interior of your dream car using AR.",
     client: "JLR | ustwo",
