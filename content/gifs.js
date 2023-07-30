@@ -1,118 +1,118 @@
 const gifs = [
-  {
+ {
     day: "027",
-    content: "Is a needle pointing at a number the best way to show speed? We explore alternatives.",
-    client: "ustwo",
-    gif: "ferrari.mp4"
-  },
-  {
-     day: "026",
-     content: "Using VR to safely test our electric vehicle sound designs with doppler effect.",
-     client: "Nissan / ustwo",
-     gif: "evsoundtest.mp4"
-  }, 
-  {
-     day: "025",
-     content: "Shifting seat configuration allows for groups of friends and groups of strangers.",
-     client: "ustwo",
-     gif: "rooseating.mp4"
-  }, 
-  {
-     day: "024",
-     content: "Interactive timeline showing the development of autonomous vehicles.",
-     client: "ustwo",
-     gif: "avtimeline.mp4"
-  }, 
-  {
-     day: "023",
-     content: "Concept for an interactive touch sphere using interior projection and touch-sensitive mesh.",
-     client: "NBA / AllofUs",
-     gif: "nbabasketball.mp4"
-  }, 
-  {
-     day: "022",
-     content: "Move map under pin, rather than move pin. A green aperture reaffrims focus on selection.",
-     client: "Ford / ustwo",
-     gif: "fordgoparkzone.mp4"
-  }, 
-  {
-     day: "021",
-     content: "A 'phygital' twin of a working project helps test for digital and physical / ergonomic requirements offsite.",
-     client: "AllofUs",
-     gif: "phygitaltwin.mp4"
-  }, 
-  {
-     day: "020",
-     content: "IXD can bring brand delight to packaging - or a raspberry from a virtual pet.",
-     client: "PlayStation",
-     gif: "eyepet.mp4"
-  }, 
-  {
-     day: "019",
-     content: "A metal cube levitates with electro-magnets + precision weight distribution.",
-     client: "Huawei / AllofUs",
-     gif: "huaweicube.mp4"
-  }, 
-  {
-     day: "018",
-     content: "Architect your own floorplan as you explore the architect's digital showroom.",
-     client: "CenterPlan / Unit9",
-     gif: "centerplanbuild.mp4"
-  }, 
-  {
-     day: "017",
-     content: "Design your island on the physical game-board as it comes to life with AR on screen.",
-     client: "Science Museum",
-     gif: "sciencemuseum.mp4"
-  }, 
-  {
-    day: "016",
-    content: "An AR car configurator with life-size Land Rover so you can picture yours in your driveway.",
-    client: "JLR / ustwo",
-    gif: "jlrar.mp4"
-  }, 
-  {
-    day: "015",
-    content: "An unboxing narrative that releases components in order of setup steps.",
-    client: "PlayStation",
-    gif: "playtvunbox.mp4"
-  }, 
-  {
-    day: "014",
-    content: "Using facial recognition to detect when the HMI needs to display for the driver.",
-    client: "Toyota / ustwo",
-    gif: "toyotafocus.mp4"
-  },  
-  {
-    day: "013",
     content: "Gestures in the car can be problematic. We explored a 'gesture zone' to rein in the accuracy.",
     client: "Toyota / ustwo",
     gif: "toyotavolume.mp4"
   },  
   {
-    day: "012",
-    content: "When balance and vision don't match, car sickness occurs. Alexa I Spy solves that using real word ojects to spy.",
-    client: "Ford / HMSD",
-    gif: "fordechoauto.mp4"
-  },  
-  {
-    day: "011",
-    content: "Connected homes with contextual presets. Ie. 'Away Mode', 'Cosy Mode', 'Party Mode' etc.",
-    client: "Garmin",
-    gif: "garminhome.mp4"
-  },  
-  {
-    day: "010",
+    day: "026",
     content: "Contextual surface displays for pairing and authorisation feedback.",
     client: "Garmin",
     gif: "garmincar.mp4"
   },  
   {
-    day: "009",
+    day: "025",
     content: "Contextual actions. Directions back to your car, with beep and flash offered upon approach.",
     client: "JLR / ustwo",
     gif: "jlr.mp4"
+  }, 
+  {
+    day: "024",
+    content: "Is a needle pointing at a number the best way to show speed? We explore alternatives.",
+    client: "ustwo",
+    gif: "ferrari.mp4"
+  },
+  {
+     day: "023",
+     content: "Using VR to safely test our electric vehicle sound designs with doppler effect.",
+     client: "Nissan / ustwo",
+     gif: "evsoundtest.mp4"
+  }, 
+  {
+     day: "022",
+     content: "Shifting seat configuration allows for groups of friends and groups of strangers.",
+     client: "ustwo",
+     gif: "rooseating.mp4"
+  }, 
+  {
+     day: "021",
+     content: "Interactive timeline showing the development of autonomous vehicles.",
+     client: "ustwo",
+     gif: "avtimeline.mp4"
+  }, 
+  {
+     day: "020",
+     content: "Concept for an interactive touch sphere using interior projection and touch-sensitive mesh.",
+     client: "NBA / AllofUs",
+     gif: "nbabasketball.mp4"
+  }, 
+  {
+     day: "019",
+     content: "Move map under pin, rather than move pin. A green aperture reaffrims focus on selection.",
+     client: "Ford / ustwo",
+     gif: "fordgoparkzone.mp4"
+  }, 
+  {
+     day: "018",
+     content: "A 'phygital' twin of a working project helps test for digital and physical / ergonomic requirements offsite.",
+     client: "AllofUs",
+     gif: "phygitaltwin.mp4"
+  }, 
+  {
+     day: "017",
+     content: "IXD can bring brand delight to packaging - or a raspberry from a virtual pet.",
+     client: "PlayStation",
+     gif: "eyepet.mp4"
+  }, 
+  {
+     day: "016",
+     content: "A metal cube levitates with electro-magnets + precision weight distribution.",
+     client: "Huawei / AllofUs",
+     gif: "huaweicube.mp4"
+  }, 
+  {
+     day: "015",
+     content: "Architect your own floorplan as you explore the architect's digital showroom.",
+     client: "CenterPlan / Unit9",
+     gif: "centerplanbuild.mp4"
+  }, 
+  {
+     day: "014",
+     content: "Design your island on the physical game-board as it comes to life with AR on screen.",
+     client: "Science Museum",
+     gif: "sciencemuseum.mp4"
+  }, 
+  {
+    day: "013",
+    content: "An AR car configurator with life-size Land Rover so you can picture yours in your driveway.",
+    client: "JLR / ustwo",
+    gif: "jlrar.mp4"
+  }, 
+  {
+    day: "012",
+    content: "An unboxing narrative that releases components in order of setup steps.",
+    client: "PlayStation",
+    gif: "playtvunbox.mp4"
+  }, 
+  {
+    day: "011",
+    content: "Using facial recognition to detect when the HMI needs to display for the driver.",
+    client: "Toyota / ustwo",
+    gif: "toyotafocus.mp4"
   },  
+  {
+    day: "010",
+    content: "When balance and vision don't match, car sickness occurs. Alexa I Spy solves that using real word ojects to spy.",
+    client: "Ford / HMSD",
+    gif: "fordechoauto.mp4"
+  },  
+  {
+    day: "009",
+    content: "Connected homes with contextual presets. Ie. 'Away Mode', 'Cosy Mode', 'Party Mode' etc.",
+    client: "Garmin",
+    gif: "garminhome.mp4"
+  },   
   {
     day: "008",
     content: "E-ink tech means utilisation of a single driverless car can shift to the city's demands throughout the day.",
