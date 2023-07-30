@@ -1,5 +1,11 @@
 const gifs = [
   {
+     day: "025",
+     content: "Interactive timeline showing the development of autonomous vehicles.",
+     client: "ustwo",
+     gif: "avtimeline.mp4"
+  }, 
+  {
      day: "024",
      content: "Concept for an interactive touch sphere using interior projection and touch-sensitive mesh.",
      client: "NBA / AllofUs",
