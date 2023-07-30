@@ -19,12 +19,12 @@ const Home = ({ data }) => {
 
   const renderAll = [];
 
-  const renderGifs = gifs.map(gif => {
+  const renderGifs = gifs.map((gif, i) => {
     return (
       <li key={`key${gif.day}`} className={`${styles.item} ${styles.itemGif}`}>
         <div className={styles.caption}>
           <div className={styles.captionInner}>
-            <div className={styles.day}><strong>Day </strong>{gif.day}</div>
+            <div className={styles.day}>Day {gif.day}</div>
             <p>{gif.content}</p>
             <p className={styles.client}><strong>Client: </strong>{gif.client}</p>
           </div>
@@ -37,7 +37,7 @@ const Home = ({ data }) => {
                 : <img key={item.publicURL} src={item.publicURL} alt="" />
               : "")
           }
-          <div className={styles.itemNumber}>{gif.day}</div>
+          <div className={`${styles.itemNumber} ${i === 0 ? styles.newItem : ""}`}>{i === 0 ? "NEW" : gif.day}</div>
         </div>
       </li>
     );
