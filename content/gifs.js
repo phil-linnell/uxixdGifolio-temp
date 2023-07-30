@@ -55,7 +55,7 @@ const gifs = [
   }, 
   {
      day: "021",
-     content: "The motorcycle ignition kicks off the startup for the HMI with a systems check.",
+     content: "The motorcycle ignition kicks off the startup for the HMI with a colour-coded systems check.",
      client: "Ducati",
      gif: "bikestartup.mp4"
   }, 
