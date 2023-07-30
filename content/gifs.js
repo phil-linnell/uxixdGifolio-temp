@@ -85,7 +85,7 @@ pconst gifs = [
   },  
   {
     day: "013",
-    content: "Gestures in the car can be problematic. We explored a 'gesture zone' to rein in the interaction method.",
+    content: "Gestures in the car can be problematic. We explored a 'gesture zone' to rein in the accuracy.",
     client: "Toyota / ustwo",
     gif: "toyotavolume.mp4"
   },  
