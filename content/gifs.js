@@ -139,7 +139,7 @@ pconst gifs = [
   }, 
   {
     day: "004",
-    content: "Context is key(board). An on-screen keyboard with the space bar centred can save input time.",
+    content: "Context is key(board). An on-screen keyboard with centred spacebar can save input time.",
     client: "Samsung / AllofUs",
     gif: "keyboard.mp4"
   },
