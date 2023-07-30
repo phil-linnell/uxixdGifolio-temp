@@ -8,6 +8,7 @@ import gifs from "../../content/gifs.js";
 import "../styles/base.css";
 import * as styles from "./index.module.css";
 import logoFooter from "../assets/uxixd-logo-alt.png";
+import iconExternal from "../assets/icon-external.png";
 
 const Home = ({ data }) => {
   const scrollY = useScrollPosition();
@@ -59,7 +60,7 @@ const Home = ({ data }) => {
           <div className={`${styles.headerButton} ${styles.buttonXX}`}><a href="https://uxixd.com" aria-label="XX" /></div>
           <div className={`${styles.headerButton} ${styles.buttonLinktree}`}><a href="https://linktr.ee/uxixd" aria-label="Linktree" /></div>
           <div className={styles.headerContent}>
-            <h1><StaticImage src="../assets/uxixd-logo.png" alt="UXIXD Gifolio" placeholder="none" /></h1>
+            <h1><StaticImage src="../assets/uxixd-logo.png" alt="UXIXD Gifolio" /></h1>
             <div className={styles.strapline}>100 days of <strong>UX</strong> &amp; <strong>IXD</strong> gifs</div>
           </div>
           <div className={`${styles.headerButton} ${styles.buttonEmail}`}><a href="mailto:gifolio@uxixd.com" aria-label="Email" /></div>
@@ -79,8 +80,10 @@ const Home = ({ data }) => {
             <p>UX, IXD and IP invention with over 20 years experience leading in design with auto and tech brands. UXIXD provides consultancy, research, content creation, conception, direction and expert profile. Founded by <a href="https://www.linkedin.com/in/t-i-m-s-m-i-t-h/" target="_blank" rel="noreferrer">Tim Smith</a>.</p>
           </div>
           <div className={styles.copyright}>
-            <div><span className={styles.copy}>&copy;</span> Tim Smith 2023</div>
-            <a href="https://uxixd.com/#privacy" target="_blank">Privacy Policy</a>
+            <div>
+              <span className={styles.copy}>&copy;</span> Tim Smith 2023
+            </div>
+            <a href="https://uxixd.com/#privacy" target="_blank">Privacy Policy <img src={iconExternal} alt="" /></a>
           </div>
         </div>
       </footer>
