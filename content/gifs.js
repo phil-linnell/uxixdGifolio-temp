@@ -46,36 +46,36 @@ const gifs = [
      content: "Shifting seat configuration allows for groups of friends or groups of strangers.",
      client: "ustwo",
      gif: "rooseating.mp4"
-  }, 
+  },  
   {
      day: "022",
-     content: "Interactive timeline showing the development of autonomous vehicles.",
-     client: "ustwo",
-     gif: "avtimeline.mp4"
-  }, 
-  {
-     day: "021",
      content: "Move map under pin, rather than move pin. A green aperture reaffrims focus on selection.",
      client: "Ford / ustwo",
      gif: "fordgoparkzone.mp4"
   }, 
   {
-     day: "020",
+     day: "021",
      content: "A 'phygital' twin of a working project helps test for digital and physical / ergonomic requirements offsite.",
      client: "AllofUs",
      gif: "phygitaltwin.mp4"
   }, 
   {
-     day: "019",
-     content: "IXD can bring brand delight to packaging - or a raspberry from a virtual pet.",
-     client: "PlayStation",
-     gif: "eyepet.mp4"
-  }, 
-  {
-     day: "018",
+     day: "020",
      content: "A metal cube levitates with electro-magnets + precision weight distribution.",
      client: "Huawei / AllofUs",
      gif: "huaweicube.mp4"
+  }, 
+  {
+     day: "019",
+     content: "Interactive timeline showing the development of autonomous vehicles.",
+     client: "ustwo",
+     gif: "avtimeline.mp4"
+  },
+  {
+     day: "018",
+     content: "IXD can bring brand delight to packaging - or a raspberry from a virtual pet.",
+     client: "PlayStation",
+     gif: "eyepet.mp4"
   }, 
   {
      day: "017",
