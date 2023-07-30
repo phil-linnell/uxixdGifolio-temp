@@ -49,7 +49,7 @@ const gifs = [
   }, 
   {
      day: "019",
-     content: "Making a metal cube levitate using electro-magnets and precision weight distribution.",
+     content: "A metal cube levitate using electro-magnets and precision weight distribution.",
      client: "Huawei / AllofUs",
      gif: "huaweicube.mp4"
   }, 
@@ -157,8 +157,8 @@ const gifs = [
   },
   {
     day: "001",
-    content: "We used haptic screens that use sound waves to mimic the feel of physical buttons for the blind.",
-    client: "Volkswagen / ustwo",
+    content: "We used haptic screens that use sound waves to mimic the feel of buttons for the blind.",
+    client: "VW / ustwo",
     gif: "vwblindscreen.mp4"
   }
 ];
