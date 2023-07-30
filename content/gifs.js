@@ -31,10 +31,10 @@ const gifs = [
    }, 
   {
     day: "017",
-    content: "Special screens use sound waves so blind people can feel the buttons on a flat touchscreen.",
-    client: "Volkswagen / ustwo",
-    gif: "vwblindscreen.mp4"
-  }, 
+    content: "Dynamic navigation that meets you where most comfortable.",
+    client: "CenterPlan / Unit9",
+    gif: "centerplan.mp4"
+  },
   {
     day: "016",
     content: "An AR car configurator with life-size Land Rover so you can picture it in your driveway.",
@@ -97,7 +97,7 @@ const gifs = [
     gif: "jlrremote.mp4"
   },  
     {
-     day: "06",
+     day: "006",
      content: "Simple interactions are often the best, like this radial dial and button combo.",
      client: "Science Museum",
      gif: "greenhouse.mp4"
@@ -128,9 +128,9 @@ const gifs = [
   },
   {
     day: "001",
-    content: "Dynamic navigation that meets you where most comfortable.",
-    client: "CenterPlan / Unit9",
-    gif: "centerplan.mp4"
+    content: "Special screens use sound waves so blind people can feel the buttons on a flat touchscreen.",
+    client: "Volkswagen / ustwo",
+    gif: "vwblindscreen.mp4"
   }
 ];
 
