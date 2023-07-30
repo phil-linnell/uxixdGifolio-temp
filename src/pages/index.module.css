@@ -219,7 +219,7 @@
 
 .footerLogo {
   margin-left: 7px;
-  width: 100px;
+  width: 120px;
   margin-bottom: 1em;
 }
 .footerLogo img {
@@ -433,7 +433,7 @@
 
 .day,
 .itemNumber {
-  font-size: calc(12px + (20 - 12) * ((100vw - 320px) / (3200 - 320)));
+  font-size: calc(12px + (19 - 12) * ((100vw - 320px) / (3200 - 320)));
   font-family: "SpaceMono", Arial, Helvetica, sans-serif;
 }
 

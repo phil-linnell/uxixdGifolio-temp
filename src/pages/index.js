@@ -60,7 +60,7 @@ const Home = ({ data }) => {
           <div className={`${styles.headerButton} ${styles.buttonXX}`}><a href="https://uxixd.com" aria-label="XX" /></div>
           <div className={`${styles.headerButton} ${styles.buttonLinktree}`}><a href="https://linktr.ee/uxixd" aria-label="Linktree" /></div>
           <div className={styles.headerContent}>
-            <h1><StaticImage src="../assets/uxixd-logo.png" alt="UXIXD Gifolio" /></h1>
+            <h1><StaticImage src="../assets/uxixd-logo.png" alt="UXIXD Gifolio" placeholder="none" /></h1>
             <div className={styles.strapline}>100 days of <strong>UX</strong> &amp; <strong>IXD</strong> gifs</div>
           </div>
           <div className={`${styles.headerButton} ${styles.buttonEmail}`}><a href="mailto:gifolio@uxixd.com" aria-label="Email" /></div>
