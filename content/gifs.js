@@ -1,5 +1,11 @@
 const gifs = [
   {
+    day: "029",
+    content: "Orientation device replaces the tactile info from wing mirrors required by blind passengers to enter.",
+    client: "ustwo",
+    gif: "nubbin.mp4"
+  },  
+  {
     day: "028",
     content: "Reductionist approach for glanceable navigation for motorcyclists.",
     client: "Ducati",
