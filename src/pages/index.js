@@ -79,7 +79,7 @@ const Home = ({ data }) => {
             <p>UX, IXD and IP invention with over 20 years experience leading in design with auto and tech brands. UXIXD provides consultancy, research, content creation, conception, direction and expert profile. Founded by <a href="https://www.linkedin.com/in/t-i-m-s-m-i-t-h/" target="_blank" rel="noreferrer">Tim Smith</a>.</p>
           </div>
           <div className={styles.copyright}>
-            <div>&copy; Tim Smith 2023</div>
+            <div><span className={styles.copy}>&copy;</span> Tim Smith 2023</div>
             <a href="https://uxixd.com/#privacy" target="_blank">Privacy Policy</a>
           </div>
         </div>

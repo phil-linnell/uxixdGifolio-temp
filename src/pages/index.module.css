@@ -245,6 +245,12 @@
   margin-right: 7px;
 }
 
+.copy {
+  font-size: 150%;
+  transform: translateY(31%);
+  display: inline-block;
+}
+
 @media screen and (min-width: 768px) {
   .footerLogo {
     margin-left: 10px;
