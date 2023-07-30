@@ -25,7 +25,7 @@ const gifs = [
   }, 
   {
      day: "022",
-     content: "A 'phygital' twin of a working project helps test for ditial and physical requirements offsite.",
+     content: "A 'phygital' twin of a working project helps test for digital and physical requirements offsite.",
      client: "Coolmore / AllofUs",
      gif: "phygitaltwin.mp4"
   }, 
