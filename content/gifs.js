@@ -1,57 +1,63 @@
 const gifs = [
   {
-    day: "029",
+    day: "030",
     content: "Explore the life-size exterior and interior of your next car using AR.",
     client: "JLR | ustwo",
     gif: "jlrarhmi.mp4"
   },  
   {
-    day: "028",
+    day: "029",
     content: "Reductionist approach for glanceable navigation for motorcyclists.",
     client: "Ducati",
     gif: "ducaticluster.mp4"
   },  
   {
-    day: "027",
+    day: "028",
     content: "Gestures in the car can be problematic. We explored a 'gesture zone' to rein in the accuracy.",
     client: "Toyota / ustwo",
     gif: "toyotavolume.mp4"
   },  
   {
-    day: "026",
+    day: "027",
     content: "Contextual surface displays for pairing and authorisation feedback.",
     client: "Garmin",
     gif: "garmincar.mp4"
   },  
   {
-    day: "025",
+    day: "026",
     content: "Contextual actions. Directions back to your car, with beep and flash offered upon approach.",
     client: "JLR / ustwo",
     gif: "jlr.mp4"
   }, 
   {
-    day: "024",
+    day: "025",
     content: "Is a needle pointing at a number the best way to show speed? We explore alternatives.",
     client: "ustwo",
     gif: "ferrari.mp4"
   },
   {
-     day: "023",
+     day: "024",
      content: "Using VR to safely test our electric vehicle sound designs with doppler effect.",
      client: "Nissan / ustwo",
      gif: "evsoundtest.mp4"
   }, 
   {
-     day: "022",
+     day: "023",
      content: "Shifting seat configuration allows for groups of friends or groups of strangers.",
      client: "ustwo",
      gif: "rooseating.mp4"
   }, 
   {
-     day: "021",
+     day: "022",
      content: "Interactive timeline showing the development of autonomous vehicles.",
      client: "ustwo",
      gif: "avtimeline.mp4"
+  }, 
+  {
+     day: "021",
+     content: "The motorcycle ignition kicks off the startup for the HMI with a systems check.",
+     client: "Ducati",
+     gif: "bikestartup.mp4"
   }, 
   {
      day: "020",
