@@ -1,5 +1,11 @@
 const gifs = [
- {
+  {
+    day: "028",
+    content: "Reductionist approach for glanceable navigation for motorcyclists.",
+    client: "Ducati",
+    gif: "ducaticluster.mp4"
+  },  
+  {
     day: "027",
     content: "Gestures in the car can be problematic. We explored a 'gesture zone' to rein in the accuracy.",
     client: "Toyota / ustwo",
