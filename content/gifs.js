@@ -121,7 +121,7 @@ const gifs = [
   },  
   {
     day: "010",
-    content: "When balance and vision don't match, car sickness occurs. Alexa I Spy solves that using real word ojects to spy.",
+    content: "When balance and vision don't match, car sickness occurs. Alexa I Spy solves that using real-time objects to spy.",
     client: "Ford / HMSD",
     gif: "fordechoauto.mp4"
   },  
