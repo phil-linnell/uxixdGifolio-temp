@@ -55,7 +55,7 @@ const gifs = [
   }, 
   {
      day: "018",
-     content: "Architect your own floorplan as you explore this architect's digital showroom.",
+     content: "Architect your own floorplan as you explore the architect's digital showroom.",
      client: "CenterPlan / Unit9",
      gif: "centerplanbuild.mp4"
   }, 
@@ -133,7 +133,7 @@ const gifs = [
   },  
   {
      day: "005",
-     content: "Simple interactions are often the best, like this radial dial and button gaming combo.",
+     content: "Simple interactions are often the best, like this gaming radial dial and button combo.",
      client: "Science Museum",
      gif: "greenhouse.mp4"
   }, 
