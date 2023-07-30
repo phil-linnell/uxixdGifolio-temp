@@ -1,7 +1,7 @@
 edconst gifs = [
   {
      day: "024",
-     content: "Concept for an interactive sphere using interior projection and touch-sensitive mesh.",
+     content: "Concept for an interactive touch sphere using interior projection and touch-sensitive mesh.",
      client: "NBA / AllofUs",
      gif: "nbabasketball.mp4"
    }, 
