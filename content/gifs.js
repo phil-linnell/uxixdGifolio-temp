@@ -1,8 +1,14 @@
 edconst gifs = [
   {
+     day: "023",
+     content: "A 'phygital' twin of a final experience helps test for ditial and physical requirements",
+     client: "Coolmore / AllofUs",
+     gif: "phygitaltwin.mp4"
+   }, 
+  {
      day: "022",
      content: "Making a metal cube levitate using electromagnets and precision weight distribution.",
-     client: "CenterPlan / Unit9",
+     client: "Huawei / AllofUs",
      gif: "huaweicube.mp4"
    }, 
   {
