@@ -1,70 +1,70 @@
 const gifs = [
   {
-     day: "027",
+    day: "027",
+    content: "Is a needle pointing at a number the best way to show speed? We explore alternatives.",
+    client: "ustwo",
+    gif: "ferrari.mp4"
+  },
+  {
+     day: "026",
      content: "Using VR to safely test our electric vehicle sound designs with doppler effect.",
      client: "Nissan / ustwo",
      gif: "evsoundtest.mp4"
   }, 
   {
-     day: "026",
-     content: "Shifting seat configuration allows for group of friends and group of strangers.",
+     day: "025",
+     content: "Shifting seat configuration allows for groups of friends and groups of strangers.",
      client: "ustwo",
      gif: "rooseating.mp4"
   }, 
   {
-     day: "025",
+     day: "024",
      content: "Interactive timeline showing the development of autonomous vehicles.",
      client: "ustwo",
      gif: "avtimeline.mp4"
   }, 
   {
-     day: "024",
+     day: "023",
      content: "Concept for an interactive touch sphere using interior projection and touch-sensitive mesh.",
      client: "NBA / AllofUs",
      gif: "nbabasketball.mp4"
   }, 
   {
-     day: "023",
+     day: "022",
      content: "Move map under pin, rather than move pin. A green aperture reaffrims focus on selection.",
      client: "Ford / ustwo",
      gif: "fordgoparkzone.mp4"
   }, 
   {
-     day: "022",
+     day: "021",
      content: "A 'phygital' twin of a working project helps test for digital and physical / ergonomic requirements offsite.",
      client: "Coolmore / AllofUs",
      gif: "phygitaltwin.mp4"
   }, 
   {
-     day: "021",
+     day: "020",
      content: "IXD can bring brand delight to packaging - or a raspberry from a virtual pet.",
      client: "PlayStation",
      gif: "eyepet.mp4"
   }, 
   {
-     day: "020",
+     day: "019",
      content: "Making a metal cube levitate using electromagnets and precision weight distribution.",
      client: "Huawei / AllofUs",
      gif: "huaweicube.mp4"
   }, 
   {
-     day: "019",
+     day: "018",
      content: "Architect your own floorplan as you navigate through this architect's digital showroom.",
      client: "CenterPlan / Unit9",
      gif: "centerplanbuild.mp4"
   }, 
   {
-     day: "018",
+     day: "017",
      content: "Design your island on the physical gameboard and see it come to life with AR on screen.",
      client: "Science Museum",
      gif: "sciencemuseum.mp4"
   }, 
-  {
-    day: "017",
-    content: "Dynamic navigation that meets you where most comfortable.",
-    client: "CenterPlan / Unit9",
-    gif: "centerplan.mp4"
-  },
   {
     day: "016",
     content: "An AR car configurator with life-size Land Rover so you can picture yours in your driveway.",
@@ -126,17 +126,17 @@ const gifs = [
     gif: "jlrremote.mp4"
   },  
   {
-     day: "006",
+    day: "006",
+    content: "Decision fatigue? Select an option at random with a 'Surprise me' option.",
+    client: "Micro but Many",
+    gif: "randomcar.mp4"
+  },  
+  {
+     day: "005",
      content: "Simple interactions are often the best, like this radial dial and button gaming combo.",
      client: "Science Museum",
      gif: "greenhouse.mp4"
   }, 
-  {
-    day: "005",
-    content: "Is a needle pointing at a number the best way to show speed? We explore alternatives.",
-    client: "ustwo",
-    gif: "ferrari.mp4"
-  },
   {
     day: "004",
     content: "Context is key(board). An on-screen keyboard with the space bar centred can save input time.",
@@ -144,10 +144,10 @@ const gifs = [
     gif: "keyboard.mp4"
   },
   {
-    day: "003",
-    content: "Decision fatigue? Select an option at random with a 'Surprise me' option.",
-    client: "Micro but Many",
-    gif: "randomcar.mp4"
+    day: "03",
+    content: "Dynamic navigation that meets you where most comfortable.",
+    client: "CenterPlan / Unit9",
+    gif: "centerplan.mp4"
   },
   {
     day: "002",
