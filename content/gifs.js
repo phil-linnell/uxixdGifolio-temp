@@ -4,43 +4,43 @@ edconst gifs = [
      content: "Concept for an interactive touch sphere using interior projection and touch-sensitive mesh.",
      client: "NBA / AllofUs",
      gif: "nbabasketball.mp4"
-   }, 
+  }, 
   {
      day: "023",
      content: "Move map under pin, rather than move pin. A green aperture reaffrims focus on selection.",
      client: "Ford / ustwo",
      gif: "fordgoparkzone.mp4"
-   }, 
+  }, 
   {
      day: "022",
      content: "A 'phygital' twin of a final experience helps test for ditial and physical requirements",
      client: "Coolmore / AllofUs",
      gif: "phygitaltwin.mp4"
-   }, 
-   {
+  }, 
+  {
      day: "021",
      content: "IXD can bring brand delight to packaging - or a raspberry from a virtual pet.",
      client: "PlayStation",
      gif: "eyepet.mp4"
-   }, 
+  }, 
   {
      day: "020",
      content: "Making a metal cube levitate using electromagnets and precision weight distribution.",
      client: "Huawei / AllofUs",
      gif: "huaweicube.mp4"
-   }, 
+  }, 
   {
      day: "019",
      content: "Architect your own floorplan as you navigate through this architect's digital showroom.",
      client: "CenterPlan / Unit9",
      gif: "centerplanbuild.mp4"
-   }, 
-   {
+  }, 
+  {
      day: "018",
      content: "Design your island on the physical gameboard and see it come to life with AR on screen.",
      client: "Science Museum",
      gif: "sciencemuseum.mp4"
-   }, 
+  }, 
   {
     day: "017",
     content: "Dynamic navigation that meets you where most comfortable.",
@@ -65,7 +65,7 @@ edconst gifs = [
     client: "Toyota / ustwo",
     gif: "toyotafocus.mp4"
   },  
- {
+  {
     day: "013",
     content: "Gestures in the car can be problematic. We explored a 'gesture zone' to rein in the interaction method.",
     client: "Toyota / ustwo",
@@ -100,20 +100,19 @@ edconst gifs = [
     content: "E-ink tech means utilisation of a single driverless car can shift to the city's demands throughout the day.",
     client: "ustwo",
     gif: "roo.mp4"
-  },  
-   
+  },     
   {
     day: "007",
     content: "Start your car, from your watch - just like James Bond.",
     client: "JLR / ustwo",
     gif: "jlrremote.mp4"
   },  
-    {
+  {
      day: "006",
      content: "Simple interactions are often the best, like this radial dial and button gaming combo.",
      client: "Science Museum",
      gif: "greenhouse.mp4"
-   }, 
+  }, 
   {
     day: "005",
     content: "Is a needle pointing at a number the best way to show speed? We explore alternatives.",
