@@ -49,7 +49,7 @@ const gifs = [
   }, 
   {
      day: "019",
-     content: "A metal cube levitate using electro-magnets and precision weight distribution.",
+     content: "A metal cube levitates with electro-magnets + precision weight distribution.",
      client: "Huawei / AllofUs",
      gif: "huaweicube.mp4"
   }, 
