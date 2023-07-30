@@ -1,4 +1,4 @@
-pconst gifs = [
+const gifs = [
   {
     day: "027",
     content: "Is a needle pointing at a number the best way to show speed? We explore alternatives.",
