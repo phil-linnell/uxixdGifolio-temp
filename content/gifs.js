@@ -1,31 +1,31 @@
 const gifs = [
   {
      day: "022",
-     content: "The illusion of making a solid metal cube levitate using precision weight distribution. Not as high as we would've liked.",
+     content: "Making a metal cube levitate using electromagnets and precision weight distribution.",
      client: "CenterPlan / Unit9",
      gif: "huaweicube.mp4"
    }, 
   {
      day: "021",
-     content: "Architect your own building floorplan as you navigate through this architect's digital showroom.",
+     content: "Architect your own floorplan as you navigate through this architect's digital showroom.",
      client: "CenterPlan / Unit9",
      gif: "centerplanbuild.mp4"
    }, 
   {
      day: "020",
-     content: "Packaging is where interaction design can bring brand delight - or a raspberry from a new virtual pet.",
+     content: "IXD can bring brand delight to packaging - or a raspberry from a virtual pet.",
      client: "PlayStation",
      gif: "eyepet.mp4"
    }, 
    {
      day: "019",
-     content: "Design your island on the physical gameboard and see it come to life, mimicked with AR on screem.",
+     content: "Design your island on the physical gameboard and see it come to life with AR on screem.",
      client: "Science Museum",
      gif: "sciencemuseum.mp4"
    }, 
   {
      day: "018",
-     content: "Move map under pin, rather than move pin. A green closing apeture reaffrims focus on selection.",
+     content: "Move map under pin, rather than move pin. A green aperture reaffrims focus on selection.",
      client: "Ford / ustwo",
      gif: "fordgoparkzone.mp4"
    }, 
@@ -43,7 +43,7 @@ const gifs = [
   }, 
   {
     day: "015",
-    content: "An unboxing narrative that releases components in order of installation steps.",
+    content: "An unboxing narrative that releases components in order of setup steps.",
     client: "PlayStation",
     gif: "playtvunbox.mp4"
   }, 
@@ -61,7 +61,7 @@ const gifs = [
   },  
   {
     day: "012",
-    content: "Motion sickness happens when our balance and vision don't match. This game of Alexa I Spy solves that using real word items from around the car.",
+    content: "When balance and vision don't match, car sickness occurs. Alexa I Spy solves that using real word ojects to spy.",
     client: "Ford / HMSD",
     gif: "fordechoauto.mp4"
   },  
@@ -85,7 +85,7 @@ const gifs = [
   },  
   {
     day: "008",
-    content: "E-ink tech means utilisation of a single autonomous vehicle can shift to the cities demands throughout the day.",
+    content: "E-ink tech means utilisation of a single driverless car can shift to the city's demands through the day.",
     client: "ustwo",
     gif: "roo.mp4"
   },  
@@ -98,13 +98,13 @@ const gifs = [
   },  
     {
      day: "006",
-     content: "Simple interactions are often the best, like this radial dial and button combo.",
+     content: "Simple interactions are often the best, like this radial dial and button gaming combo.",
      client: "Science Museum",
      gif: "greenhouse.mp4"
    }, 
   {
     day: "005",
-    content: "Is a needle pointing at a number the best way to show speed?",
+    content: "Is a needle pointing at a number the best way to show speed? We explore alternatives.",
     client: "ustwo",
     gif: "ferrari.mp4"
   },
@@ -122,13 +122,13 @@ const gifs = [
   },
   {
     day: "002",
-    content: "Indicate speed exceeds the road's limit with peripheral colour.",
+    content: "Indicate driver's speed exceeds the road's limit with peripheral colour.",
     client: "Citroën / ustwo",
     gif: "cluster.mp4"
   },
   {
     day: "001",
-    content: "Special screens use sound waves so blind people can feel the buttons on a flat touchscreen.",
+    content: "Haptic screens use sound waves to mimic the feel of physical buttons for the blind.",
     client: "Volkswagen / ustwo",
     gif: "vwblindscreen.mp4"
   }
