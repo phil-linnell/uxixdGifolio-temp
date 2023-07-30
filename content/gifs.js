@@ -1,5 +1,11 @@
 const gifs = [
   {
+     day: "026",
+     content: "Shifting seat configuration allows for group of friends and group of strangers.",
+     client: "ustwo",
+     gif: "rooseating.mp4"
+  }, 
+  {
      day: "025",
      content: "Interactive timeline showing the development of autonomous vehicles.",
      client: "ustwo",
