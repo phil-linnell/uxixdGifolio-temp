@@ -1,7 +1,7 @@
 const gifs = [
   {
     day: "030",
-    content: "Explore the life-size exterior and interior of your next car using AR.",
+    content: "Explore the life-size exterior and interior of your dream car using AR.",
     client: "JLR | ustwo",
     gif: "jlrarhmi.mp4"
   },  
