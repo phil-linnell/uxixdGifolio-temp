@@ -1,5 +1,11 @@
 const gifs = [
   {
+    day: "030",
+    content: "Checkout the exterior and interior of a vehicle life-sized using AR.",
+    client: "JLR | ustwo",
+    gif: "jlrarhmi.mp4"
+  },  
+  {
     day: "029",
     content: "Orientation device replaces the tactile info from wing mirrors required by blind passengers to enter.",
     client: "ustwo",
