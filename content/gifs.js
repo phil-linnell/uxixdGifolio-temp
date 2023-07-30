@@ -38,7 +38,7 @@ const gifs = [
   {
      day: "021",
      content: "A 'phygital' twin of a working project helps test for digital and physical / ergonomic requirements offsite.",
-     client: "Coolmore / AllofUs",
+     client: "AllofUs",
      gif: "phygitaltwin.mp4"
   }, 
   {
@@ -49,7 +49,7 @@ const gifs = [
   }, 
   {
      day: "019",
-     content: "Making a metal cube levitate using electromagnets and precision weight distribution.",
+     content: "Making a metal cube levitate using electro-magnets and precision weight distribution.",
      client: "Huawei / AllofUs",
      gif: "huaweicube.mp4"
   }, 
