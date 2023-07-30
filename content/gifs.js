@@ -25,52 +25,52 @@ const gifs = [
   },  
   {
     day: "026",
-    content: "Contextual actions. Directions back to your car, with beep and flash offered upon approach.",
-    client: "JLR / ustwo",
-    gif: "jlr.mp4"
-  }, 
-  {
-    day: "025",
     content: "Is a needle pointing at a number the best way to show speed? We explore alternatives.",
     client: "ustwo",
     gif: "ferrari.mp4"
   },
   {
-     day: "024",
+     day: "025",
      content: "Using VR to safely test our electric vehicle sound designs with doppler effect.",
      client: "Nissan / ustwo",
      gif: "evsoundtest.mp4"
   }, 
   {
-     day: "023",
+     day: "024",
      content: "Shifting seat configuration allows for groups of friends or groups of strangers.",
      client: "ustwo",
      gif: "rooseating.mp4"
   },  
   {
-     day: "022",
+     day: "023",
      content: "Move map under pin, rather than move pin. A green aperture reaffrims focus on selection.",
      client: "Ford / ustwo",
      gif: "fordgoparkzone.mp4"
   }, 
   {
-     day: "021",
+     day: "022",
      content: "A 'phygital' twin of a working project helps test for digital and physical / ergonomic requirements offsite.",
      client: "AllofUs",
      gif: "phygitaltwin.mp4"
   }, 
   {
-     day: "020",
+     day: "021",
      content: "A metal cube levitates with electro-magnets + precision weight distribution.",
      client: "Huawei / AllofUs",
      gif: "huaweicube.mp4"
   }, 
   {
-     day: "019",
+     day: "020",
      content: "Interactive timeline showing the development of autonomous vehicles.",
      client: "ustwo",
      gif: "avtimeline.mp4"
   },
+    {
+    day: "019",
+    content: "Contextual actions. Directions back to your car, with beep and flash offered upon approach.",
+    client: "JLR / ustwo",
+    gif: "jlr.mp4"
+  }, 
   {
      day: "018",
      content: "IXD can bring brand delight to packaging - or a raspberry from a virtual pet.",
