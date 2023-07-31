@@ -1,5 +1,11 @@
 const gifs = [
   {
+    day: "042",
+    content: "An AV should not provide a crossing for a pedestrian, unless the road's full width can be provided.",
+    client: "OEM X",
+    gif: "avcrossing.mp4"
+  }, 
+  {
     day: "041",
     content: "Some fun for a Saturday. An old educational Flash game I designed and co-developed for the British Museum.",
     client: "British Museum",
