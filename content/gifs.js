@@ -13,7 +13,7 @@ const gifs = [
   },  
     {
      day: "028",
-     content: "Simple interactions are often the best, like this gaming radial dial and button combo.",
+     content: "Simple interactions are often best, like this gaming radial dial + button combo.",
      client: "Science Museum",
      gif: "greenhouse.mp4"
   }, 
@@ -133,7 +133,7 @@ const gifs = [
   },   
   {
     day: "008",
-    content: "E-ink tech means utilisation of a single driverless car can shift to the city's demands throughout the day.",
+    content: "E-ink tech means utilisation of a single AV can shift to the city's demands throughout the day.",
     client: "ustwo",
     gif: "roo.mp4"
   },     
