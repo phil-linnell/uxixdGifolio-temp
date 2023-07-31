@@ -11,12 +11,12 @@ const gifs = [
     //client: "Worldpay",
     //gif: "worldpayart.mp4"
 //  },  
-  {
-    day: "032",
-    content: "Bouba is round and bouncy. Kiki is sharp and direct. We used personality to prioritise info.",
-    client: "OEM X",
-    gif: "boubakiki.mp4"
-  },  
+ // {
+    //day: "032",
+    //content: "Bouba is round and bouncy. Kiki is sharp and direct. We used personality to prioritise info.",
+    //client: "OEM X",
+    //gif: "boubakiki.mp4"
+ // },  
   {
     day: "031",
     content: "Explore the life-size exterior and interior of your dream car using AR.",
