@@ -1,5 +1,11 @@
 const gifs = [
   {
+    day: "033",
+    content: "We combined data with creativity, enabling users to output art from the data they layer.",
+    client: "Worldpay",
+    gif: "worldpayart.mp4"
+  },  
+  {
     day: "032",
     content: "Bouba is round and bouncy. Kiki is sharp and direct. We used personality to prioritise info.",
     client: "OEM X",
