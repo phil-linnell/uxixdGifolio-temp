@@ -7,7 +7,7 @@ const gifs = [
   },  
   {
     day: "033",
-    content: "Combining driver permit and parking data, GoPark instantly displays parking bay eligibility.",
+    content: "Combining driver permit and parking data, GoPark instantly displays parking bay eligibility in situ.",
     client: "Ford | ustwo",
     gif: "fordgopark.mp4"
   },  
