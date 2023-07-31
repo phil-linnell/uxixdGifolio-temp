@@ -17,12 +17,12 @@ const gifs = [
     //client: "OEM X",
     //gif: "boubakiki.mp4"
  // },  
-  {
-    day: "031",
-    content: "Explore the life-size exterior and interior of your dream car using AR.",
-    client: "JLR | ustwo",
-    gif: "jlrarhmi.mp4"
-  },  
+  //{
+    //day: "031",
+    //content: "Explore the life-size exterior and interior of your dream car using AR.",
+    //client: "JLR | ustwo",
+    //gif: "jlrarhmi.mp4"
+ // },  
   {
      day: "030",
      content: "IXD can bring brand delight to packaging - or a raspberry from a virtual pet.",
