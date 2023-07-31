@@ -1,5 +1,11 @@
 const gifs = [
   {
+    day: "032",
+    content: "Bouba and Kiki. Bouba is round and bouncy. Kiki is sharp and direct. .",
+    client: "ustwo",
+    gif: "boubakiki.mp4"
+  },  
+  {
     day: "031",
     content: "Explore the life-size exterior and interior of your dream car using AR.",
     client: "JLR | ustwo",
