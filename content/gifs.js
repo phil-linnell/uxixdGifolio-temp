@@ -1,11 +1,5 @@
 const gifs = [
   {
-    day: "038",
-    content: "The lenticular cover for my book on my toy car collection shows of their opening doors!",
-    client: "Micro but Many",
-    gif: "microlenticular.mp4"
-  }, 
-  {
     day: "037",
     content: "I asked a classroom of 10-year-olds to draw what they would want from a driverless car.",
     client: "NewTerritory",
