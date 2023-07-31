@@ -1,7 +1,7 @@
 const gifs = [
   {
     day: "038",
-    content: "The lenticular cover for my book on my toy car collection shows of their opening doors!",
+    content: "My book about my toy car collection shows off their opening doors with it's lenticular cover!",
     client: "Micro but Many",
     gif: "microlenticular.mp4"
   }, 
