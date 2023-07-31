@@ -1,4 +1,5 @@
 const gifs = [
+
   {
     day: "042",
     content: "An AV should not provide a crossing for a pedestrian, unless the road's full width can be provided.",
@@ -35,7 +36,7 @@ const gifs = [
     client: "NewTerritory",
     gif: "avkids.mp4"
   }, 
-   {
+  {
     day: "036",
     content: "Reductionist approach to glanceable turn-by-turn motorcycle navigation.",
     client: "Ducati",
@@ -83,13 +84,13 @@ const gifs = [
     client: "Toyota | ustwo",
     gif: "toyotavolume.mp4"
   },  
-    {
+  {
      day: "028",
      content: "Simple interactions are often best, like this gaming radial dial + button combo.",
      client: "Science Museum",
      gif: "greenhouse.mp4"
   }, 
-    {
+  {
     day: "027",
     content: "Real sand is driven into reclaimed tyres for this off-road racing game.",
     client: "PlayStation",
@@ -137,7 +138,7 @@ const gifs = [
      client: "ustwo",
      gif: "avtimeline.mp4"
   },
-    {
+  {
     day: "019",
     content: "Contextual actions. Directions back to your car, with beep and flash offered upon approach.",
     client: "JLR | ustwo",
