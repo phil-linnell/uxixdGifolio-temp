@@ -1,7 +1,7 @@
 const gifs = [
    {
     day: "036",
-    content: "Reductionist approach for glanceable turn-by-turn motorcycle navigation.",
+    content: "Reductionist approach to glanceable turn-by-turn motorcycle navigation.",
     client: "Ducati",
     gif: "ducaticluster.mp4"
   },  
