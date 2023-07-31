@@ -1,5 +1,11 @@
 const gifs = [
   {
+    day: "035",
+    content: "Touch interactives such provide time and surfaces to rest the arm between interactions.",
+    client: "Science Museum",
+    gif: "whoami.mp4"
+  }, 
+  {
     day: "034",
     content: "We combined data with creativity, enabling users to output art from the data they layer.",
     client: "Worldpay",
