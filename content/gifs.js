@@ -6,6 +6,12 @@ const gifs = [
     gif: "britishmuseum.mp4"
   }, 
   {
+    day: "040",
+    content: "Closure experience; an AV should acknowledge a thank you gesture to establish human-machine respect.",
+    client: "OEM X",
+    gif: "avclosure.mp4"
+  }, 
+  {
     day: "039",
     content: "Pause live TV at any moment to bring up contextually relevant additional content.",
     client: "Samsung | AllofUs",
