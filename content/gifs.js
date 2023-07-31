@@ -199,7 +199,7 @@ const gifs = [
   },
   {
     day: "001",
-    content: "We used haptic screens that use sound waves to mimic the feel of buttons for the blind.",
+    content: "We used haptic screens that utilise sound waves to mimic the feel of buttons for the blind.",
     client: "VW | ustwo",
     gif: "vwblindscreen.mp4"
   }
