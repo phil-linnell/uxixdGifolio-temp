@@ -12,10 +12,10 @@ const gifs = [
     gif: "britishmuseum.mp4"
   }, 
   {
-    day: "040",
-    content: "Closure experience; an AV should acknowledge a thank you gesture to establish human-machine respect.",
-    client: "OEM X",
-    gif: "avclosure.mp4"
+     day: "040",
+     content: "The motorcycle ignition kicks off the startup for the HMI with a colour-coded systems check.",
+     client: "Ducati",
+     gif: "bikestartup.mp4"
   }, 
   {
     day: "039",
@@ -168,10 +168,10 @@ const gifs = [
     gif: "jlrar.mp4"
   }, 
   {
-     day: "014",
-     content: "The motorcycle ignition kicks off the startup for the HMI with a colour-coded systems check.",
-     client: "Ducati",
-     gif: "bikestartup.mp4"
+    day: "014",
+    content: "Closure experience; an AV should acknowledge a thank you gesture to establish human-machine respect.",
+    client: "OEM X",
+    gif: "avclosure.mp4"
   }, 
   {
      day: "013",
