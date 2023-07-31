@@ -191,11 +191,11 @@ const gifs = [
     client: "Samsung | AllofUs",
     gif: "keyboard.mp4"
   },
-    {
+  {
     day: "004",
-    content: "Build fast, learn fast. The prototypical approach to interaction design.",
-    client: "Toyota | ustwo",
-    gif: "toyotabuck.mp4"
+    content: "We used haptic screens that utilise sound waves to mimic the feel of buttons for the blind.",
+    client: "VW | ustwo",
+    gif: "vwblindscreen.mp4"
   }, 
   {
     day: "03",
@@ -211,9 +211,9 @@ const gifs = [
   },
   {
     day: "001",
-    content: "We used haptic screens that utilise sound waves to mimic the feel of buttons for the blind.",
-    client: "VW | ustwo",
-    gif: "vwblindscreen.mp4"
+    content: "Where it all began. Build fast, learn fast. The prototypical approach to interaction design.",
+    client: "Toyota | ustwo",
+    gif: "toyotabuck.mp4"
   }
 ];
 
