@@ -187,7 +187,7 @@ const gifs = [
   }, 
   {
     day: "011",
-    content: "Using facial recognition to detect when the HMI needs to display for the driver.",
+    content: "Using an Xbox Kinect camera for gaze detection to detect when the HMI needs to display for the driver.",
     client: "Toyota | ustwo",
     gif: "toyotafocus.mp4"
   },  
