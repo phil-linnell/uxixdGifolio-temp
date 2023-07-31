@@ -1,10 +1,10 @@
 const gifs = [
-  {
-    day: "036",
-    content: "Build fast, learn fast. The prototypical approach to interaction design.",
-    client: "Toyota | ustwo",
-    gif: "toyotabuck.mp4"
-  }, 
+   {
+    day: "36",
+    content: "Reductionist approach for glanceable navigation for motorcyclists.",
+    client: "Ducati",
+    gif: "ducaticluster.mp4"
+  },  
   {
     day: "035",
     content: "Touch interactives should provide time to rest the arm between taps.",
@@ -192,11 +192,11 @@ const gifs = [
     gif: "keyboard.mp4"
   },
     {
-    day: "04",
-    content: "Reductionist approach for glanceable navigation for motorcyclists.",
-    client: "Ducati",
-    gif: "ducaticluster.mp4"
-  },  
+    day: "004",
+    content: "Build fast, learn fast. The prototypical approach to interaction design.",
+    client: "Toyota | ustwo",
+    gif: "toyotabuck.mp4"
+  }, 
   {
     day: "03",
     content: "Dynamic navigation that meets you where most comfortable.",
