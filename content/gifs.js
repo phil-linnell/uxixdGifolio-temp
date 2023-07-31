@@ -151,7 +151,7 @@ const gifs = [
   },  
   {
     day: "005",
-    content: "Context is key(board). An on-screen keyboard with centred spacebar can save input time.",
+    content: "Context is key(board). A centred spacebar on-screen keyboard can save input time.",
     client: "Samsung | AllofUs",
     gif: "keyboard.mp4"
   },
