@@ -1,7 +1,7 @@
 const gifs = [
   {
     day: "032",
-    content: "Bouba and Kiki. Bouba is round and bouncy. Kiki is sharp and direct.",
+    content: "Bouba is round and bouncy. Kiki is sharp and direct. We can use this for prioritising info.",
     client: "ustwo",
     gif: "boubakiki.mp4"
   },  
