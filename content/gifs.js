@@ -31,7 +31,7 @@ const gifs = [
   },  
   {
     day: "029",
-    content: "Gestures in the car can be problematic. We explored a 'gesture zone' to rein in the accuracy.",
+    content: "Gestures in the car can be problematic. We explored a 'gesture zone' to rein in the ambiguity.",
     client: "Toyota | ustwo",
     gif: "toyotavolume.mp4"
   },  
