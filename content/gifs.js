@@ -1,5 +1,11 @@
 const gifs = [
   {
+    day: "036",
+    content: "Build fast, learn fast. The prototypical approach to interaction design.",
+    client: "Toyota | ustwo",
+    gif: "toyotabuck.mp4"
+  }, 
+  {
     day: "035",
     content: "Touch interactives such provide time and surfaces to rest the arm between taps.",
     client: "Science Museum",
