@@ -3,7 +3,7 @@ const gifs = [
     day: "041",
     content: "Some fun for a Saturday. An old educational Flash game I designed and co-developed for the British Museum.",
     client: "British Museum",
-    gif: "britishmuseu,.mp4"
+    gif: "britishmuseum.mp4"
   }, 
   {
     day: "039",
