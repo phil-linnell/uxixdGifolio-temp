@@ -1,5 +1,11 @@
 const gifs = [
   {
+    day: "039",
+    content: "Pause live TV at any moment to bring up contextually relevant additional content.",
+    client: "Samsung | AllofUs",
+    gif: "samsungtv.mp4"
+  }, 
+  {
     day: "038",
     content: "My book about my toy car collection shows off their opening doors with it's lenticular cover!",
     client: "Micro but Many",
