@@ -1,6 +1,6 @@
 const gifs = [
    {
-    day: "36",
+    day: "036",
     content: "Reductionist approach for glanceable navigation for motorcyclists.",
     client: "Ducati",
     gif: "ducaticluster.mp4"
@@ -198,7 +198,7 @@ const gifs = [
     gif: "vwblindscreen.mp4"
   }, 
   {
-    day: "03",
+    day: "003",
     content: "Dynamic navigation that meets you where most comfortable.",
     client: "CenterPlan | Unit9",
     gif: "centerplan.mp4"
