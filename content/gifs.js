@@ -1,10 +1,16 @@
 const gifs = [
   {
-    day: "030",
+    day: "031",
     content: "Explore the life-size exterior and interior of your dream car using AR.",
     client: "JLR | ustwo",
     gif: "jlrarhmi.mp4"
   },  
+  {
+    day: "030",
+    content: "Real sand is driven into reclaimed tyres for this off-road racing game.",
+    client: "PlayStation",
+    gif: "sandkit.mp4"
+  }, 
   {
     day: "029",
     content: "Gestures in the car can be problematic. We explored a 'gesture zone' to rein in the accuracy.",
