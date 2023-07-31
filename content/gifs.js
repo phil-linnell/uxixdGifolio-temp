@@ -1,28 +1,28 @@
 const gifs = [
   {
     day: "034",
-    content: "Combining driver permit and parking data, GoPark inform you if you can or cannot park here.",
+    content: "Combining driver permit and parking data, GoPark instantly displays parking bay eligibility.",
     client: "Ford | ustwo",
     gif: "fordgopark.mp4"
   },  
-  //{
-    //day: "033",
-    //content: "We combined data with creativity, enabling users to output art from the data they layer.",
-    //client: "Worldpay",
-    //gif: "worldpayart.mp4"
-//  },  
- // {
-    //day: "032",
-    //content: "Bouba is round and bouncy. Kiki is sharp and direct. We used personality to prioritise info.",
-    //client: "OEM X",
-    //gif: "boubakiki.mp4"
- // },  
-  //{
-    //day: "031",
-    //content: "Explore the life-size exterior and interior of your dream car using AR.",
-    //client: "JLR | ustwo",
-    //gif: "jlrarhmi.mp4"
- // },  
+ {
+    day: "033",
+    content: "We combined data with creativity, enabling users to output art from the data they layer.",
+    client: "Worldpay",
+    gif: "worldpayart.mp4"
+ },  
+  {
+    day: "032",
+    content: "Bouba is round and bouncy. Kiki is sharp and direct. We used personality to prioritise info.",
+    client: "OEM X",
+    gif: "boubakiki.mp4"
+  },  
+  {
+    day: "031",
+    content: "Explore the life-size exterior and interior of your dream car using AR.",
+    client: "JLR | ustwo",
+    gif: "jlrarhmi.mp4"
+  },  
   {
      day: "030",
      content: "IXD can bring brand delight to packaging - or a raspberry from a virtual pet.",
