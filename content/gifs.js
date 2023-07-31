@@ -1,16 +1,16 @@
 const gifs = [
   {
     day: "034",
+    content: "We combined data with creativity, enabling users to output art from the data they layer.",
+    client: "Worldpay",
+    gif: "worldpayart.mp4"
+  },  
+  {
+    day: "033",
     content: "Combining driver permit and parking data, GoPark instantly displays parking bay eligibility.",
     client: "Ford | ustwo",
     gif: "fordgopark.mp4"
   },  
- {
-    day: "033",
-    content: "We combined data with creativity, enabling users to output art from the data they layer.",
-    client: "Worldpay",
-    gif: "worldpayart.mp4"
- },  
   {
     day: "032",
     content: "Bouba is round and bouncy. Kiki is sharp and direct. We used personality to prioritise info.",
