@@ -1,5 +1,11 @@
 const gifs = [
   {
+    day: "041",
+    content: "Some fun for a Saturday. An old educational Flash game I designed and co-developed for the British Museum.",
+    client: "British Museum",
+    gif: "britishmuseu,.mp4"
+  }, 
+  {
     day: "039",
     content: "Pause live TV at any moment to bring up contextually relevant additional content.",
     client: "Samsung | AllofUs",
