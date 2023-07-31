@@ -7,16 +7,16 @@ const gifs = [
   },  
   {
     day: "029",
-    content: "Reductionist approach for glanceable navigation for motorcyclists.",
-    client: "Ducati",
-    gif: "ducaticluster.mp4"
-  },  
-  {
-    day: "028",
     content: "Gestures in the car can be problematic. We explored a 'gesture zone' to rein in the accuracy.",
     client: "Toyota / ustwo",
     gif: "toyotavolume.mp4"
   },  
+    {
+     day: "028",
+     content: "Simple interactions are often the best, like this gaming radial dial and button combo.",
+     client: "Science Museum",
+     gif: "greenhouse.mp4"
+  }, 
     {
      day: "027",
      content: "IXD can bring brand delight to packaging - or a raspberry from a virtual pet.",
@@ -150,17 +150,17 @@ const gifs = [
     gif: "randomcar.mp4"
   },  
   {
-     day: "005",
-     content: "Simple interactions are often the best, like this gaming radial dial and button combo.",
-     client: "Science Museum",
-     gif: "greenhouse.mp4"
-  }, 
-  {
-    day: "004",
+    day: "005",
     content: "Context is key(board). An on-screen keyboard with centred spacebar can save input time.",
     client: "Samsung / AllofUs",
     gif: "keyboard.mp4"
   },
+    {
+    day: "04",
+    content: "Reductionist approach for glanceable navigation for motorcyclists.",
+    client: "Ducati",
+    gif: "ducaticluster.mp4"
+  },  
   {
     day: "03",
     content: "Dynamic navigation that meets you where most comfortable.",
