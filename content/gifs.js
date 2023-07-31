@@ -1,5 +1,11 @@
 const gifs = [
   {
+    day: "034",
+    content: "Combining driver permit and parking data, GoPark inform you if you can or cannot park here.",
+    client: "Ford | ustwo",
+    gif: "fordgopark.mp4"
+  },  
+  {
     day: "033",
     content: "We combined data with creativity, enabling users to output art from the data they layer.",
     client: "Worldpay",
