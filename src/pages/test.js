@@ -34,7 +34,7 @@ const Test = ({ data }) => {
           {
             allGifs.map(item => item.relativePath === gif.gif
               ? item.extension === "mp4"
-                ? <video key={item.relativePath} src={item.publicURL} autoPlay loop playsInline muted><track kind="captions" /></video>
+                ? <video key={item.relativePath} autoPlay loop playsInline muted><source src={item.publicURL} type="video/mp4" /><track kind="captions" /></video>
                 : <img key={item.publicURL} src={item.publicURL} alt="" />
               : "")
           }
