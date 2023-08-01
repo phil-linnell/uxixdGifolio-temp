@@ -2,6 +2,7 @@ import * as React from "react";
 import { graphql } from "gatsby";
 import classnames from "classnames";
 import { StaticImage } from "gatsby-plugin-image";
+import LazyLoad from "react-lazy-load";
 import Meta from "../components/meta";
 import { useScrollPosition } from "../utils/hooks";
 import gifs from "../../content/gifs-test.js";
@@ -34,7 +35,7 @@ const Test = ({ data }) => {
           {
             allGifs.map(item => item.relativePath === gif.gif
               ? item.extension === "mp4"
-                ? <video key={item.relativePath} autoPlay loop playsInline muted><source src={item.publicURL} type="video/mp4" /><track kind="captions" /></video>
+                ? <LazyLoad><video key={item.relativePath} autoPlay loop playsInline muted><source src={item.publicURL} type="video/mp4" /><track kind="captions" /></video></LazyLoad>
                 : <img key={item.publicURL} src={item.publicURL} alt="" />
               : "")
           }
