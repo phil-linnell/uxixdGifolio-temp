@@ -10,7 +10,7 @@ import * as styles from "./index.module.css";
 import logoFooter from "../assets/uxixd-logo-alt.png";
 import iconExternal from "../assets/icon-external.png";
 
-const HTestome = ({ data }) => {
+const Test = ({ data }) => {
   const scrollY = useScrollPosition();
   const classes = classnames(styles.container, {
     [styles.scrolled]: scrollY > 0
