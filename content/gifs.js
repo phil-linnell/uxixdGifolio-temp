@@ -1,5 +1,4 @@
 const gifs = [
-
   {
     day: "042",
     content: "An AV should not provide a crossing for a pedestrian, unless the road's full width can be provided.",

@@ -1,7 +1,7 @@
 import { graphql, useStaticQuery } from "gatsby";
 import React from "react";
 
-export const Meta = () => {
+export const Meta = ({ noIndex }) => {
   const { site } = useStaticQuery(graphql`
     query {
       site {
@@ -35,6 +35,7 @@ export const Meta = () => {
       <meta name="twitter:description" content={site.siteMetadata.subtitle} />
       <meta name="twitter:image" content={metaImage} />
       <meta name="twitter:creator" content="UXIXD" />
+      {noIndex && <meta name="robots" content="noindex" />}
     </>
   );
 };
