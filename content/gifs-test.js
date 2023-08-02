@@ -1,7 +1,7 @@
 const gifs = [
   {
     day: "048",
-    content: "Using a guerilla campaign with environmental colour to promote Benjys hot and cold range.",
+    content: "Using a guerilla campaign with environmental colour to promote Benjys' hot and cold range.",
     client: "Benjys",
     gif: "benjys.mp4"
   },
@@ -37,9 +37,9 @@ const gifs = [
   },
   {
     day: "042",
-    content: "An AV should not provide a crossing for a pedestrian, unless the road's full width can be provided.",
-    client: "OEM X",
-    gif: "avcrossing.mp4"
+    content: "My book about my toy car collection shows off their opening doors with it's lenticular cover!",
+    client: "Micro but Many",
+    gif: "microlenticular.mp4"
   },
   {
     day: "041",
@@ -61,9 +61,9 @@ const gifs = [
   },
   {
     day: "038",
-    content: "My book about my toy car collection shows off their opening doors with it's lenticular cover!",
-    client: "Micro but Many",
-    gif: "microlenticular.mp4"
+    content: "An AV should not provide a crossing for a pedestrian, unless the road's full width can be provided.",
+    client: "OEM X",
+    gif: "avcrossing.mp4"
   },
   {
     day: "037",
