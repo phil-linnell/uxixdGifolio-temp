@@ -145,9 +145,9 @@ const gifs = [
   },
   {
     day: "024",
-    content: "Shifting seat configuration allows for groups of friends or groups of strangers.",
-    client: "ustwo",
-    gif: "rooseating.mp4"
+    content: "A 'phygital' twin of a working project helps test for digital and physical / ergonomic requirements offsite.",
+    client: "AllofUs",
+    gif: "phygitaltwin.mp4"
   },
   {
     day: "023",
@@ -157,9 +157,9 @@ const gifs = [
   },
   {
     day: "022",
-    content: "A 'phygital' twin of a working project helps test for digital and physical / ergonomic requirements offsite.",
-    client: "AllofUs",
-    gif: "phygitaltwin.mp4"
+    content: "Shifting seat configuration allows for groups of friends or groups of strangers.",
+    client: "ustwo",
+    gif: "rooseating.mp4"
   },
   {
     day: "021",
