@@ -1,4 +1,10 @@
 const gifs = [
+   {
+    day: "046",
+    content: "Closure experience; an AV should acknowledge a thank you gesture to establish human-machine respect.",
+    client: "OEM X",
+    gif: "avclosure.mp4"
+  },
   {
     day: "045",
     content: "We wrote a book on in-car HMI to bring best practise to the field for all to share.",
@@ -187,9 +193,9 @@ const gifs = [
   },
   {
     day: "014",
-    content: "Closure experience; an AV should acknowledge a thank you gesture to establish human-machine respect.",
-    client: "OEM X",
-    gif: "avclosure.mp4"
+    content: "Unboxing has become a YouTube trend. If done right, it can increase sales significantly.",
+    client: "Micro but Many",
+    gif: "mmunbox.mp4"
   },
   {
     day: "013",
