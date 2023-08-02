@@ -1,5 +1,11 @@
 n const gifs = [
-   {
+  {
+    day: "048",
+    content: "Using a guerilla campaign with environmental colour to promote Benjys hot and cold range.",
+    client: "Benjys",
+    gif: "benjys.mp4"
+  },
+  {
     day: "047",
     content: "We created a ridesharing service urban experiment for one day, to test our design hypotheses.",
     client: "VW | ustwo",
