@@ -1,4 +1,4 @@
-n const gifs = [
+const gifs = [
   {
     day: "048",
     content: "Using a guerilla campaign with environmental colour to promote Benjys hot and cold range.",
