@@ -233,12 +233,12 @@ const gifs = [
 //    client: "VW | ustwo",
 //    gif: "vwblindscreen.mp4"
 //  }, 
-//  {
-//    day: "003",
-//    content: "Dynamic navigation that meets you where most comfortable.",
-//    client: "CenterPlan | Unit9",
-//    gif: "centerplan.mp4"
-//  },
+  {
+    day: "003",
+    content: "Dynamic navigation that meets you where most comfortable.",
+    client: "CenterPlan | Unit9",
+    gif: "centerplan.mp4"
+  },
   {
     day: "002",
     content: "Indicate driver's speed exceeds the road's limit with peripheral colour.",
