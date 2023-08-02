@@ -1,5 +1,11 @@
 const gifs = [
    {
+    day: "047",
+    content: "We created a ridesharing service urban experiment for one day, to test our hypotheses.",
+    client: "VW | ustwo",
+    gif: "urbanexperiment.mp4"
+  },
+  {
     day: "046",
     content: "Closure experience; an AV should acknowledge a thank you gesture to establish human-machine respect.",
     client: "OEM X",
