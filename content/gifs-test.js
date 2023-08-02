@@ -1,7 +1,7 @@
-const gifs = [
+n const gifs = [
    {
     day: "047",
-    content: "We created a ridesharing service urban experiment for one day, to test our hypotheses.",
+    content: "We created a ridesharing service urban experiment for one day, to test our design hypotheses.",
     client: "VW | ustwo",
     gif: "urbanexperiment.mp4"
   },
