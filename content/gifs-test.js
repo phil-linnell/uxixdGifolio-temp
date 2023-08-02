@@ -1,28 +1,34 @@
 const gifs = [
 
   {
-    day: "048",
+    day: "049",
     content: "Using a guerilla campaign with environmental colour to promote Benjys' hot and cold range.",
     client: "Benjys",
     gif: "benjys.mp4"
   },
   {
-    day: "047",
+    day: "048",
     content: "Some fun for a Saturday. An old educational Flash game I designed and co-developed for the British Museum.",
     client: "British Museum",
     gif: "britishmuseum.mp4"
   },
   {
-    day: "046",
+    day: "047",
     content: "The motorcycle ignition kicks off the startup for the HMI with a colour-coded systems check.",
     client: "Ducati",
     gif: "bikestartup.mp4"
   },
   {
-    day: "045",
+    day: "046",
     content: "Closure experience; an AV should acknowledge a thank you gesture to establish human-machine respect.",
     client: "OEM X",
     gif: "avclosure.mp4"
+  },
+  {
+    day: "045",
+    content: "Placeholder image and text.",
+    client: "Self-initiated",
+    gif: "dicetemp.mp4"
   },
   {
     day: "044",
