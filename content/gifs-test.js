@@ -1,9 +1,10 @@
 const gifs = [
+ 
   {
     day: "048",
-    content: "Using a guerilla campaign with environmental colour to promote Benjys' hot and cold range.",
-    client: "Benjys",
-    gif: "benjys.mp4"
+    content: "Some fun for a Saturday. An old educational Flash game I designed and co-developed for the British Museum.",
+    client: "British Museum",
+    gif: "britishmuseum.mp4"
   },
   {
     day: "047",
@@ -43,9 +44,9 @@ const gifs = [
   },
   {
     day: "041",
-    content: "Some fun for a Saturday. An old educational Flash game I designed and co-developed for the British Museum.",
-    client: "British Museum",
-    gif: "britishmuseum.mp4"
+    content: "Using a guerilla campaign with environmental colour to promote Benjys' hot and cold range.",
+    client: "Benjys",
+    gif: "benjys.mp4"
   },
   {
     day: "040",
