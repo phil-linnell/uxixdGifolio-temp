@@ -1,15 +1,15 @@
 const gifs = [
   {
     day: "044",
-    content: "Foil blocking refracts light to give that nostalgic chase card special status.",
-    client: "Micro but Many",
-    gif: "ultrarare.mp4"
-  },
-  {
-    day: "043",
     content: "We used facial recognition to deliver personalised experiences to the designated driver.",
     client: "Toyota | ustwo",
     gif: "facerecognition.mp4"
+  },
+  {
+    day: "043",
+    content: "Foil blocking refracts light to give that nostalgic chase card special status.",
+    client: "Micro but Many",
+    gif: "ultrarare.mp4"
   },
   {
     day: "042",
