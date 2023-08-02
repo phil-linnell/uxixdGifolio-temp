@@ -7,9 +7,9 @@ const gifs = [
   },
   {
     day: "047",
-    content: "We created a ridesharing service urban experiment for one day, to test our design hypotheses.",
-    client: "VW | ustwo",
-    gif: "urbanexperiment.mp4"
+    content: "The motorcycle ignition kicks off the startup for the HMI with a colour-coded systems check.",
+    client: "Ducati",
+    gif: "bikestartup.mp4"
   },
   {
     day: "046",
@@ -49,21 +49,21 @@ const gifs = [
   },
   {
     day: "040",
-    content: "The motorcycle ignition kicks off the startup for the HMI with a colour-coded systems check.",
-    client: "Ducati",
-    gif: "bikestartup.mp4"
+    content: "We created a ridesharing service urban experiment for one day, to test our design hypotheses.",
+    client: "VW | ustwo",
+    gif: "urbanexperiment.mp4"
   },
   {
     day: "039",
-    content: "Pause live TV at any moment to bring up contextually relevant additional content.",
-    client: "Samsung | AllofUs",
-    gif: "samsungtv.mp4"
-  },
-  {
-    day: "038",
     content: "An AV should not provide a crossing for a pedestrian, unless the road's full width can be provided.",
     client: "OEM X",
     gif: "avcrossing.mp4"
+  },
+  {
+    day: "038",
+    content: "Pause live TV at any moment to bring up contextually relevant additional content.",
+    client: "Samsung | AllofUs",
+    gif: "samsungtv.mp4"
   },
   {
     day: "037",
