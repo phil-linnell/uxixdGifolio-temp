@@ -1,5 +1,11 @@
 const gifs = [
   {
+    day: "043",
+    content: "We used facial recognition to deliver personalised experiences to the designated driver.",
+    client: "Toyota | ustwo",
+    gif: "facerecognition.mp4"
+  },
+  {
     day: "042",
     content: "An AV should not provide a crossing for a pedestrian, unless the road's full width can be provided.",
     client: "OEM X",
