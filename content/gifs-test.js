@@ -2,7 +2,7 @@ const gifs = [
  
   {
     day: "060",
-    content: "Start your car then set the temperature remotely, so that it's warm by the time you step inside.",
+    content: "Start your car then set the temperature remotely, so that it's warmed up by the time you step inside.",
     client: "JLR | ustwo",
     gif: "jlrclimate.mp4"
   },
