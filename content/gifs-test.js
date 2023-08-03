@@ -50,7 +50,7 @@ const gifs = [
   },
   {
     day: "043",
-    content: "We used facial recognition to deliver personal-ised experiences, unique to the designated driver.",
+    content: "We used facial recognition to deliver personalised unique experiences to the specific driver.",
     client: "Toyota | ustwo",
     gif: "facerecognition.mp4"
   },
