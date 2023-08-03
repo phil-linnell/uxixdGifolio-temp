@@ -98,7 +98,7 @@ const gifs = [
   },
   {
     day: "035",
-    content: "Touch interactives should provide time to rest the arm between taps.",
+    content: "Fixed touch interactives should provide time to rest the arm between taps.",
     client: "Science Museum",
     gif: "whoami.mp4"
   },
