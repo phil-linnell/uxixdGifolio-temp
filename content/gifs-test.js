@@ -62,7 +62,7 @@ const gifs = [
   },
   {
     day: "041",
-    content: "My book on my toy car collection has a lenticular cover that shows off the cars' opening doors!",
+    content: "My toy car collection book has a lenticular cover that shows off the micro cars' opening doors!",
     client: "Micro but Many",
     gif: "microlenticular.mp4"
   },
