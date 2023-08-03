@@ -32,7 +32,7 @@ const gifs = [
   },
   {
     day: "046",
-    content: "Closure experience; an AV should acknowledge a thank you gesture to establish human-machine respect.",
+    content: "A driverless car should return a pedestrian's thank you to encourage human-machine respect.",
     client: "OEM X",
     gif: "avclosure.mp4"
   },
