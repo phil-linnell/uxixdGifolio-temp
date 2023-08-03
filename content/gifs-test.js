@@ -8,7 +8,7 @@ const gifs = [
   },
   {
     day: "050",
-    content: "Check if your electric JLR has charged remotely from your watch.",
+    content: "Check how far along your electric JLR is charging, remotely from your watch.",
     client: "JLR | ustwo",
     gif: "jlrrange.mp4"
   },
@@ -20,7 +20,7 @@ const gifs = [
   },
   {
     day: "048",
-    content: "Some fun for a Saturday. An old educational Flash game I designed and co-developed for the British Museum.",
+    content: "Some fun for a Saturday. An educational Flash game I designed and co-developed for the British Museum.",
     client: "British Museum",
     gif: "britishmuseum.mp4"
   },
@@ -44,13 +44,13 @@ const gifs = [
   },
   {
     day: "044",
-    content: "We wrote a book on in-car HMI to bring best practise to the field for all to share.",
+    content: "We wrote a book on in-car HMI to bring best practise to the field to start the conversation.",
     client: "ustwo",
     gif: "ustwoautobook.mp4"
   },
   {
     day: "043",
-    content: "We used facial recognition to deliver personalised experiences to the designated driver.",
+    content: "We used facial recognition to deliver personalised experiences, unique to the designated driver.",
     client: "Toyota | ustwo",
     gif: "facerecognition.mp4"
   },
@@ -62,19 +62,19 @@ const gifs = [
   },
   {
     day: "041",
-    content: "My book about my toy car collection shows off their opening doors with it's lenticular cover!",
+    content: "My book on my toy car collection has a lenticular cover that shows off the cars' opening doors!",
     client: "Micro but Many",
     gif: "microlenticular.mp4"
   },
   {
     day: "040",
-    content: "We created a ridesharing service urban experiment for one day, to test our design hypotheses.",
+    content: "We created a ridesharing service, a one-day urban experiment, to test our design hypotheses.",
     client: "VW | ustwo",
     gif: "urbanexperiment.mp4"
   },
   {
     day: "039",
-    content: "An AV should not provide a crossing for a pedestrian, unless the road's full width can be provided.",
+    content: "An AV should not provide a crossing for a pedestrian, unless the road's full width can be crossed.",
     client: "OEM X",
     gif: "avcrossing.mp4"
   },
@@ -104,7 +104,7 @@ const gifs = [
   },
   {
     day: "034",
-    content: "We combined data with creativity, enabling users to output art from the data they layer.",
+    content: "We combined data with creativity, enabling users to output art from the data they compile.",
     client: "Worldpay",
     gif: "worldpayart.mp4"
   },
@@ -117,7 +117,7 @@ const gifs = [
   {
     day: "032",
     content: "Bouba is round and bouncy. Kiki is sharp and direct. We used personality to prioritise info.",
-    client: "OEM X",
+    client: "Consumer tech brand X",
     gif: "boubakiki.mp4"
   },
   {
@@ -176,7 +176,7 @@ const gifs = [
   },
   {
     day: "022",
-    content: "Shifting seat configuration allows for groups of friends or groups of strangers.",
+    content: "Shifting seat configuration allows for both groups of friends and groups of strangers.",
     client: "ustwo",
     gif: "rooseating.mp4"
   },
@@ -290,7 +290,7 @@ const gifs = [
   },
   {
     day: "003",
-    content: "Dynamic navigation that meets you where most comfortable.",
+    content: "Accessible dynamic navigation that meets you where most comfortable.",
     client: "CenterPlan | Unit9",
     gif: "centerplan.mp4"
   },
