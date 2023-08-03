@@ -20,21 +20,21 @@ const gifs = [
   },
   {
     day: "052",
-    content: "Humanist fonts are quicker to read than grotesque ones, which could make the difference in an in-car HMI, for example.",
-    client: "MIT",
-    gif: "fontread.mp4"
-  },
-  {
-    day: "051",
     content: "Testing a sound + haptic prototype that guides blind users to their designated driverless taxi.",
     client: "VW | ustwo",
     gif: "vwpod.mp4"
   },
   {
-    day: "050",
+    day: "051",
     content: "Check how much your electric JLR has charged, remotely from your watch.",
     client: "JLR | ustwo",
     gif: "jlrrange.mp4"
+  },
+  {
+    day: "050",
+    content: "Humanist fonts are quicker to read than grotesque ones, which could make the difference in an in-car HMI, for example.",
+    client: "MIT",
+    gif: "fontread.mp4"
   },
   {
     day: "049",
