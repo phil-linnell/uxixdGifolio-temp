@@ -68,9 +68,9 @@ const gifs = [
   },
   {
     day: "044",
-    content: "We wrote a book on in-car HMI to bring best practise to the field and to start the conversation.",
-    client: "ustwo",
-    gif: "ustwoautobook.mp4"
+    content: "Architect your own floorplan as you explore the architect's digital showroom.",
+    client: "CenterPlan | Unit9",
+    gif: "centerplanbuild.mp4"
   },
   {
     day: "043",
@@ -230,9 +230,9 @@ const gifs = [
   },
   {
     day: "017",
-    content: "Architect your own floorplan as you explore the architect's digital showroom.",
-    client: "CenterPlan | Unit9",
-    gif: "centerplanbuild.mp4"
+    content: "We wrote a book on in-car HMI to bring best practise to the field and to start the conversation.",
+    client: "ustwo",
+    gif: "ustwoautobook.mp4"
   },
   {
     day: "016",
