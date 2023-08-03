@@ -2,19 +2,19 @@ const gifs = [
  
   {
     day: "060",
-    content: "Start your car's engine remotely during the winter, so that it's warm by the time you step inside.",
+    content: "Start your car's engine and set the temperature remotely, so that it's warm by the time you step inside.",
     client: "JLR | ustwo",
     gif: "jlrclimate.mp4"
   },
   {
     day: "050",
-    content: "Check the range of your electric JLR remotely from your watch as it charges.",
+    content: "Check if your electric JLR has charged remotely from your watch.",
     client: "JLR | ustwo",
     gif: "jlrrange.mp4"
   },
   {
     day: "049",
-    content: "Using a guerilla campaign with environmental colour to promote Benjys' hot and cold range.",
+    content: "A guerilla campaign that interacts with environmental colour to promote Benjys' hot and cold range.",
     client: "Benjys",
     gif: "benjys.mp4"
   },
