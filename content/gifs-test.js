@@ -8,7 +8,7 @@ const gifs = [
   },
   {
     day: "050",
-    content: "Check how far along your electric JLR is charging, remotely from your watch.",
+    content: "Check how much your electric JLR has charged, remotely from your watch.",
     client: "JLR | ustwo",
     gif: "jlrrange.mp4"
   },
