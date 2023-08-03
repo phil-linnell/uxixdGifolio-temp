@@ -8,7 +8,7 @@ const gifs = [
   },
   {
     day: "051",
-    content: "Testing a sound and haptics prototype that guides blind users to their designated driverless taxi.",
+    content: "Testing a sound + haptic prototype that guides blind users to their designated driverless taxi.",
     client: "VW | ustwo",
     gif: "vwpod.mp4"
   },
