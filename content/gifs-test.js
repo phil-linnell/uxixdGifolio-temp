@@ -44,7 +44,7 @@ const gifs = [
   },
   {
     day: "044",
-    content: "We wrote a book on in-car HMI to bring best practise to the field to start the conversation.",
+    content: "We wrote a book on in-car HMI to bring best practise to the field and to start the conversation.",
     client: "ustwo",
     gif: "ustwoautobook.mp4"
   },
