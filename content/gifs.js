@@ -227,15 +227,15 @@ const gifs = [
 //    client: "Samsung | AllofUs",
 //    gif: "keyboard.mp4"
 //  },
-//  {
-//    day: "004",
-//    content: "We used haptic screens that utilise sound waves to mimic the feel of buttons for the blind.",
-//    client: "VW | ustwo",
-//    gif: "vwblindscreen.mp4"
-//  }, 
+  {
+    day: "004",
+    content: "We used haptic screens that utilise sound waves to mimic the feel of buttons for the blind.",
+    client: "VW | ustwo",
+    gif: "vwblindscreen.mp4"
+  },
   {
     day: "003",
-    content: "Dynamic navigation that meets you where most comfortable.",
+    content: "Accessible dynamic navigation that meets you where most comfortable.",
     client: "CenterPlan | Unit9",
     gif: "centerplan.mp4"
   },
