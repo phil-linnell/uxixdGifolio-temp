@@ -32,7 +32,7 @@ const gifs = [
   },
   {
     day: "046",
-    content: "A driverless car should return a pedestrian's thank you to encourage human-machine respect.",
+    content: "A driverless car should return a pedestrian's thanks to encourage human-machine respect.",
     client: "OEM X",
     gif: "avclosure.mp4"
   },
