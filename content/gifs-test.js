@@ -13,6 +13,12 @@ const gifs = [
     gif: "vwanxiety.mp4"
   },
   {
+    day: "058",
+    content: "Physical controls build muscle memory that digital controls doesn't do so well. We explore which to use when.",
+    client: "ustwo",
+    gif: "musclememory.mp4"
+  },
+  {
     day: "052",
     content: "Humanist fonts are quicker to read than grotesque ones, which could make the difference in an in-car HMI, for example.",
     client: "MIT",
