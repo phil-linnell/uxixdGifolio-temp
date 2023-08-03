@@ -1,6 +1,12 @@
 const gifs = [
  
   {
+    day: "060",
+    content: "Start your car's engine remotely during the winter, so that it's warm by the time you step inside.",
+    client: "JLR | ustwo",
+    gif: "jlrclimate.mp4"
+  },
+  {
     day: "050",
     content: "Check the range of your electric JLR remotely from your watch as it charges.",
     client: "JLR | ustwo",
