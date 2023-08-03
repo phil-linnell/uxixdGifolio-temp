@@ -7,6 +7,12 @@ const gifs = [
     gif: "jlrclimate.mp4"
   },
   {
+    day: "051",
+    content: "Testing a sound and haptics prototype to guide blind travellers to their designated driverless taxi.",
+    client: "VW | ustwo",
+    gif: "vwpod.mp4"
+  },
+  {
     day: "050",
     content: "Check how much your electric JLR has charged, remotely from your watch.",
     client: "JLR | ustwo",
