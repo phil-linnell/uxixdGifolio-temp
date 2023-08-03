@@ -224,7 +224,7 @@ const gifs = [
   },
   {
     day: "014",
-    content: "Unboxing has become a YouTube trend. If done right, it can increase sales significantly.",
+    content: "Unboxing has become a YouTube trend. If done right, it can increase sales.",
     client: "Micro but Many",
     gif: "mmunbox.mp4"
   },
