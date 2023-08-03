@@ -98,9 +98,9 @@ const gifs = [
   },
   {
     day: "039",
-    content: "An AV should not provide a crossing for a pedestrian, unless the road's full width can be crossed.",
-    client: "OEM X",
-    gif: "avcrossing.mp4"
+    content: "Shifting seat configuration allows for both groups of friends and groups of strangers.",
+    client: "ustwo",
+    gif: "rooseating.mp4"
   },
   {
     day: "038",
@@ -200,9 +200,9 @@ const gifs = [
   },
   {
     day: "022",
-    content: "Shifting seat configuration allows for both groups of friends and groups of strangers.",
-    client: "ustwo",
-    gif: "rooseating.mp4"
+    content: "An AV should not provide a crossing for a pedestrian, unless the road's full width can be crossed.",
+    client: "OEM X",
+    gif: "avcrossing.mp4"
   },
   {
     day: "021",
