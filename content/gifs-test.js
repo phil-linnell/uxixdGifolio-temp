@@ -242,7 +242,7 @@ const gifs = [
   },
   {
     day: "011",
-    content: "Using an Xbox Kinect camera to detect driver's gaze and so when the HMI needs to display.",
+    content: "Using an Xbox Kinect camera to detect driver's gaze and therefore when the HMI needs to display.",
     client: "Toyota | ustwo",
     gif: "toyotafocus.mp4"
   },
