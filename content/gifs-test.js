@@ -1,5 +1,11 @@
 const gifs = [
-
+ 
+  {
+    day: "050",
+    content: "Check the range of your electric JLR remotely from your watch as it charges.",
+    client: "JLR | ustwo",
+    gif: "jlrrange.mp4"
+  },
   {
     day: "049",
     content: "Using a guerilla campaign with environmental colour to promote Benjys' hot and cold range.",
