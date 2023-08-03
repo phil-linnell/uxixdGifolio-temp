@@ -2,7 +2,7 @@ const gifs = [
  
   {
     day: "060",
-    content: "Start your car's engine then set the temperature remotely, so that it's warm by the time you step inside.",
+    content: "Start your car then set the temperature remotely, so that it's warm by the time you step inside.",
     client: "JLR | ustwo",
     gif: "jlrclimate.mp4"
   },
@@ -20,7 +20,7 @@ const gifs = [
   },
   {
     day: "048",
-    content: "Some fun for a Saturday. An educational Flash game I designed and co-developed for the British Museum.",
+    content: "Some fun for a Saturday. An educational Flash game I designed and co-developed.",
     client: "British Museum",
     gif: "britishmuseum.mp4"
   },
@@ -50,7 +50,7 @@ const gifs = [
   },
   {
     day: "043",
-    content: "We used facial recognition to deliver personalised experiences, unique to the designated driver.",
+    content: "We used facial recognition to deliver personal-ised experiences, unique to the designated driver.",
     client: "Toyota | ustwo",
     gif: "facerecognition.mp4"
   },
