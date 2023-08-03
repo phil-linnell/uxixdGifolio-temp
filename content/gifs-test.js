@@ -56,7 +56,7 @@ const gifs = [
   },
   {
     day: "042",
-    content: "Foil blocking refracts light to give that nostalgic chase card special status.",
+    content: "Foil blocking refracts light to give that nostalgic rare chase trading card special status.",
     client: "Micro but Many",
     gif: "ultrarare.mp4"
   },
