@@ -68,7 +68,7 @@ const gifs = [
   },
   {
     day: "040",
-    content: "We created a ridesharing service, a one-day urban experiment, to test our design hypotheses.",
+    content: "We created a ride-sharing service, a one-day urban experiment, to test our design hypotheses.",
     client: "VW | ustwo",
     gif: "urbanexperiment.mp4"
   },
@@ -117,7 +117,7 @@ const gifs = [
   {
     day: "032",
     content: "Bouba is round and bouncy. Kiki is sharp and direct. We used personality to prioritise info.",
-    client: "Consumer tech brand X",
+    client: "Tech brand X",
     gif: "boubakiki.mp4"
   },
   {
@@ -242,7 +242,7 @@ const gifs = [
   },
   {
     day: "011",
-    content: "Using an Xbox Kinect camera for gaze detection to detect when the HMI needs to display for the driver.",
+    content: "Using an Xbox Kinect camera to detect driver's gaze and so when the HMI needs to display.",
     client: "Toyota | ustwo",
     gif: "toyotafocus.mp4"
   },
