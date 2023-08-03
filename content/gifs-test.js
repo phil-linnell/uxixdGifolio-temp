@@ -272,7 +272,7 @@ const gifs = [
   },
   {
     day: "006",
-    content: "Decision fatigue? Have a random yet personal option selected at random with a 'Surprise me' feature.",
+    content: "Decision fatigue? Have a random, yet tailored, option suggested with a 'Surprise me' feature.",
     client: "Micro but Many",
     gif: "randomcar.mp4"
   },
