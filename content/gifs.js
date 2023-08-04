@@ -221,12 +221,12 @@ const gifs = [
 //    client: "Micro but Many",
 //    gif: "randomcar.mp4"
 //  },  
-//  {
-//    day: "005",
-//    content: "Context is key(board). A centred spacebar on-screen keyboard can save input time.",
-//    client: "Samsung | AllofUs",
-//    gif: "keyboard.mp4"
-//  },
+  {
+    day: "005",
+    content: "Context is key(board). A centred spacebar on-screen keyboard can save input time.",
+    client: "Samsung | AllofUs",
+    gif: "keyboard.mp4"
+  },
   {
     day: "004",
     content: "We used haptic screens that utilise sound waves to mimic the feel of buttons for the blind.",
