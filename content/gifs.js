@@ -215,12 +215,12 @@ const gifs = [
 //    client: "JLR | ustwo",
 //    gif: "jlrremote.mp4"
 //  },  
-//  {
-//    day: "006",
-//    content: "Decision fatigue? Select an option at random with a 'Surprise me' option.",
-//    client: "Micro but Many",
-//    gif: "randomcar.mp4"
-//  },  
+  {
+    day: "006",
+    content: "Decision fatigue? Have a random, yet tailored, option suggested with a 'Surprise me' feature.",
+    client: "Micro but Many",
+    gif: "randomcar.mp4"
+  },
   {
     day: "005",
     content: "Context is key(board). A centred spacebar on-screen keyboard can save input time.",
