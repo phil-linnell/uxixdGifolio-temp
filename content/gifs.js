@@ -209,12 +209,12 @@ const gifs = [
 //    client: "ustwo",
 //    gif: "roo.mp4"
 //  },     
-//  {
-//    day: "007",
-//    content: "Start your car, from your watch - just like James Bond.",
-//    client: "JLR | ustwo",
-//    gif: "jlrremote.mp4"
-//  },  
+  {
+    day: "007",
+    content: "Start your car, from your watch - just like James Bond.",
+    client: "JLR | ustwo",
+    gif: "jlrremote.mp4"
+  },
   {
     day: "006",
     content: "Decision fatigue? Have a random, yet tailored, option suggested with a 'Surprise me' feature.",
