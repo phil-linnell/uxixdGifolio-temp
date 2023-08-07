@@ -203,12 +203,12 @@ const gifs = [
 //    client: "Garmin",
 //    gif: "garminhome.mp4"
 //  },   
-//  {
-//    day: "008",
-//    content: "E-ink tech means utilisation of a single AV can shift to the city's demands throughout the day.",
-//    client: "ustwo",
-//    gif: "roo.mp4"
-//  },     
+  {
+    day: "008",
+    content: "E-ink tech means utilisation of a single AV can shift to the city's demands throughout the day.",
+    client: "ustwo",
+    gif: "roo.mp4"
+  },   
   {
     day: "007",
     content: "Start your car, from your watch - just like James Bond.",
