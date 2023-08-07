@@ -1,6 +1,12 @@
 const gifs = [
  
   {
+    day: "068",
+    content: "We used an upwards-facing fan to create an air column 'gesture zone' - an area in which gesture's are read by the HMI.",
+    client: "OEM X",
+    gif: "gesturezone.mp4"
+  },
+  {
     day: "060",
     content: "Start your car then set the temperature, remotely, so that it's warmed up by the time you jump in.",
     client: "JLR | ustwo",
