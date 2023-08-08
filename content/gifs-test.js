@@ -14,7 +14,7 @@ const gifs = [
   },
   {
     day: "059",
-    content: "Sudden breaks in driverless cars cause anxiety, especially for blind people. We test anxiety mitigation strategies.",
+    content: "A sudden break in a driverless car can cause anxiety, especially for blind people. We test anxiety mitigation strategies.",
     client: "VW | ustwo",
     gif: "vwanxiety.mp4"
   },
@@ -56,7 +56,7 @@ const gifs = [
   },
   {
     day: "048",
-    content: "Some fun for a Saturday. An educational Flash game I designed and co-developed.",
+    content: "Some fun for Saturday. An educational Flash game I designed and co-developed.",
     client: "British Museum",
     gif: "britishmuseum.mp4"
   },
