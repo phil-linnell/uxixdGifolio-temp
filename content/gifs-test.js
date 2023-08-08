@@ -3,7 +3,7 @@ const gifs = [
   {
     day: "060",
     content: "A maluable show stand that invites students to compare UAL colleges, each represented by a movable cube.",
-    client: "University of the Arts London",
+    client: "UAL",
     gif: "ual.mp4"
   },
   {
