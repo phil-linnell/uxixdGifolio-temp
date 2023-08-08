@@ -146,9 +146,9 @@ const gifs = [
   },
   {
     day: "034",
-    content: "We combined data with creativity, enabling users to output art from the data they compile.",
-    client: "Worldpay",
-    gif: "worldpayart.mp4"
+    content: "IXD can bring brand delight to packaging - or a raspberry from a virtual pet.",
+    client: "PlayStation",
+    gif: "eyepet.mp4"
   },
   {
     day: "033",
@@ -164,11 +164,11 @@ const gifs = [
   },
   {
     day: "031",
-    content: "IXD can bring brand delight to packaging - or a raspberry from a virtual pet.",
-    client: "PlayStation",
-    gif: "eyepet.mp4"
+    content: "We combined data with creativity, enabling users to output art from the data they compile.",
+    client: "Worldpay",
+    gif: "worldpayart.mp4"
   },
-   {
+  {
     day: "030",
     content: "An upward-facing fan provides user feedback that their hand is correctly in the designated area in which gestures are read by the HMI.",
     client: "OEM X",
