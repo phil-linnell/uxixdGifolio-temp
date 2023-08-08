@@ -1,6 +1,12 @@
 const gifs = [
 
   {
+    day: "010",
+    content: "When balance and vision don't match, car sickness occurs. Alexa I Spy solves that using real-time objects to spy.",
+    client: "Ford | HMSD",
+    gif: "fordechoauto.mp4"
+  },
+  {
     day: "009",
     content: "Connected homes with contextual presets. Ie. 'Away Mode', 'Cosy Mode', 'Party Mode' etc.",
     client: "Garmin",
