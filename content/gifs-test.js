@@ -1,34 +1,34 @@
 const gifs = [
  
   {
-    day: "068",
+    day: "057",
     content: "An upward-facing fan creates a 'gesture zone' air column - the designated area in which gestures are read by the HMI.",
     client: "OEM X",
     gif: "gesturezone.mp4"
   },
   {
-    day: "060",
+    day: "056",
     content: "Start your car then set the temperature, remotely, so that it's warmed up by the time you jump in.",
     client: "JLR | ustwo",
     gif: "jlrclimate.mp4"
   },
+   {
+    day: "055",
+    content: "Placeholder image and text.",
+    client: "Self-initiated",
+    gif: "dicetemp.mp4"
+  },
   {
-    day: "059",
+    day: "054",
     content: "A sudden break in a driverless car can cause anxiety. We test UX anxiety mitigation strategies.",
     client: "VW | ustwo",
     gif: "vwanxiety.mp4"
   },
   {
-    day: "058",
+    day: "053",
     content: "Physical controls build muscle memory that digital controls don't do as well. We explore which to use when.",
     client: "ustwo",
     gif: "musclememory.mp4"
-  },
-  {
-    day: "053",
-    content: "Ask Samsung TV to curate the EPG for one occupant in the room, or a fairer mix.",
-    client: "Samsung | AllofUs",
-    gif: "samsungmix.mp4"
   },
   {
     day: "052",
@@ -72,11 +72,11 @@ const gifs = [
     client: "OEM X",
     gif: "avclosure.mp4"
   },
-  {
+   {
     day: "045",
-    content: "Placeholder image and text.",
-    client: "Self-initiated",
-    gif: "dicetemp.mp4"
+    content: "Ask Samsung TV to curate the EPG for one occupant in the room, or a fairer mix.",
+    client: "Samsung | AllofUs",
+    gif: "samsungmix.mp4"
   },
   {
     day: "044",
