@@ -14,7 +14,7 @@ const gifs = [
   },
   {
     day: "059",
-    content: "A sudden break in a driverless car can cause anxiety, especially for blind people. We test anxiety mitigation strategies.",
+    content: "A sudden break in a driverless car can cause anxiety. We test UX anxiety mitigation strategies.",
     client: "VW | ustwo",
     gif: "vwanxiety.mp4"
   },
