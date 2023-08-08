@@ -1,6 +1,12 @@
 const gifs = [
 
   {
+    day: "060",
+    content: "Immersive tradeshow experience that helps students compare colleges, each represented by a movable coloured cube.",
+    client: "University of the Arts",
+    gif: "ual.mp4"
+  },
+  {
     day: "059",
     content: "UX and IXD is a multi-sensory discipline, so we couldn't help implement coffee scented ink for this brand's printed materials.",
     client: "Caffè Culture",
