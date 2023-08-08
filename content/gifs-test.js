@@ -2,8 +2,8 @@ const gifs = [
 
   {
     day: "060",
-    content: "Immersive tradeshow experience that helps students compare colleges, each represented by a movable coloured cube.",
-    client: "University of the Arts",
+    content: "An immersive show stand that invites students to compare UAL colleges, each represented by a movable coloured cube.",
+    client: "University of the Arts London",
     gif: "ual.mp4"
   },
   {
