@@ -56,7 +56,7 @@ const gifs = [
   },
   {
     day: "048",
-    content: "Some fun for Saturday. An educational Flash game I designed and co-developed.",
+    content: "Fun for a Saturday. An educational Flash game I designed and co-developed.",
     client: "British Museum",
     gif: "britishmuseum.mp4"
   },
