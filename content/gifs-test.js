@@ -26,7 +26,7 @@ const gifs = [
   },
   {
     day: "053",
-    content: "Ask Samsung TV to recompile an EPG programming schedule based on the occupants in the room.",
+    content: "Ask Samsung TV to recompile the EPG to favour one occupant in the room, or a fairer mix.",
     client: "Samsung | AllofUs",
     gif: "samsungmix.mp4"
   },
