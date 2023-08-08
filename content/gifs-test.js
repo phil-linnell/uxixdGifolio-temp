@@ -8,17 +8,17 @@ const gifs = [
   },
   {
     day: "057",
+    content: "Start your car then set the temperature, remotely, so that it's warmed up by the time you jump in.",
+    client: "JLR | ustwo",
+    gif: "jlrclimate.mp4"
+  },
+  {
+    day: "056",
     content: "Location-aware digital maps for the British Library that start at your location.",
     client: "British Library",
     gif: "blmap.mp4"
   },
   {
-    day: "056",
-    content: "Start your car then set the temperature, remotely, so that it's warmed up by the time you jump in.",
-    client: "JLR | ustwo",
-    gif: "jlrclimate.mp4"
-  },
-   {
     day: "055",
     content: "Placeholder image and text.",
     client: "Self-initiated",
@@ -44,9 +44,9 @@ const gifs = [
   },
   {
     day: "051",
-    content: "Check how much your electric JLR has charged, remotely from your watch.",
-    client: "JLR | ustwo",
-    gif: "jlrrange.mp4"
+    content: "Architect your own floorplan as you explore the architect's digital showroom.",
+    client: "CenterPlan | Unit9",
+    gif: "centerplanbuild.mp4"
   },
   {
     day: "050",
@@ -78,7 +78,7 @@ const gifs = [
     client: "OEM X",
     gif: "avclosure.mp4"
   },
-   {
+  {
     day: "045",
     content: "Ask Samsung TV to curate the EPG for one occupant in the room, or a fairer mix.",
     client: "Samsung | AllofUs",
@@ -86,9 +86,9 @@ const gifs = [
   },
   {
     day: "044",
-    content: "Architect your own floorplan as you explore the architect's digital showroom.",
-    client: "CenterPlan | Unit9",
-    gif: "centerplanbuild.mp4"
+    content: "Check how much your electric JLR has charged, remotely from your watch.",
+    client: "JLR | ustwo",
+    gif: "jlrrange.mp4"
   },
   {
     day: "043",
