@@ -8,7 +8,7 @@ const gifs = [
   },
   {
     day: "059",
-    content: "Location-aware digital maps for the British Library that start at your location.",
+    content: "An array of location-aware digital totems for the British Library that each focus around it's location.",
     client: "British Library",
     gif: "blmap.mp4"
   },
