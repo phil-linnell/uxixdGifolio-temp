@@ -8,9 +8,9 @@ const gifs = [
   },
   {
     day: "059",
-    content: "UX & IXD is a multi-sensory discipline, so we couldn't help but use coffee scented ink for this brand's print materials.",
-    client: "Caffè Culture",
-    gif: "coffeescent.mp4"
+    content: "Location-aware digital maps for the British Library that start at your location.",
+    client: "British Library",
+    gif: "blmap.mp4"
   },
   {
     day: "058",
@@ -26,9 +26,9 @@ const gifs = [
   },
   {
     day: "056",
-    content: "Location-aware digital maps for the British Library that start at your location.",
-    client: "British Library",
-    gif: "blmap.mp4"
+    content: "UX & IXD is a multi-sensory discipline, so we couldn't help but use coffee scented ink for this brand's print materials.",
+    client: "Caffè Culture",
+    gif: "coffeescent.mp4"
   },
   {
     day: "055",
