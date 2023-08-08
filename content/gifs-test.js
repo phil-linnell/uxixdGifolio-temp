@@ -25,6 +25,12 @@ const gifs = [
     gif: "musclememory.mp4"
   },
   {
+    day: "053",
+    content: "Ask Samsung TV to recompile an EPG programming schedule based on the occupants in the room.",
+    client: "Samsung | AllofUs",
+    gif: "samsungmix.mp4"
+  },
+  {
     day: "052",
     content: "Testing a sound + haptic prototype that guides blind users to their designated driverless taxi.",
     client: "VW | ustwo",
