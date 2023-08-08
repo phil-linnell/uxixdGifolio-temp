@@ -2,7 +2,7 @@ const gifs = [
  
   {
     day: "068",
-    content: "An upward-facing fan creates an air column 'gesture zone' - a designated area in which gestures are read by the HMI.",
+    content: "An upward-facing fan creates a 'gesture zone' air column - a designated area in which gestures are read by the HMI.",
     client: "OEM X",
     gif: "gesturezone.mp4"
   },
