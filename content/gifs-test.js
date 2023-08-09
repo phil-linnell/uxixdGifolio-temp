@@ -1,10 +1,16 @@
 const gifs = [
 
    {
-    day: "061",
+    day: "062",
     content: "Simple interactions are often best, like this gaming radial dial + button combo.",
     client: "Science Museum",
     gif: "greenhouse.mp4"
+   },
+   {
+    day: "061",
+    content: "A highly in-depth touchscreen ring creator using state-of-the-art (for the time) 3D tech.",
+    client: "V&A",
+    gif: "vadesignaring.mp4"
   },
   {
     day: "060",
