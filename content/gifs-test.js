@@ -1,10 +1,10 @@
 const gifs = [
 
-  {
+   {
     day: "061",
-    content: "keep your eye on the cup... Did you see the horse? Based on 'Selective Awareness' by Simons & Chabris.",
+    content: "Simple interactions are often best, like this gaming radial dial + button combo.",
     client: "Science Museum",
-    gif: "smcuptrick.mp4"
+    gif: "greenhouse.mp4"
   },
   {
     day: "060",
@@ -198,11 +198,11 @@ const gifs = [
     client: "Toyota | ustwo",
     gif: "toyotavolume.mp4"
   },
-  {
+   {
     day: "028",
-    content: "Simple interactions are often best, like this gaming radial dial + button combo.",
+    content: "keep your eye on the cup... Did you see the horse? Based on 'Selective Awareness' by Simons & Chabris.",
     client: "Science Museum",
-    gif: "greenhouse.mp4"
+    gif: "smcuptrick.mp4"
   },
   {
     day: "027",
