@@ -1,6 +1,12 @@
 const gifs = [
 
   {
+    day: "061",
+    content: "Watch the ball... but did you spot the horse? Based on the selective awareness test by Simons and Chabris.",
+    client: "Science Museum",
+    gif: "smcuptrick.mp4"
+  },
+  {
     day: "060",
     content: "A maluable show stand that invites students to compare UAL colleges, each represented by a movable cube.",
     client: "UAL",
