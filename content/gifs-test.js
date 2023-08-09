@@ -1,6 +1,12 @@
 const gifs = [
 
    {
+    day: "065",
+    content: "We wrote a second book on UX for autonomy to bring best practise to the field and to start the conversation.",
+    client: "ustwo",
+    gif: "ustwoautobook2.mp4"
+   },
+   {
     day: "064",
     content: "Simple interactions are often best, like this gaming radial dial + button combo.",
     client: "OEM X",
@@ -286,7 +292,7 @@ const gifs = [
     day: "017",
     content: "We wrote a book on in-car HMI to bring best practise to the field and to start the conversation.",
     client: "ustwo",
-    gif: "ustwoautobook.mp4"
+    gif: "ustwoautobook1.mp4"
   },
   {
     day: "016",
