@@ -1,5 +1,11 @@
 const gifs = [
-
+ 
+  {
+    day: "011",
+    content: "Using an Xbox Kinect camera to detect driver's gaze and therefore when the HMI needs to display.",
+    client: "Toyota | ustwo",
+    gif: "toyotafocus.mp4"
+  },
   {
     day: "010",
     content: "When balance and vision don't match, car sickness occurs. Alexa I Spy solves that using real-time objects to spy.",
