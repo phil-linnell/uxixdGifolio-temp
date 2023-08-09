@@ -20,15 +20,15 @@ const gifs = [
   },
   {
     day: "060",
-    content: "A maluable show stand that invites students to compare UAL colleges, each represented by a movable cube.",
-    client: "UAL",
-    gif: "ual.mp4"
-  },
-  {
-    day: "059",
     content: "Start your car then set the temperature, remotely, so that it's warmed up by the time you jump in.",
     client: "JLR | ustwo",
     gif: "jlrclimate.mp4"
+  },
+  {
+    day: "059",
+    content: "A maluable show stand that invites students to compare UAL colleges, each represented by a movable cube.",
+    client: "UAL",
+    gif: "ual.mp4"
   },
   {
     day: "058",
