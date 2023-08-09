@@ -200,7 +200,7 @@ const gifs = [
   },
    {
     day: "028",
-    content: "keep your eye on the cup... Did you see the horse? Based on 'Selective Awareness' by Simons & Chabris.",
+    content: "Keep your eye on the cup... Did you see the horse? Based on 'Selective Awareness' by Simons & Chabris.",
     client: "Science Museum",
     gif: "smcuptrick.mp4"
   },
