@@ -1,14 +1,8 @@
 const gifs = [
 
   {
-    day: "062",
-    content: "Lorem ipsum.",
-    client: "Science Museum",
-    gif: "smgoodbye.mp4"
-  },
-  {
     day: "061",
-    content: "Watch the ball... but did you see the horse? The 'Selective Awareness' test by Simons & Chabris.",
+    content: "keep your eye on the cup... but did you see the horse? The 'Selective Awareness' test by Simons & Chabris.",
     client: "Science Museum",
     gif: "smcuptrick.mp4"
   },
