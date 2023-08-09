@@ -2,7 +2,7 @@ const gifs = [
 
   {
     day: "061",
-    content: "Watch the ball... but did you see the horse? Based on the selective awareness test by Simons & Chabris.",
+    content: "Watch the ball... but did you see the horse? The 'Selective Awareness' test by Simons & Chabris.",
     client: "Science Museum",
     gif: "smcuptrick.mp4"
   },
