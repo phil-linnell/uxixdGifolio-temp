@@ -1,10 +1,16 @@
 const gifs = [
 
    {
-    day: "062",
+    day: "063",
     content: "Simple interactions are often best, like this gaming radial dial + button combo.",
     client: "Science Museum",
     gif: "greenhouse.mp4"
+   },
+   {
+    day: "062",
+    content: "An online phygital Top Trumps game with physical cards and digital AR components.",
+    client: "PlayStation",
+    gif: "playstationar.mp4"
    },
    {
     day: "061",
@@ -20,9 +26,9 @@ const gifs = [
   },
   {
     day: "059",
-    content: "An array of location-aware digital totems for the British Library that each focus around it's location.",
-    client: "British Library",
-    gif: "blmap.mp4"
+    content: "Start your car then set the temperature, remotely, so that it's warmed up by the time you jump in.",
+    client: "JLR | ustwo",
+    gif: "jlrclimate.mp4"
   },
   {
     day: "058",
@@ -32,9 +38,9 @@ const gifs = [
   },
   {
     day: "057",
-    content: "Start your car then set the temperature, remotely, so that it's warmed up by the time you jump in.",
-    client: "JLR | ustwo",
-    gif: "jlrclimate.mp4"
+    content: "An array of location-aware digital totems for the British Library that each focus around it's location.",
+    client: "British Library",
+    gif: "blmap.mp4"
   },
   {
     day: "056",
