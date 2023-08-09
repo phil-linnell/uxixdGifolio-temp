@@ -1,6 +1,12 @@
 const gifs = [
 
    {
+    day: "064",
+    content: "Simple interactions are often best, like this gaming radial dial + button combo.",
+    client: "OEM X",
+    gif: "carconnectedtech.mp4"
+   },
+   {
     day: "063",
     content: "Simple interactions are often best, like this gaming radial dial + button combo.",
     client: "Science Museum",
