@@ -8,7 +8,7 @@ const gifs = [
    },
    {
     day: "064",
-    content: "Simple interactions are often best, like this gaming radial dial + button combo.",
+    content: "Lorem ipsum.",
     client: "OEM X",
     gif: "carconnectedtech.mp4"
    },
