@@ -1,5 +1,11 @@
 const gifs = [
- 
+
+ {
+    day: "012",
+    content: "An unboxing narrative that releases components in order of setup steps.",
+    client: "PlayStation",
+    gif: "playtvunbox.mp4"
+  }, 
   {
     day: "011",
     content: "Using an Xbox Kinect camera to detect driver's gaze and therefore when the HMI needs to display.",
