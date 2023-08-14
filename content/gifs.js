@@ -1,6 +1,24 @@
 const gifs = [
 
- {
+  {
+    day: "015",
+    content: "An AR car configurator with life-size Land Rover so you can picture yours in your driveway.",
+    client: "JLR | ustwo",
+    gif: "jlrar.mp4"
+  },
+  {
+    day: "014",
+    content: "Unboxing has become a YouTube trend. If done right, it can increase sales.",
+    client: "Micro but Many",
+    gif: "mmunbox.mp4"
+  },
+  {
+    day: "013",
+    content: "Concept for an interactive touch sphere using interior projection and touch-sensitive mesh.",
+    client: "NBA | AllofUs",
+    gif: "nbabasketball.mp4"
+  },
+  {
     day: "012",
     content: "An unboxing narrative that releases components in order of setup steps.",
     client: "PlayStation",
