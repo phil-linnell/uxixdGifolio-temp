@@ -30,11 +30,11 @@ const gifs = [
     client: "PlayStation",
     gif: "playstationar.mp4"
    },
-   {
+  {
     day: "061",
-    content: "A highly in-depth touchscreen ring creator using state-of-the-art (for the time) 3D tech.",
-    client: "V&A",
-    gif: "vadesignaring.mp4"
+    content: "Reductionist approach to glanceable turn-by-turn motorcycle navigation.",
+    client: "Ducati",
+    gif: "ducaticluster.mp4"
   },
   {
     day: "060",
@@ -176,9 +176,9 @@ const gifs = [
   },
   {
     day: "037",
-    content: "Reductionist approach to glanceable turn-by-turn motorcycle navigation.",
-    client: "Ducati",
-    gif: "ducaticluster.mp4"
+    content: "A highly in-depth touchscreen ring creator using state-of-the-art (for the time) 3D tech.",
+    client: "V&A",
+    gif: "vadesignaring.mp4"
   },
   {
     day: "036",
