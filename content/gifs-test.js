@@ -1,6 +1,12 @@
 const gifs = [
 
    {
+    day: "066",
+    content: "How do you get a golf ball into a lemon? This warm-up exercise is ideal for democratising wild ideas.",
+    client: "NA",
+    gif: "warmup.mp4"
+   },
+   {
     day: "065",
     content: "We wrote a second book on UX for autonomy to bring best practise to the field and to start the conversation.",
     client: "ustwo",
