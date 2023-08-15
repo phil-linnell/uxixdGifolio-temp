@@ -1,6 +1,12 @@
 const gifs = [
 
   {
+    day: "016",
+    content: "Design your island on the physical game-board as it comes to life with AR on screen.",
+    client: "Science Museum",
+    gif: "sciencemuseum.mp4"
+  },
+  {
     day: "015",
     content: "An AR car configurator with life-size Land Rover so you can picture yours in your driveway.",
     client: "JLR | ustwo",
