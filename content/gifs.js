@@ -1,6 +1,12 @@
 const gifs = [
 
   {
+    day: "017",
+    content: "We wrote a book on in-car HMI to bring best practise to the field and to start the conversation.",
+    client: "ustwo",
+    gif: "ustwoautobook1.mp4"
+  },
+  {
     day: "016",
     content: "Design your island on the physical game-board as it comes to life with AR on screen.",
     client: "Science Museum",
