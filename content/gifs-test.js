@@ -2,7 +2,7 @@ const gifs = [
 
    {
     day: "067",
-    content: "Touchscreen interactive using gamification and play theory to help young visitors learn.",
+    content: "Gamification and play theory sit behind this touchscreen interactive that helps young visitors learn.",
     client: "Science Museum",
     gif: "smgoodbye.mp4"
    },
