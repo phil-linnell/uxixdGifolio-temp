@@ -1,6 +1,12 @@
 const gifs = [
 
    {
+    day: "067",
+    content: "Engaging touch screen interactive using gamification and play theory to help young visitors learn.",
+    client: "Science Museum",
+    gif: "smgoodbye.mp4"
+   },
+   {
     day: "066",
     content: "How do you get a golf ball into a lemon? This warm-up exercise is ideal for democratising wild ideas.",
     client: "NA",
