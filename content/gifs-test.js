@@ -1,6 +1,12 @@
 const gifs = [
 
    {
+    day: "072",
+    content: "Lorem ipsum.",
+    client: "Science Museum",
+    gif: "carboncycletrucks.mp4"
+   },
+   {
     day: "071",
     content: "An ever-telescoping Mount Olympus special edition for this Greek God themed PlayStation franchise.",
     client: "PlayStation",
