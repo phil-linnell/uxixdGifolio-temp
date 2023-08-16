@@ -1,5 +1,5 @@
-econst gifs = [
-  
+const gifs = [
+
    {
     day: "071",
     content: "An ever-telescoping Mount Olympus special edition for this Greek God themed PlayStation franchise.",
