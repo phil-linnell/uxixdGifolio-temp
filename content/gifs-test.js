@@ -1,5 +1,11 @@
 const gifs = [
-
+  
+   {
+    day: "070",
+    content: "An ever-telescoping Mount Olympus special edition for this Greek God themed PlayStation franchise.",
+    client: "PlayStation",
+    gif: "gow.mp4"
+   },
    {
     day: "069",
     content: "Gamification and play theory sit behind this touchscreen interactive that helps young visitors learn.",
