@@ -14,7 +14,7 @@ econst gifs = [
    },
    {
     day: "069",
-    content: "In our book, we speculated that sex might be something to do in driverless cars, coining the term 'The Last Mile Club'.",
+    content: "In our book, we speculate that sex might be something to do in driverless cars, coining the term 'The Last Mile Club'.",
     client: "ustwo",
     gif: "lastmileclub.mp4"
    },
