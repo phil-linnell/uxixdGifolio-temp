@@ -1,16 +1,22 @@
 const gifs = [
   
    {
-    day: "070",
+    day: "071",
     content: "An ever-telescoping Mount Olympus special edition for this Greek God themed PlayStation franchise.",
     client: "PlayStation",
     gif: "gow.mp4"
    },
    {
-    day: "069",
+    day: "070",
     content: "Gamification and play theory sit behind this touchscreen interactive that helps young visitors learn.",
     client: "Science Museum",
     gif: "smgoodbye.mp4"
+   },
+   {
+    day: "069",
+    content: "In our book, we speculated that sex might be something to do in driverless cars, coining the phrase 'The Last Mile Club'.",
+    client: "ustwo",
+    gif: "lastmileclub.mp4"
    },
    {
     day: "068",
