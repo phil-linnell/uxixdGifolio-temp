@@ -1,4 +1,4 @@
-const gifs = [
+econst gifs = [
   
    {
     day: "071",
@@ -32,7 +32,7 @@ const gifs = [
    },
    {
     day: "066",
-    content: "How do you get a golf ball into a lemon? This warm-up exercise is ideal for democratising wild ideas.",
+    content: "How do you get a golf ball into a lemon? This warm-up exercise is ideal for levelling the playing field.",
     client: "NA",
     gif: "warmup.mp4"
    },
