@@ -1,14 +1,20 @@
 const gifs = [
 
    {
-    day: "068",
+    day: "069",
     content: "Gamification and play theory sit behind this touchscreen interactive that helps young visitors learn.",
     client: "Science Museum",
     gif: "smgoodbye.mp4"
    },
    {
+    day: "068",
+    content: "Full branding, UI and HUD for PlayStation's PlayTV device.",
+    client: "PlayStation",
+    gif: "psplaytv.mp4"
+   },
+   {
     day: "067",
-    content: "US Porsche's network of EV chargers as AR beacons to play, collect and get rewards.",
+    content: "Porsche's network of EV chargers double as AR beacons to play, collect and earn rewards.",
     client: "Porsche",
     gif: "porschear.mp4"
    },
