@@ -1,11 +1,11 @@
 const gifs = [
 
-   {
+  {
     day: "075",
-    content: "We had the uniform in which Horatio Nelson was killed carefully imaged for this touch table interactive.",
-    client: "National Maritime Museum",
-    gif: "nelsonsuniform.mp4"
-   },
+    content: "Explore the life-size exterior and interior of your dream car using AR.",
+    client: "JLR | ustwo",
+    gif: "jlrarhmi.mp4"
+  },
    {
     day: "074",
     content: "A guerilla campaign concept for Snapple using fruit labels placed on real fruit in-store, showing off the real fruit ingredients.",
@@ -260,9 +260,9 @@ const gifs = [
   },
   {
     day: "032",
-    content: "Explore the life-size exterior and interior of your dream car using AR.",
-    client: "JLR | ustwo",
-    gif: "jlrarhmi.mp4"
+    content: "We had the uniform in which Horatio Nelson was killed carefully imaged for this touch table interactive.",
+    client: "National Maritime Museum",
+    gif: "nelsonsuniform.mp4"
   },
   {
     day: "031",
