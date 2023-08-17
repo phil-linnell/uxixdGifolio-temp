@@ -8,14 +8,14 @@ const gifs = [
    },
    {
     day: "074",
-    content: "A guerilla campaign concept for Snapple, showing off thier real fruit ingredients.",
+    content: "A guerilla campaign concept for Snapple, using fruit stickers placed on real fruit showing off thier real fruit ingredients.",
     client: "Snapple",
     gif: "snapple.mp4"
    },
    {
     day: "073",
-    content: "Lorem ipsum.",
-    client: "SwiftKey",
+    content: "A brand overhaul and in-product UI uplift for this innovative keyboard digital product.",
+    client: "SwiftKey | ustwo",
     gif: "swiftkey.mp4"
    },
    {
