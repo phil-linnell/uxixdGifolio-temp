@@ -66,18 +66,18 @@ const gifs = [
     client: "ustwo",
     gif: "ustwoautobook2.mp4"
    },
-   {
-    day: "064",
-    content: "We consider the entire digital ecosystem to bring new brand experiences to their customers.",
-    client: "Self-initiated",
-    gif: "carconnectedtech.mp4"
-   },
   {
-    day: "063",
+    day: "064",
     content: "A driverless car should return a pedestrian's thanks to encourage human-machine respect.",
     client: "OEM X",
     gif: "avclosure.mp4"
   },
+     {
+    day: "063",
+    content: "We consider the entire digital ecosystem to bring new brand experiences to their customers.",
+    client: "Self-initiated",
+    gif: "carconnectedtech.mp4"
+   },
    {
     day: "062",
     content: "An online phygital Top Trumps game with physical cards and digital AR components.",
