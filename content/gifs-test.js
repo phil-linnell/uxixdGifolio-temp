@@ -42,12 +42,12 @@ const gifs = [
     client: "ustwo",
     gif: "lastmileclub.mp4"
    },
-   {
+  {
     day: "068",
-    content: "Full branding, UI and HUD for PlayStation's PlayTV device.",
-    client: "PlayStation",
-    gif: "psplaytv.mp4"
-   },
+    content: "Contextual actions. Directions back to your car, with beep and flash offered upon approach.",
+    client: "JLR | ustwo",
+    gif: "jlr.mp4"
+  },
    {
     day: "067",
     content: "Porsche's network of EV chargers double as AR beacons to play, collect and earn rewards.",
@@ -335,12 +335,12 @@ const gifs = [
     content: "An interactive timeline showing the development of autonomous vehicles.",
     client: "ustwo",
     gif: "avtimeline.mp4"
-  },
+  }, 
   {
     day: "019",
-    content: "Contextual actions. Directions back to your car, with beep and flash offered upon approach.",
-    client: "JLR | ustwo",
-    gif: "jlr.mp4"
+    content: "Full branding, UI and HUD for PlayStation's PlayTV device.",
+    client: "PlayStation",
+    gif: "psplaytv.mp4"
   },
   {
     day: "018",
