@@ -1,6 +1,12 @@
 const gifs = [
 
   {
+    day: "019",
+    content: "Full branding, UI and HUD for PlayStation's PlayTV device.",
+    client: "PlayStation",
+    gif: "psplaytv.mp4"
+  },
+  {
     day: "018",
     content: "Contextual surface displays for pairing and authorisation feedback.",
     client: "Garmin",
