@@ -1,4 +1,4 @@
-gnconst gifs = [
+const gifs = [
 
   {
     day: "019",
