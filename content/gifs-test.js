@@ -2,7 +2,7 @@ const gifs = [
 
    {
     day: "075",
-    content: "We had the uniform in which Horatio Nelson was killed photographed for a touch table interactive.",
+    content: "We had the uniform in which Horatio Nelson was killed imaged for this touch table interactive.",
     client: "National Maritime Museum",
     gif: "nelsonsuniform.mp4"
    },
