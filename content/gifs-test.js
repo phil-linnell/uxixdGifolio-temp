@@ -72,12 +72,12 @@ const gifs = [
     client: "Self-initiated",
     gif: "carconnectedtech.mp4"
    },
-   {
+  {
     day: "063",
-    content: "Simple interactions are often best, like this gaming radial dial + button combo.",
-    client: "Science Museum",
-    gif: "greenhouse.mp4"
-   },
+    content: "A driverless car should return a pedestrian's thanks to encourage human-machine respect.",
+    client: "OEM X",
+    gif: "avclosure.mp4"
+  },
    {
     day: "062",
     content: "An online phygital Top Trumps game with physical cards and digital AR components.",
@@ -173,12 +173,12 @@ const gifs = [
     content: "The motorcycle ignition kicks off the startup for the HMI with a colour-coded systems check.",
     client: "Ducati",
     gif: "bikestartup.mp4"
-  },
+  }, 
   {
     day: "046",
-    content: "A driverless car should return a pedestrian's thanks to encourage human-machine respect.",
-    client: "OEM X",
-    gif: "avclosure.mp4"
+    content: "Simple interactions are often best, like this gaming radial dial + button combo.",
+    client: "Science Museum",
+    gif: "greenhouse.mp4"
   },
   {
     day: "045",
