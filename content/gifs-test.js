@@ -26,9 +26,9 @@ const gifs = [
    },
    {
     day: "071",
-    content: "An ever-telescoping Mount Olympus special edition for this Greek God themed PlayStation franchise.",
-    client: "PlayStation",
-    gif: "gow.mp4"
+    content: "Contextual actions. Directions back to your car, with beep and flash offered upon approach.",
+    client: "JLR | ustwo",
+    gif: "jlr.mp4"
    },
    {
     day: "070",
@@ -42,12 +42,12 @@ const gifs = [
     client: "ustwo",
     gif: "lastmileclub.mp4"
    },
-  {
+   {
     day: "068",
-    content: "Contextual actions. Directions back to your car, with beep and flash offered upon approach.",
-    client: "JLR | ustwo",
-    gif: "jlr.mp4"
-  },
+    content: "An ever-telescoping Mount Olympus special edition for this Greek God themed PlayStation franchise.",
+    client: "PlayStation",
+    gif: "gow.mp4"
+   },
    {
     day: "067",
     content: "Porsche's network of EV chargers double as AR beacons to play, collect and earn rewards.",
