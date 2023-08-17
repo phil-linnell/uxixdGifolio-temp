@@ -1,5 +1,11 @@
 const gifs = [
-
+  
+   {
+    day: "074",
+    content: "A guerilla campaign concept for Snapple, showing off thier real fruit ingredients.",
+    client: "Snapple",
+    gif: "snapple.mp4"
+   },
    {
     day: "073",
     content: "Lorem ipsum.",
