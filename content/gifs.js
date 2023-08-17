@@ -1,6 +1,12 @@
 const gifs = [
 
   {
+    day: "018",
+    content: "Contextual surface displays for pairing and authorisation feedback.",
+    client: "Garmin",
+    gif: "garmincar.mp4"
+  },
+  {
     day: "017",
     content: "We wrote a book on in-car HMI to bring best practise to the field and to start the conversation.",
     client: "ustwo",
