@@ -68,7 +68,7 @@ const gifs = [
    },
    {
     day: "064",
-    content: "At UXIXD, we consider the entire digital ecosystem to bring new brand experiences to their customers.",
+    content: "We consider the entire digital ecosystem to bring new brand experiences to their customers.",
     client: "Self-initiated",
     gif: "carconnectedtech.mp4"
    },
