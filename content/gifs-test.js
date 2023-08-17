@@ -1,5 +1,11 @@
 const gifs = [
-  
+
+   {
+    day: "075",
+    content: "We were fortunate enough to have the uniform in which Horatio Nelson was killed, photographed for an interactive.",
+    client: "National Maritime Museum",
+    gif: "nelsonsuniform.mp4"
+   },
    {
     day: "074",
     content: "A guerilla campaign concept for Snapple, showing off thier real fruit ingredients.",
