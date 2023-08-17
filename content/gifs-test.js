@@ -2,7 +2,7 @@ const gifs = [
 
    {
     day: "075",
-    content: "We had the uniform in which Horatio Nelson was killed imaged for this touch table interactive.",
+    content: "We had the uniform in which Horatio Nelson was killed carefully imaged for this touch table interactive.",
     client: "National Maritime Museum",
     gif: "nelsonsuniform.mp4"
    },
@@ -68,8 +68,8 @@ const gifs = [
    },
    {
     day: "064",
-    content: "Lorem ipsum.",
-    client: "OEM X",
+    content: "At UXIXD, we consider the entire digital ecosystem to bring new brand experiences to their customers.",
+    client: "Self-initiated",
     gif: "carconnectedtech.mp4"
    },
    {
