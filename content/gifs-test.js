@@ -12,12 +12,12 @@ const gifs = [
     client: "Snapple",
     gif: "snapple.mp4"
    },
-   {
+  {
     day: "073",
-    content: "A brand overhaul and in-product UI uplift for this innovative keyboard digital product.",
-    client: "SwiftKey | ustwo",
-    gif: "swiftkey.mp4"
-   },
+    content: "Using VR to safely test our electric vehicle sound designs with doppler effect.",
+    client: "Nissan | ustwo",
+    gif: "evsoundtest.mp4"
+  },
    {
     day: "072",
     content: "Lorem ipsum.",
@@ -302,9 +302,9 @@ const gifs = [
   },
   {
     day: "025",
-    content: "Using VR to safely test our electric vehicle sound designs with doppler effect.",
-    client: "Nissan | ustwo",
-    gif: "evsoundtest.mp4"
+    content: "A brand overhaul and in-product UI uplift for this innovative keyboard digital product.",
+    client: "SwiftKey | ustwo",
+    gif: "swiftkey.mp4"
   },
   {
     day: "024",
