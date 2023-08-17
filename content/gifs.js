@@ -1,8 +1,8 @@
-const gifs = [
+gnconst gifs = [
 
   {
     day: "019",
-    content: "Full branding, UI and HUD for PlayStation's PlayTV device.",
+    content: "Full branding, UI and HUD design for PlayStation's PlayTV device.",
     client: "PlayStation",
     gif: "psplaytv.mp4"
   },
