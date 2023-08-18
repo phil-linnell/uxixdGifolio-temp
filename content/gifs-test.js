@@ -200,8 +200,8 @@ const gifs = [
   },
   {
     day: "047",
-    content: "The motorcycle ignition kicks off the startup for the HMI with a colour-coded systems check.",
-    client: "Ducati",
+    content: "This branded motorcycle ignition kicks off the startup for the HMI with a colour-coded systems check.",
+    client: "ustwo",
     gif: "bikestartup.mp4"
   }, 
   {
