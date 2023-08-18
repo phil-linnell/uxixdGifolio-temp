@@ -1,23 +1,23 @@
 const gifs = [
 
-  {
+   {
     day: "075",
-    content: "Explore the life-size exterior and interior of your dream car using AR.",
-    client: "JLR | ustwo",
-    gif: "jlrarhmi.mp4"
-  },
+    content: "An ever-telescoping Mount Olympus special edition for this Greek God themed PlayStation franchise.",
+    client: "PlayStation",
+    gif: "gow.mp4"
+   },
    {
     day: "074",
     content: "A guerilla campaign concept for Snapple using fruit labels placed on real fruit in-store, showing off the real fruit ingredients.",
     client: "Snapple",
     gif: "snapple.mp4"
    },
-  {
+   {
     day: "073",
     content: "Using VR to safely test our electric vehicle sound designs with doppler effect.",
     client: "Nissan | ustwo",
     gif: "evsoundtest.mp4"
-  },
+   },
    {
     day: "072",
     content: "Lorem ipsum.",
@@ -44,9 +44,9 @@ const gifs = [
    },
    {
     day: "068",
-    content: "An ever-telescoping Mount Olympus special edition for this Greek God themed PlayStation franchise.",
-    client: "PlayStation",
-    gif: "gow.mp4"
+    content: "Explore the life-size exterior and interior of your dream car using AR.",
+    client: "JLR | ustwo",
+    gif: "jlrarhmi.mp4"
    },
    {
     day: "067",
