@@ -14,7 +14,7 @@ const gifs = [
    },
    {
     day: "078",
-    content: "Mimicing tilt–shift photography techniques to micro-size animation to a digital game board.",
+    content: "Mimicing tilt–shift photography techniques to micro-size these animations into a digital game board.",
     client: "Science Museum",
     gif: "carboncycletrucks.mp4"
    },
