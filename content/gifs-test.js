@@ -200,7 +200,7 @@ const gifs = [
   },
   {
     day: "047",
-    content: "This branded motorcycle ignition kicks off the startup for the HMI with a colour-coded systems check.",
+    content: "This branded motorcycle ignition kicks off the HMI startup with a colour-coded systems check.",
     client: "ustwo",
     gif: "bikestartup.mp4"
   }, 
