@@ -32,7 +32,7 @@ const gifs = [
    },
    {
     day: "072",
-    content: "We made digital 'executive toys' to help SMEs understand their data.",
+    content: "We made digital 'executive toys' to help SMEs understand and 'play' with their data.",
     client: "Worldpay",
     gif: "worldpaytoy.mp4"
    },
