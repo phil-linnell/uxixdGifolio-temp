@@ -69,7 +69,7 @@ const gifs = [
    {
     day: "066",
     content: "How do you get a golf ball into a lemon? This warm-up exercise is ideal for levelling the playing field.",
-    client: "NA",
+    client: "Self-initiated",
     gif: "warmup.mp4"
    },
    {
