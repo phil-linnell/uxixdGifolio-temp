@@ -8,7 +8,7 @@ const gifs = [
    },
    {
     day: "079",
-    content: "Lorem ipsum.",
+    content: "Experimenting with anaglyph 3D as a means to compress and decompress more info into smaller physical formats.",
     client: "Self-initiated",
     gif: "vmap.mp4"
    },
