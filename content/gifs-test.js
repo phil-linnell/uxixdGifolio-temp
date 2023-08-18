@@ -134,7 +134,7 @@ const gifs = [
   },
   {
     day: "055",
-    content: "Placeholder image and text.",
+    content: "Interactive dice in more ways than one. This dice turns our brand colour when in the dark.",
     client: "Self-initiated",
     gif: "dicetemp.mp4"
   },
