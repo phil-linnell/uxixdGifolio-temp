@@ -1,6 +1,12 @@
 const gifs = [
 
    {
+    day: "080",
+    content: "Lorem ipsum.",
+    client: "Ford",
+    gif: "fordas.mp4"
+   },
+   {
     day: "079",
     content: "Lorem ipsum.",
     client: "Self-initiated",
