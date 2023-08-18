@@ -26,7 +26,7 @@ const gifs = [
    },
    {
     day: "075",
-    content: "We disected a chat between Michael Knight and K.I.T.T. to start understanding how we can tal to driverless cars.",
+    content: "We disected a chat between Michael Knight and K.I.T.T. to start understanding how we can talk to driverless cars.",
     client: "ustwo",
     gif: "avchat.mp4"
    },
