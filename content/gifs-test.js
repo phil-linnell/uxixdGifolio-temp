@@ -1,6 +1,12 @@
 const gifs = [
 
    {
+    day: "076",
+    content: "Innovative packaging with a double pull-to-open mechanic, exposing secret compartments.",
+    client: "PlayStation",
+    gif: "psclank.mp4"
+   },
+   {
     day: "075",
     content: "An ever-telescoping Mount Olympus special edition for this Greek God themed PlayStation franchise.",
     client: "PlayStation",
