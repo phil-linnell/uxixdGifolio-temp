@@ -2,7 +2,7 @@ const gifs = [
 
    {
     day: "080",
-    content: "When making the right thing and making the thing right, its important to include real users, like we did in this Ford workshop.",
+    content: "Making the right thing and making the thing right means including real users, like we did in this Ford workshop.",
     client: "Ford",
     gif: "fordas.mp4"
    },
