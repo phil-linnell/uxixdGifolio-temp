@@ -285,7 +285,7 @@ const gifs = [
   {
     day: "030",
     content: "An upward-facing fan provides user feedback that their hand is correctly in the designated area in which gestures are read by the HMI.",
-    client: "OEM X",
+    client: "Toyota | ustwo",
     gif: "gesturezone.mp4"
   },
   {
