@@ -1,6 +1,12 @@
 const gifs = [
 
    {
+    day: "077",
+    content: "Lorem ipsum.",
+    client: "Science Museum",
+    gif: "carboncycletrucks.mp4"
+   },
+   {
     day: "076",
     content: "Innovative packaging with a double pull-to-open mechanic, exposing secret compartments.",
     client: "PlayStation",
@@ -26,9 +32,9 @@ const gifs = [
    },
    {
     day: "072",
-    content: "Lorem ipsum.",
-    client: "Science Museum",
-    gif: "carboncycletrucks.mp4"
+    content: "We made digital 'executive toys' to help SMEs understand their data.",
+    client: "Worldpay",
+    gif: "worldpaytoys.mp4"
    },
    {
     day: "071",
