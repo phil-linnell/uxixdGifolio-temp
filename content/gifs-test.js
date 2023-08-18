@@ -34,7 +34,7 @@ const gifs = [
     day: "072",
     content: "We made digital 'executive toys' to help SMEs understand their data.",
     client: "Worldpay",
-    gif: "worldpaytoys.mp4"
+    gif: "worldpaytoy.mp4"
    },
    {
     day: "071",
