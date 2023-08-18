@@ -1,28 +1,34 @@
 const gifs = [
 
    {
-    day: "078",
+    day: "079",
     content: "Lorem ipsum.",
     client: "Self-initiated",
     gif: "vmap.mp4"
    },
    {
-    day: "077",
+    day: "078",
     content: "Lorem ipsum.",
     client: "Science Museum",
     gif: "carboncycletrucks.mp4"
    },
    {
-    day: "076",
+    day: "077",
     content: "Innovative packaging with a double pull-to-open mechanic, exposing secret compartments.",
     client: "PlayStation",
     gif: "psclank.mp4"
    },
    {
-    day: "075",
+    day: "076",
     content: "An ever-telescoping Mount Olympus special edition for this Greek God themed PlayStation franchise.",
     client: "PlayStation",
     gif: "gow.mp4"
+   },
+   {
+    day: "075",
+    content: "We disected a chat between Michael Knight and K.I.T.T. to start understanding how we can tal to driverless cars.",
+    client: "ustwo",
+    gif: "avchat.mp4"
    },
    {
     day: "074",
