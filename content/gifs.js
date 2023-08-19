@@ -1,5 +1,11 @@
 const gifs = [
-
+  
+  {
+    day: "020",
+    content: "An interactive timeline showing the development of autonomous vehicles.",
+    client: "ustwo",
+    gif: "avtimeline.mp4"
+  }, 
   {
     day: "019",
     content: "Full branding, UI and HUD design for PlayStation's PlayTV device.",
