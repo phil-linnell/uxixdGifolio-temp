@@ -1,4 +1,4 @@
-import * as React from "react";
+import React, { useState } from "react";
 import { graphql } from "gatsby";
 import classnames from "classnames";
 import { StaticImage } from "gatsby-plugin-image";
@@ -18,17 +18,27 @@ const Home = ({ data }) => {
   });
   const allGifs = data.allFile.edges.map(x => x.node);
 
-
   const renderAll = [];
 
+  const [toggledGif, setToggledGif] = useState(0);
+
   const renderGifs = gifs.map((gif, i) => {
+    const classes = classnames(styles.item, styles.itemGif, {
+      [styles.itemHover]: toggledGif === i + 1
+    });
     return (
-      <li key={`key${gif.day}`} className={`${styles.item} ${styles.itemGif}`}>
+      <li
+        key={`key${gif.day}`}
+        className={classes}
+        onTouchStart={() => setToggledGif(i + 1)}
+        onTouchEnd={() => setToggledGif(0)}
+        type="button"
+      >
         <div className={styles.caption}>
           <div className={styles.captionInner}>
             <div className={styles.day}>Day {gif.day}</div>
             <p>{gif.content}</p>
-            <p className={styles.client}><strong>Client: </strong>{gif.client}</p>
+            <p className={styles.client}><strong>{gif.client}</strong></p>
           </div>
         </div>
         <div className={styles.gif}>

@@ -371,6 +371,12 @@
   font-size: calc(12px + (17 - 12) * ((100vw - 320px) / (3200 - 320)));
 }
 
+@media screen and (min-width: 450px) {
+  .caption {
+    font-size: calc(14px + (17 - 14) * ((100vw - 320px) / (3200 - 320)));
+  }
+}
+
 .caption:before {
   content: "";
   background: #f2ffbf;
@@ -398,24 +404,23 @@
 
 .day {
   text-decoration: underline;
-  margin-bottom: 0.5em;
+  margin-bottom: 0.4em;
 }
 
 .client {
-  margin-top: 0.5em;
+  margin-top: 0.4em;
 }
 
-.item:hover .captionInner {
+.item:hover .captionInner, 
+.item.itemHover .captionInner {
   opacity: 1;
   transition: opacity 0.2s ease-in-out 0s;
-  /* transition: all 5s ease-in-out; */
-  /* transform: translateY(0); */
 }
 
-.item:hover .caption:before {
+.item:hover .caption:before,
+.item.itemHover .caption:before {
   width: 400%;
   height: 400%;
-  /* border-bottom-right-radius: 10px; */
 }
 
 .gif {
@@ -433,7 +438,7 @@
 
 .day,
 .itemNumber {
-  font-size: calc(12px + (19 - 12) * ((100vw - 320px) / (3200 - 320)));
+  font-size: calc(14px + (17 - 14) * ((100vw - 320px) / (3200 - 320)));
   font-family: "SpaceMono", Arial, Helvetica, sans-serif;
 }
 
