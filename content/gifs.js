@@ -1,6 +1,12 @@
 const gifs = [
   
   {
+    day: "021",
+    content: "A metal cube levitates with electro-magnets + precision weight distribution.",
+    client: "Huawei | AllofUs",
+    gif: "huaweicube.mp4"
+  },
+  {
     day: "020",
     content: "An interactive timeline showing the development of autonomous vehicles.",
     client: "ustwo",
