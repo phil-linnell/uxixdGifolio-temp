@@ -315,11 +315,12 @@
   margin: 7px;
   box-sizing: border-box;
   background-color: white;
+  overflow: hidden;
+  /* -webkit-appearance: none;
+  appearance: none; */
+  border: none;
   border-radius: 10px;
   overflow: hidden;
-  -webkit-appearance: none;
-  appearance: none;
-  border: none;
 }
 
 .itemGif {
@@ -358,6 +359,14 @@
   left: 0;
   height: 100%;
   width: 100%;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+@media screen and (min-width: 768px) {
+  .item .gif {
+    border-radius: 15px;
+  }
 }
 
 .caption {
@@ -374,6 +383,8 @@
   font-size: calc(12px + (17 - 12) * ((100vw - 320px) / (3200 - 320)));
   pointer-events: none;
   text-align: left;
+  border-radius: 10px;
+  overflow: hidden;
 }
 
 @media screen and (min-width: 450px) {
@@ -391,7 +402,9 @@
   left: 0;
   width: 0;
   height: 0;
+  overflow: hidden;
   transition: all 0.5s ease-in-out;
+  border-radius: 10px;
   border-bottom-right-radius: 200px;
 }
 .captionInner {
@@ -404,6 +417,7 @@
 @media screen and (min-width: 768px) {
   .caption {
     padding: 10px 15px;
+    border-radius: 15px;
   }
 }
 
