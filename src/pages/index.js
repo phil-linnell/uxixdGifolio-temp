@@ -20,6 +20,7 @@ const Home = ({ data }) => {
 
   const renderAll = [];
 
+  const [hover, setHover] = useState(false);
   const [toggledGif, setToggledGif] = useState(null);
 
   const renderGifs = gifs.map((gif, i) => {
@@ -30,9 +31,15 @@ const Home = ({ data }) => {
       <button
         key={`key${gif.day}-${i}`}
         className={itemClasses}
-        // onClick={() => setToggledGif(toggledGif === i + 1 ? null : i + 1)}
-        onMouseEnter={() => setToggledGif(toggledGif === i + 1 ? null : i + 1)}
-        onMouseLeave={() => setToggledGif(toggledGif === i + 1 ? null : i + 1)}
+        onClick={() => !hover && setToggledGif(toggledGif === i + 1 ? null : i + 1)}
+        onMouseEnter={() => { 
+          setHover(true);
+          setToggledGif(i + 1);
+        }}
+        onMouseLeave={() => {
+          setHover(false);
+          setToggledGif(null);
+        }}
       >
         <div className={styles.caption}>
           <div className={styles.captionInner}>
