@@ -411,16 +411,28 @@
   margin-top: 0.4em;
 }
 
-.item:hover .captionInner, 
-.item.itemHover .captionInner {
-  opacity: 1;
-  transition: opacity 0.2s ease-in-out 0s;
+@media (hover: none) {
+  .item:active .captionInner {
+    opacity: 1;
+    transition: opacity 0.2s ease-in-out 0s;
+  }
+
+  .item:active .caption:before {
+    width: 400%;
+    height: 400%;
+  }
 }
 
-.item:hover .caption:before,
-.item.itemHover .caption:before {
-  width: 400%;
-  height: 400%;
+@media (hover: hover) {
+  .item:hover .captionInner {
+    opacity: 1;
+    transition: opacity 0.2s ease-in-out 0s;
+  }
+
+  .item:hover .caption:before {
+    width: 400%;
+    height: 400%;
+  }
 }
 
 .gif {
