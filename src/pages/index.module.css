@@ -412,12 +412,12 @@
 }
 
 @media (hover: none) {
-  .item:active .captionInner {
+  .item.itemHover .captionInner {
     opacity: 1;
     transition: opacity 0.2s ease-in-out 0s;
   }
 
-  .item:active .caption:before {
+  .item.itemHover .caption:before {
     width: 400%;
     height: 400%;
   }

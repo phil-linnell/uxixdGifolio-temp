@@ -20,7 +20,7 @@ const Home = ({ data }) => {
 
   const renderAll = [];
 
-  const [toggledGif, setToggledGif] = useState(0);
+  const [toggledGif, setToggledGif] = useState(null);
 
   const renderGifs = gifs.map((gif, i) => {
     const classes = classnames(styles.item, styles.itemGif, {
@@ -30,8 +30,7 @@ const Home = ({ data }) => {
       <li
         key={`key${gif.day}`}
         className={classes}
-        onTouchStart={() => setToggledGif(i + 1)}
-        onTouchEnd={() => setToggledGif(0)}
+        onClick={() => setToggledGif(toggledGif === i + 1 ? null : i + 1)}
         type="button"
       >
         <div className={styles.caption}>
