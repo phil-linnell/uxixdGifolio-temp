@@ -3,7 +3,7 @@ import { graphql } from "gatsby";
 import classnames from "classnames";
 import { StaticImage } from "gatsby-plugin-image";
 import LazyLoad from "react-lazy-load";
-import { isMobile } from "detect-touch-device";
+import { isMobile } from "react-device-detect";
 import Meta from "../components/meta";
 import { useScrollPosition } from "../utils/hooks";
 import gifs from "../../content/gifs.js";
