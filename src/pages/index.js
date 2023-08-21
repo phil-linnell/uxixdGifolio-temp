@@ -32,11 +32,13 @@ const Home = ({ data }) => {
         key={`key${gif.day}-${i}`}
         className={itemClasses}
         onClick={() => !hover && setToggledGif(toggledGif === i + 1 ? null : i + 1)}
-        onMouseEnter={() => { 
+        onMouseEnter={(e) => { 
+          e.preventDefault();
           setHover(true);
           setToggledGif(i + 1);
         }}
-        onMouseLeave={() => {
+        onMouseLeave={(e) => {
+          e.preventDefault();
           setHover(false);
           setToggledGif(null);
         }}
