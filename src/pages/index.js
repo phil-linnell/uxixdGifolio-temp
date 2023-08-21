@@ -3,6 +3,7 @@ import { graphql } from "gatsby";
 import classnames from "classnames";
 import { StaticImage } from "gatsby-plugin-image";
 import LazyLoad from "react-lazy-load";
+import { isMobile } from "detect-touch-device";
 import Meta from "../components/meta";
 import { useScrollPosition } from "../utils/hooks";
 import gifs from "../../content/gifs.js";
@@ -20,7 +21,6 @@ const Home = ({ data }) => {
 
   const renderAll = [];
 
-  const [hover, setHover] = useState(false);
   const [toggledGif, setToggledGif] = useState(null);
 
   const renderGifs = gifs.map((gif, i) => {
@@ -31,17 +31,9 @@ const Home = ({ data }) => {
       <button
         key={`key${gif.day}-${i}`}
         className={itemClasses}
-        onClick={() => !hover && setToggledGif(toggledGif === i + 1 ? null : i + 1)}
-        onMouseEnter={(e) => { 
-          e.preventDefault();
-          setHover(true);
-          setToggledGif(i + 1);
-        }}
-        onMouseLeave={(e) => {
-          e.preventDefault();
-          setHover(false);
-          setToggledGif(null);
-        }}
+        onClick={() => isMobile && setToggledGif(toggledGif === i + 1 ? null : i + 1)}
+        onMouseEnter={() => setToggledGif(i + 1)}
+        onMouseLeave={() => setToggledGif(null)}
       >
         <div className={styles.caption}>
           <div className={styles.captionInner}>
