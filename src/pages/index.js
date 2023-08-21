@@ -23,14 +23,15 @@ const Home = ({ data }) => {
   const [toggledGif, setToggledGif] = useState(null);
 
   const renderGifs = gifs.map((gif, i) => {
-    const classes = classnames(styles.item, styles.itemGif, {
+    const itemClasses = classnames(styles.item, styles.itemGif, {
       [styles.itemHover]: toggledGif === i + 1
     });
     return (
       <li
-        key={`key${gif.day}`}
-        className={classes}
-        onClick={() => setToggledGif(toggledGif === i + 1 ? null : i + 1)}
+        key={`key${gif.day}-${i}`}
+        className={itemClasses}
+        onTouchStart={() => setToggledGif(toggledGif === i + 1 ? null : i + 1)}
+        // onClick={() => setToggledGif(toggledGif === i + 1 ? null : i + 1)}
         type="button"
       >
         <div className={styles.caption}>
@@ -44,7 +45,7 @@ const Home = ({ data }) => {
           {
             allGifs.map(item => item.relativePath === gif.gif 
               ? item.extension === "mp4" 
-                ? <LazyLoad><video key={item.relativePath} autoPlay loop playsInline muted><source src={item.publicURL} type="video/mp4" /><track kind="captions" /></video></LazyLoad>
+                ? <LazyLoad key={item.relativePath}><video key={item.relativePath} autoPlay loop playsInline muted><source src={item.publicURL} type="video/mp4" /><track kind="captions" /></video></LazyLoad>
                 : <img key={item.publicURL} src={item.publicURL} alt="" />
               : "")
           }
