@@ -1,5 +1,11 @@
 const gifs = [
-  
+
+  {
+    day: "022",
+    content: "An AV should not provide a crossing for a pedestrian, unless the road's full width can be crossed.",
+    client: "OEM X",
+    gif: "avcrossing.mp4"
+  },
   {
     day: "021",
     content: "A metal cube levitates with electro-magnets + precision weight distribution.",
