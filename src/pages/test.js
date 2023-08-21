@@ -1,4 +1,4 @@
-import * as React from "react";
+import React, { useState } from "react";
 import { graphql } from "gatsby";
 import classnames from "classnames";
 import { StaticImage } from "gatsby-plugin-image";
@@ -11,44 +11,52 @@ import * as styles from "./index.module.css";
 import logoFooter from "../assets/uxixd-logo-alt.png";
 import iconExternal from "../assets/icon-external.png";
 
-const Test = ({ data }) => {
+const Home = ({ data }) => {
   const scrollY = useScrollPosition();
   const classes = classnames(styles.container, {
     [styles.scrolled]: scrollY > 0
   });
   const allGifs = data.allFile.edges.map(x => x.node);
 
-
   const renderAll = [];
 
+  const [toggledGif, setToggledGif] = useState(false);
+
   const renderGifs = gifs.map((gif, i) => {
+    const itemClasses = classnames(styles.item, styles.itemGif, {
+      [styles.itemHover]: toggledGif
+    });
     return (
-      <li key={`key${gif.day}`} className={`${styles.item} ${styles.itemGif}`}>
+      <button
+        key={`key${gif.day}-${i}`}
+        className={itemClasses}
+        onClick={() => setToggledGif(!toggledGif)}
+      >
         <div className={styles.caption}>
           <div className={styles.captionInner}>
             <div className={styles.day}>Day {gif.day}</div>
             <p>{gif.content}</p>
-            <p className={styles.client}><strong>Client: </strong>{gif.client}</p>
+            <p className={styles.client}><strong>{gif.client}</strong></p>
           </div>
         </div>
         <div className={styles.gif}>
           {
             allGifs.map(item => item.relativePath === gif.gif
               ? item.extension === "mp4"
-                ? <LazyLoad><video key={item.relativePath} autoPlay loop playsInline muted><source src={item.publicURL} type="video/mp4" /><track kind="captions" /></video></LazyLoad>
+                ? <LazyLoad key={item.relativePath}><video key={item.relativePath} autoPlay loop playsInline muted><source src={item.publicURL} type="video/mp4" /><track kind="captions" /></video></LazyLoad>
                 : <img key={item.publicURL} src={item.publicURL} alt="" />
               : "")
           }
           <div className={`${styles.itemNumber} ${i === 0 ? styles.newItem : ""}`}>{i === 0 ? "NEW" : gif.day}</div>
         </div>
-      </li>
+      </button>
     );
   });
 
   const noOfBlanks = 100 - gifs.length;
 
   const renderBlanks = [...Array(noOfBlanks)].map((_, i) => (
-    <li className={`${styles.item} ${styles.itemBlank}`} key={`key${i}`}><div className={styles.content} /></li>
+    <div className={`${styles.item} ${styles.itemBlank}`} key={`key${i}`}><div /></div>
   ));
 
   renderAll.push(renderGifs);
@@ -58,19 +66,19 @@ const Test = ({ data }) => {
     <div className={classes}>
       <header className={styles.header}>
         <div className={styles.headerInner}>
-          <div className={`${styles.headerButton} ${styles.buttonXX}`}><a href="https://uxixd.com" aria-label="XX" /></div>
-          <div className={`${styles.headerButton} ${styles.buttonLinktree}`}><a href="https://linktr.ee/uxixd" aria-label="Linktree" /></div>
+          <div className={`${styles.headerButton} ${styles.buttonXX}`}><a href="https://uxixd.com" aria-label="XX"> </a></div>
+          <div className={`${styles.headerButton} ${styles.buttonLinktree}`}><a href="https://linktr.ee/uxixd" aria-label="Linktree"> </a></div>
           <div className={styles.headerContent}>
             <h1><StaticImage src="../assets/uxixd-logo.png" alt="UXIXD Gifolio" placeholder="none" /></h1>
             <div className={styles.strapline}>100 days of <strong>UX</strong> &amp; <strong>IXD</strong> gifs</div>
           </div>
-          <div className={`${styles.headerButton} ${styles.buttonEmail}`}><a href="mailto:gifolio@uxixd.com" aria-label="Email" /></div>
+          <div className={`${styles.headerButton} ${styles.buttonEmail}`}><a href="mailto:gifolio@uxixd.com" aria-label="Email"> </a></div>
         </div>
       </header>
       <div className={styles.listWrapper}>
-        <ul className={styles.list}>
+        <div className={styles.list}>
           {renderAll}
-        </ul>
+        </div>
       </div>
       <footer className={styles.footer}>
         <div className={styles.footerInner}>
@@ -84,7 +92,7 @@ const Test = ({ data }) => {
             <div>
               <span className={styles.copy}>&copy;</span> Tim Smith 2023
             </div>
-            <a href="https://uxixd.com/#privacy" target="_blank">Privacy Policy <img src={iconExternal} alt="" /></a>
+            <a href="https://uxixd.com/#privacy" target="_blank" rel="noreferrer">Privacy Policy <img src={iconExternal} alt="" /></a>
           </div>
         </div>
       </footer>
@@ -92,10 +100,10 @@ const Test = ({ data }) => {
   );
 }
 
-export default Test;
+export default Home;
 
 export const Head = () => {
-  return <Meta noIndex />
+  return <Meta />
 };
 
 export const query = graphql`

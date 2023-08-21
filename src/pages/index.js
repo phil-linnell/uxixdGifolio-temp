@@ -27,12 +27,10 @@ const Home = ({ data }) => {
       [styles.itemHover]: toggledGif === i + 1
     });
     return (
-      <li
+      <button
         key={`key${gif.day}-${i}`}
         className={itemClasses}
-        onTouchStart={() => setToggledGif(toggledGif === i + 1 ? null : i + 1)}
-        // onClick={() => setToggledGif(toggledGif === i + 1 ? null : i + 1)}
-        type="button"
+        onClick={() => setToggledGif(toggledGif === i + 1 ? null : i + 1)}
       >
         <div className={styles.caption}>
           <div className={styles.captionInner}>
@@ -51,14 +49,14 @@ const Home = ({ data }) => {
           }
           <div className={`${styles.itemNumber} ${i === 0 ? styles.newItem : ""}`}>{i === 0 ? "NEW" : gif.day}</div>
         </div>
-      </li>
+      </button>
     );
   });
   
   const noOfBlanks = 100 - gifs.length;
 
   const renderBlanks = [...Array(noOfBlanks)].map((_, i) => (
-    <li className={`${styles.item} ${styles.itemBlank}`} key={`key${i}`}><div className={styles.content} /></li>
+    <div className={`${styles.item} ${styles.itemBlank}`} key={`key${i}`}><div /></div>
   ));
     
   renderAll.push(renderGifs);
@@ -68,19 +66,19 @@ const Home = ({ data }) => {
     <div className={classes}>
       <header className={styles.header}>
         <div className={styles.headerInner}>
-          <div className={`${styles.headerButton} ${styles.buttonXX}`}><a href="https://uxixd.com" aria-label="XX" /></div>
-          <div className={`${styles.headerButton} ${styles.buttonLinktree}`}><a href="https://linktr.ee/uxixd" aria-label="Linktree" /></div>
+          <div className={`${styles.headerButton} ${styles.buttonXX}`}><a href="https://uxixd.com" aria-label="XX"> </a></div>
+          <div className={`${styles.headerButton} ${styles.buttonLinktree}`}><a href="https://linktr.ee/uxixd" aria-label="Linktree"> </a></div>
           <div className={styles.headerContent}>
             <h1><StaticImage src="../assets/uxixd-logo.png" alt="UXIXD Gifolio" placeholder="none" /></h1>
             <div className={styles.strapline}>100 days of <strong>UX</strong> &amp; <strong>IXD</strong> gifs</div>
           </div>
-          <div className={`${styles.headerButton} ${styles.buttonEmail}`}><a href="mailto:gifolio@uxixd.com" aria-label="Email" /></div>
+          <div className={`${styles.headerButton} ${styles.buttonEmail}`}><a href="mailto:gifolio@uxixd.com" aria-label="Email"> </a></div>
         </div>
       </header>
       <div className={styles.listWrapper}>
-        <ul className={styles.list}>
+        <div className={styles.list}>
           {renderAll}
-        </ul>
+        </div>
       </div>
       <footer className={styles.footer}>
         <div className={styles.footerInner}>
@@ -94,7 +92,7 @@ const Home = ({ data }) => {
             <div>
               <span className={styles.copy}>&copy;</span> Tim Smith 2023
             </div>
-            <a href="https://uxixd.com/#privacy" target="_blank">Privacy Policy <img src={iconExternal} alt="" /></a>
+            <a href="https://uxixd.com/#privacy" target="_blank" rel="noreferrer">Privacy Policy <img src={iconExternal} alt="" /></a>
           </div>
         </div>
       </footer>
