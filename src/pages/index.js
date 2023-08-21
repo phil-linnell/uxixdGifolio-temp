@@ -30,7 +30,7 @@ const Home = ({ data }) => {
       <button
         key={`key${gif.day}-${i}`}
         className={itemClasses}
-        onClick={() => setToggledGif(toggledGif === i + 1 ? null : i + 1)}
+        // onClick={() => setToggledGif(toggledGif === i + 1 ? null : i + 1)}
         onMouseEnter={() => setToggledGif(toggledGif === i + 1 ? null : i + 1)}
         onMouseLeave={() => setToggledGif(toggledGif === i + 1 ? null : i + 1)}
       >
