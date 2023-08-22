@@ -387,12 +387,6 @@
   overflow: hidden;
 }
 
-@media screen and (min-width: 450px) {
-  .caption {
-    font-size: calc(14px + (17 - 14) * ((100vw - 320px) / (3200 - 320)));
-  }
-}
-
 .caption:before {
   content: "";
   background: #f2ffbf;
@@ -458,7 +452,7 @@
 
 .day,
 .itemNumber {
-  font-size: calc(14px + (17 - 14) * ((100vw - 320px) / (3200 - 320)));
+  font-size: calc(12px + (17 - 12) * ((100vw - 320px) / (3200 - 320)));
   font-family: "SpaceMono", Arial, Helvetica, sans-serif;
 }
 
