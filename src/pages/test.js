@@ -3,6 +3,7 @@ import { graphql } from "gatsby";
 import classnames from "classnames";
 import { StaticImage } from "gatsby-plugin-image";
 import LazyLoad from "react-lazy-load";
+import { isMobile } from "react-device-detect";
 import Meta from "../components/meta";
 import { useScrollPosition } from "../utils/hooks";
 import gifs from "../../content/gifs-test.js";
@@ -20,17 +21,21 @@ const Home = ({ data }) => {
 
   const renderAll = [];
 
-  const [toggledGif, setToggledGif] = useState(false);
+  const [toggledGif, setToggledGif] = useState(null);
 
   const renderGifs = gifs.map((gif, i) => {
     const itemClasses = classnames(styles.item, styles.itemGif, {
-      [styles.itemHover]: toggledGif
+      [styles.itemHover]: toggledGif === i + 1
     });
     return (
-      <button
+      <li
         key={`key${gif.day}-${i}`}
         className={itemClasses}
-        onClick={() => setToggledGif(!toggledGif)}
+        onClick={() => isMobile && setToggledGif(toggledGif === i + 1 ? null : i + 1)}
+        onMouseEnter={() => setToggledGif(i + 1)}
+        onMouseLeave={() => setToggledGif(null)}
+        type="button"
+        role="button"
       >
         <div className={styles.caption}>
           <div className={styles.captionInner}>
@@ -49,14 +54,14 @@ const Home = ({ data }) => {
           }
           <div className={`${styles.itemNumber} ${i === 0 ? styles.newItem : ""}`}>{i === 0 ? "NEW" : gif.day}</div>
         </div>
-      </button>
+      </li>
     );
   });
 
   const noOfBlanks = 100 - gifs.length;
 
   const renderBlanks = [...Array(noOfBlanks)].map((_, i) => (
-    <div className={`${styles.item} ${styles.itemBlank}`} key={`key${i}`}><div /></div>
+    <li className={`${styles.item} ${styles.itemBlank}`} key={`key${i}`}><div /></li>
   ));
 
   renderAll.push(renderGifs);
@@ -76,9 +81,9 @@ const Home = ({ data }) => {
         </div>
       </header>
       <div className={styles.listWrapper}>
-        <div className={styles.list}>
+        <ul className={styles.list}>
           {renderAll}
-        </div>
+        </ul>
       </div>
       <footer className={styles.footer}>
         <div className={styles.footerInner}>
