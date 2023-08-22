@@ -417,12 +417,16 @@
 
 .day {
   text-decoration: underline;
-  margin-bottom: 0.4em;
+  margin-bottom: 0.25em;
 }
 
-.client {
-  margin-top: 0.4em;
+.captionInner p {
+  margin-bottom: 0.25em;
 }
+
+/* .client {
+  margin-top: 0.25em;
+} */
 
 /* .item:hover .captionInner, */
 .item.itemHover .captionInner {
