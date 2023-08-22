@@ -2,7 +2,7 @@ const gifs = [
 
   {
     day: "023",
-    content: "Move map under pin, rather than move pin. A green aperture reaffrims focus on selection.",
+    content: "Move map under pin, rather than move pin. A green aperture reaffirms focus on selection.",
     client: "Ford | ustwo",
     gif: "fordgoparkzone.mp4"
   },
