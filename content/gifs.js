@@ -1,6 +1,12 @@
 const gifs = [
 
   {
+    day: "023",
+    content: "Move map under pin, rather than move pin. A green aperture reaffirms focus on selection.",
+    client: "Ford | ustwo",
+    gif: "fordgoparkzone.mp4"
+  },
+  {
     day: "022",
     content: "An AV should not provide a crossing for a pedestrian, unless the road's full width can be crossed.",
     client: "OEM X",
