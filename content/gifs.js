@@ -1,5 +1,11 @@
 const gifs = [
 
+ {
+    day: "024",
+    content: "A 'phygital' twin of a working project helps test for digital and physical / ergonomic requirements offsite.",
+    client: "AllofUs",
+    gif: "phygitaltwin.mp4"
+  },
   {
     day: "023",
     content: "Move map under pin, rather than move pin. A green aperture reaffirms focus on selection.",
