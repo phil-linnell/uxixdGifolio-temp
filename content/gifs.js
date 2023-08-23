@@ -1,6 +1,12 @@
 const gifs = [
 
  {
+    day: "025",
+    content: "A brand overhaul and in-product UI uplift for this innovative keyboard digital product.",
+    client: "SwiftKey | ustwo",
+    gif: "swiftkey.mp4"
+  },
+  {
     day: "024",
     content: "A 'phygital' twin of a working project helps test for digital and physical / ergonomic requirements offsite.",
     client: "AllofUs",
