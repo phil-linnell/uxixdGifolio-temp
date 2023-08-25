@@ -1,6 +1,12 @@
 const gifs = [
 
- {
+   {
+    day: "026",
+    content: "Is a needle pointing at a number the best way to show speed? We explore alternatives.",
+    client: "ustwo",
+    gif: "ferrari.mp4"
+  },
+  {
     day: "025",
     content: "A brand overhaul and in-product UI uplift for this innovative keyboard digital product.",
     client: "SwiftKey | ustwo",
