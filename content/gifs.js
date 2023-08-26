@@ -1,6 +1,12 @@
 const gifs = [
-
-   {
+   
+  {
+    day: "027",
+    content: "Real sand is driven into reclaimed tyres for this off-road racing game.",
+    client: "PlayStation",
+    gif: "sandkit.mp4"
+  },
+  {
     day: "026",
     content: "Is a needle pointing at a number the best way to show speed? We explore alternatives.",
     client: "ustwo",
