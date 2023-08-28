@@ -1,5 +1,11 @@
 const gifs = [
-   
+
+  {
+    day: "027",
+    content: "Real sand is driven into reclaimed tyres for this off-road racing game.",
+    client: "PlayStation",
+    gif: "sandkit.mp4"
+  },
   {
     day: "028",
     content: "Keep your eye on the cup... Did you see the horse? Based on 'Selective Awareness' by Simons & Chabris.",
