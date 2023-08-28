@@ -1,10 +1,10 @@
 const gifs = [
 
   {
-    day: "027",
-    content: "Real sand is driven into reclaimed tyres for this off-road racing game.",
-    client: "PlayStation",
-    gif: "sandkit.mp4"
+    day: "029",
+    content: "Gestures in the car can be problematic. We explored a 'gesture zone' to rein in the ambiguity.",
+    client: "Toyota | ustwo",
+    gif: "toyotavolume.mp4"
   },
   {
     day: "028",
