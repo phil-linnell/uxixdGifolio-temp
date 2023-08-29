@@ -1,6 +1,12 @@
 const gifs = [
 
   {
+    day: "030",
+    content: "An upward-facing fan provides user feedback that their hand is correctly in the designated area in which gestures are read by the HMI.",
+    client: "Toyota | ustwo",
+    gif: "gesturezone.mp4"
+  },
+  {
     day: "029",
     content: "Gestures in the car can be problematic. We explored a 'gesture zone' to rein in the ambiguity.",
     client: "Toyota | ustwo",
