@@ -1,6 +1,12 @@
 const gifs = [
 
   {
+    day: "031",
+    content: "We combined data with creativity, enabling users to output art from the data they compile.",
+    client: "Worldpay",
+    gif: "worldpayart.mp4"
+  },
+  {
     day: "030",
     content: "An upward-facing fan provides user feedback that their hand is correctly in the designated area in which gestures are read by the HMI.",
     client: "Toyota | ustwo",
