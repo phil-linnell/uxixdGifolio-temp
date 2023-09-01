@@ -1,6 +1,12 @@
 const gifs = [
 
   {
+    day: "033",
+    content: "Bouba is round and bouncy. Kiki is sharp and direct. We used personality to prioritise info.",
+    client: "Tech brand X",
+    gif: "boubakiki.mp4"
+  },
+  {
     day: "032",
     content: "We had the uniform in which Horatio Nelson was killed carefully imaged for this touch table interactive.",
     client: "National Maritime Museum",
