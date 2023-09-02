@@ -1,6 +1,12 @@
 const gifs = [
 
   {
+    day: "035",
+    content: "Fixed touch interactives should provide time to rest the arm between taps.",
+    client: "Science Museum",
+    gif: "whoami.mp4"
+  },
+  {
     day: "034",
     content: "IXD can bring brand delight to packaging - or a raspberry from a virtual pet.",
     client: "PlayStation",
