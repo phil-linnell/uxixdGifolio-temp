@@ -1,6 +1,12 @@
 const gifs = [
 
   {
+    day: "034",
+    content: "IXD can bring brand delight to packaging - or a raspberry from a virtual pet.",
+    client: "PlayStation",
+    gif: "eyepet.mp4"
+  },
+  {
     day: "033",
     content: "Bouba is round and bouncy. Kiki is sharp and direct. We used personality to prioritise info.",
     client: "Tech brand X",
