@@ -1,6 +1,12 @@
 const gifs = [
 
   {
+    day: "036",
+    content: "Combining parking permit + bay data, GoPark instantly displays parking eligibility in situ and in real-time.",
+    client: "Ford | ustwo",
+    gif: "fordgopark.mp4"
+  },
+  {
     day: "035",
     content: "Fixed touch interactives should provide time to rest the arm between taps.",
     client: "Science Museum",
