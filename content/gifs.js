@@ -1,6 +1,12 @@
 const gifs = [
 
   {
+    day: "037",
+    content: "A highly in-depth touchscreen ring creator using state-of-the-art (for the time) 3D tech.",
+    client: "V&A",
+    gif: "vadesignaring.mp4"
+  },
+  {
     day: "036",
     content: "Combining parking permit + bay data, GoPark instantly displays parking eligibility in situ and in real-time.",
     client: "Ford | ustwo",
