@@ -44,9 +44,9 @@ const gifs = [
    },
    {
     day: "073",
-    content: "Using VR to safely test our electric vehicle sound designs with doppler effect.",
-    client: "Nissan | ustwo",
-    gif: "evsoundtest.mp4"
+    content: "I asked a classroom of 10-year-olds to draw what they would want from a driverless car.",
+    client: "NewTerritory",
+    gif: "avkids.mp4"
    },
    {
     day: "072",
@@ -251,12 +251,12 @@ const gifs = [
     content: "Pause live TV at any moment to bring up contextually relevant additional content.",
     client: "Samsung | AllofUs",
     gif: "samsungtv.mp4"
-  },
+  }, 
   {
     day: "038",
-    content: "I asked a classroom of 10-year-olds to draw what they would want from a driverless car.",
-    client: "NewTerritory",
-    gif: "avkids.mp4"
+    content: "Using VR to safely test our electric vehicle sound designs with doppler effect.",
+    client: "Nissan | ustwo",
+    gif: "evsoundtest.mp4"
   },
   {
     day: "037",
