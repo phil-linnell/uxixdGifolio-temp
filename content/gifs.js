@@ -1,6 +1,12 @@
 const gifs = [
 
   {
+    day: "038",
+    content: "Using VR to safely test our electric vehicle sound designs with doppler effect.",
+    client: "Nissan | ustwo",
+    gif: "evsoundtest.mp4"
+  },
+  {
     day: "037",
     content: "A highly in-depth touchscreen ring creator using state-of-the-art (for the time) 3D tech.",
     client: "V&A",
