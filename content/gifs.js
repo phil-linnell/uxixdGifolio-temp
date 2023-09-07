@@ -1,6 +1,12 @@
 const gifs = [
 
   {
+    day: "039",
+    content: "Pause live TV at any moment to bring up contextually relevant additional content.",
+    client: "Samsung | AllofUs",
+    gif: "samsungtv.mp4"
+  }, 
+  {
     day: "038",
     content: "Using VR to safely test our electric vehicle sound designs with doppler effect.",
     client: "Nissan | ustwo",
