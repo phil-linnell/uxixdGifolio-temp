@@ -1,6 +1,18 @@
 const gifs = [
 
   {
+    day: "041",
+    content: "My toy car collection book has a lenticular cover that shows off the micro cars' opening doors!",
+    client: "Micro but Many",
+    gif: "microlenticular.mp4"
+  },
+  {
+    day: "040",
+    content: "Shifting seat configuration allows for both groups of friends and groups of strangers.",
+    client: "ustwo",
+    gif: "rooseating.mp4"
+  },
+  {
     day: "039",
     content: "Pause live TV at any moment to bring up contextually relevant additional content.",
     client: "Samsung | AllofUs",
