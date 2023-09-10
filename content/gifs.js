@@ -1,6 +1,12 @@
 const gifs = [
 
   {
+    day: "042",
+    content: "Foil blocking refracts light to give that nostalgic rare chase trading card special status.",
+    client: "Micro but Many",
+    gif: "ultrarare.mp4"
+  },
+  {
     day: "041",
     content: "My toy car collection book has a lenticular cover that shows off the micro cars' opening doors!",
     client: "Micro but Many",
