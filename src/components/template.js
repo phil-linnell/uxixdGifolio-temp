@@ -9,7 +9,7 @@ import * as styles from "./template.module.css";
 import logoFooter from "../assets/uxixd-logo-alt.png";
 import iconExternal from "../assets/icon-external.png";
 
-const Template = ({ gifs, allFiles }) => {
+const Template = ({ gifs, allFiles, title }) => {
   const scrollY = useScrollPosition();
   const classes = classnames(styles.container, {
     [styles.scrolled]: scrollY > 0
@@ -71,7 +71,7 @@ const Template = ({ gifs, allFiles }) => {
           <div className={`${styles.headerButton} ${styles.buttonLinktree}`}><a href="https://linktr.ee/uxixd" aria-label="Linktree"> </a></div>
           <div className={styles.headerContent}>
             <h1><StaticImage src="../assets/uxixd-logo.png" alt="UXIXD Gifolio" placeholder="none" /></h1>
-            <div className={styles.strapline}>100 days of <strong>UX</strong> &amp; <strong>IXD</strong> gifs</div>
+            <div className={styles.strapline}>{title || "Test"}</div>
           </div>
           <div className={`${styles.headerButton} ${styles.buttonEmail}`}><a href="mailto:gifolio@uxixd.com" aria-label="Email"> </a></div>
         </div>

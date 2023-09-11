@@ -9,7 +9,7 @@ const Home = ({ data }) => {
   const allFiles = data.allFile.edges.map(x => x.node);
 
   return (
-    <Template gifs={gifs} allFiles={allFiles} />
+    <Template gifs={gifs} allFiles={allFiles} title={<>100 days of <strong>UX</strong> &amp; <strong>IXD</strong> gifs</>} />
   );
 }
 

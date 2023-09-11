@@ -9,7 +9,7 @@ const Games = ({ data }) => {
   const allFiles = data.allFile.edges.map(x => x.node);
 
   return (
-    <Template gifs={gifsGames} allFiles={allFiles} />
+    <Template gifs={gifsGames} allFiles={allFiles} title={<><strong>UX</strong> &amp; <strong>IXD</strong> gifs for Games</>} />
   );
 }
 
