@@ -1,4 +1,4 @@
-const gifs = [
+const gifsTest = [
 
    {
     day: "080",
@@ -482,4 +482,4 @@ const gifs = [
   }
 ];
 
-export default gifs;
+export default gifsTest;

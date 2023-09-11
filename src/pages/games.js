@@ -2,18 +2,18 @@ import React from "react";
 import { graphql } from "gatsby";
 import Meta from "../components/meta";
 import Template from "../components/template";
-import gifs from "../../content/gifs.js";
+import gifsGames from "../../content/gifs-games.js";
 import "../styles/base.css";
 
-const Home = ({ data }) => {
+const Games = ({ data }) => {
   const allFiles = data.allFile.edges.map(x => x.node);
 
   return (
-    <Template gifs={gifs} allFiles={allFiles} />
+    <Template gifs={gifsGames} allFiles={allFiles} />
   );
 }
 
-export default Home;
+export default Games;
 
 export const Head = () => {
   return <Meta />
