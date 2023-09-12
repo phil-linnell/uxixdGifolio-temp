@@ -1,6 +1,12 @@
 const gifs = [
 
   {
+    day: "044",
+    content: "Check how much your electric JLR has charged, remotely from your watch.",
+    client: "JLR | ustwo",
+    gif: "jlrrange.mp4"
+  },
+  {
     day: "043",
     content: "Using facial recognition to deliver personalised experiences, unique to each driver.",
     client: "Toyota | ustwo",
