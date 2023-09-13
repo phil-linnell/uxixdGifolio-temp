@@ -1,6 +1,12 @@
 const gifs = [
 
   {
+    day: "045",
+    content: "Ask Samsung TV to curate the EPG for one occupant in the room, or a fairer mix.",
+    client: "Samsung | AllofUs",
+    gif: "samsungmix.mp4"
+  },
+  {
     day: "044",
     content: "Check how much your electric JLR has charged, remotely from your watch.",
     client: "JLR | ustwo",
