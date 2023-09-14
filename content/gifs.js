@@ -1,5 +1,11 @@
 const gifs = [
 
+ {
+    day: "046",
+    content: "Simple interactions are often best, like this gaming radial dial + button combo.",
+    client: "Science Museum",
+    gif: "greenhouse.mp4"
+  },
   {
     day: "045",
     content: "Ask Samsung TV to curate the EPG for one occupant in the room, or a fairer mix.",
