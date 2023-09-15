@@ -1,6 +1,12 @@
 const gifs = [
 
- {
+  {
+    day: "047",
+    content: "This branded motorcycle ignition kicks off the HMI startup with a colour-coded systems check.",
+    client: "ustwo",
+    gif: "bikestartup.mp4"
+  }, 
+  {
     day: "046",
     content: "Simple interactions are often best, like this gaming radial dial + button combo.",
     client: "Science Museum",
