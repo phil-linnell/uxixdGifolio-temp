@@ -1,6 +1,12 @@
 const gifs = [
 
   {
+    day: "048",
+    content: "Fun for a Saturday. An educational Flash game I designed and co-developed.",
+    client: "British Museum",
+    gif: "britishmuseum.mp4"
+  },
+  {
     day: "047",
     content: "This branded motorcycle ignition kicks off the HMI startup with a colour-coded systems check.",
     client: "ustwo",
