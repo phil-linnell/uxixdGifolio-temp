@@ -1,6 +1,12 @@
 const gifs = [
 
   {
+    day: "049",
+    content: "A guerilla campaign that interacts with environmental colour to promote Benjys' hot and cold range.",
+    client: "Benjys",
+    gif: "benjys.mp4"
+  },
+  {
     day: "048",
     content: "Fun for a Saturday. An educational Flash game I designed and co-developed.",
     client: "British Museum",
