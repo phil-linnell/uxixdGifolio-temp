@@ -1,6 +1,12 @@
 const gifs = [
 
   {
+    day: "050",
+    content: "Humanist fonts are quicker to read than grotesque ones, which could make the difference in an in-car HMI, for example.",
+    client: "MIT",
+    gif: "fontread.mp4"
+  },
+  {
     day: "049",
     content: "A guerilla campaign that interacts with environmental colour to promote Benjys' hot and cold range.",
     client: "Benjys",
