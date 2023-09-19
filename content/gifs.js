@@ -2,7 +2,7 @@ const gifs = [
 
   {
     day: "051",
-    content: "Architect your own floorplan as you explore the architect's digital showroom.",
+    content: "Architect your own floor plan as you explore the architect's digital showroom.",
     client: "CenterPlan | Unit9",
     gif: "centerplanbuild.mp4"
   },
