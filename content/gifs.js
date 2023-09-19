@@ -1,6 +1,12 @@
 const gifs = [
 
   {
+    day: "051",
+    content: "Architect your own floorplan as you explore the architect's digital showroom.",
+    client: "CenterPlan | Unit9",
+    gif: "centerplanbuild.mp4"
+  },
+  {
     day: "050",
     content: "Humanist fonts are quicker to read than grotesque ones, which could make the difference in an in-car HMI, for example.",
     client: "MIT",
