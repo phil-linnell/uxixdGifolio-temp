@@ -1,6 +1,12 @@
 const gifs = [
 
   {
+    day: "052",
+    content: "Testing a sound + haptic prototype that guides blind users to their designated driverless taxi.",
+    client: "VW | ustwo",
+    gif: "vwpod.mp4"
+  },
+  {
     day: "051",
     content: "Architect your own floor plan as you explore the architect's digital showroom.",
     client: "CenterPlan | Unit9",
