@@ -1,6 +1,12 @@
 const gifs = [
 
   {
+    day: "053",
+    content: "Physical controls build muscle memory that digital controls don't do as well. We explore which to use when.",
+    client: "ustwo",
+    gif: "musclememory.mp4"
+  },
+  {
     day: "052",
     content: "Testing a sound + haptic prototype that guides blind users to their designated driverless taxi.",
     client: "VW | ustwo",
