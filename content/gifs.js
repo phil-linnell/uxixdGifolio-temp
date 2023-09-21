@@ -1,6 +1,12 @@
 const gifs = [
 
   {
+    day: "054",
+    content: "A sudden break in a driverless car can cause anxiety. We test UX anxiety mitigation strategies.",
+    client: "VW | ustwo",
+    gif: "vwanxiety.mp4"
+  },
+  {
     day: "053",
     content: "Physical controls build muscle memory that digital controls don't do as well. We explore which to use when.",
     client: "ustwo",
