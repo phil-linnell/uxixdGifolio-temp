@@ -1,12 +1,11 @@
 const gifsTest = [
 
-     
-   {
+  {
     day: "090",
-    content: "To write.",
-    client: "Liverpool City",
-    gif: "monuments.mp4"
-   },
+    content: "Interactive dice in more ways than one. These dice turn our brand colour when in the dark.",
+    client: "Self-initiated",
+    gif: "dicetemp.mp4"
+  },
    {
     day: "089",
     content: "To write.",
@@ -211,12 +210,12 @@ const gifsTest = [
     client: "Caffè Culture",
     gif: "coffeescent.mp4"
   },
-  {
+   {
     day: "055",
-    content: "Interactive dice in more ways than one. These dice turn our brand colour when in the dark.",
-    client: "Self-initiated",
-    gif: "dicetemp.mp4"
-  },
+    content: "Digital representations of UK landmarks as an NFT collection.",
+    client: "Liverpool City",
+    gif: "monuments.mp4"
+   },
   {
     day: "054",
     content: "A sudden break in a driverless car can cause anxiety. We test UX anxiety mitigation strategies.",
