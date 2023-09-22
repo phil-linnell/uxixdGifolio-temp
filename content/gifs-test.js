@@ -44,7 +44,7 @@ const gifsTest = [
    },
    {
     day: "086",
-    content: "We built a multi-sensory rig in which we can curate what each human sense recieves.",
+    content: "We built a multi-sensory rig in which we can curate what each human sense recieves, simulating almost anything.",
     client: "NewTerritory",
     gif: "rig.mp4"
    },
