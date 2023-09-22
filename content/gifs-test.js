@@ -26,7 +26,7 @@ const gifsTest = [
   },
    {
     day: "089",
-    content: "Repetitive street lights can contribute to drowsiness. An AR windscreen concept made the regular irregular.",
+    content: "Repetitive street lights can contribute to drowsiness. An AR windscreen made the regular irregular.",
     client: "NewTerritory",
     gif: "arirregular.mp4"
    },
