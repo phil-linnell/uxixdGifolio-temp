@@ -1,6 +1,12 @@
 const gifsTest = [
 
    {
+    day: "086",
+    content: "To write.",
+    client: "NewTerritory",
+    gif: "rig.mp4"
+   },
+   {
     day: "085",
     content: "What would a journey planner look like to a commuter that knows their way? We explore comfort criteria.",
     client: "Ford | ustwo",
