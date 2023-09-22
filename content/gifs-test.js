@@ -1,6 +1,12 @@
 const gifsTest = [
 
   {
+    day: "091",
+    content: "To write.",
+    client: "ustwo",
+    gif: "rescale.mp4"
+  },
+  {
     day: "090",
     content: "Interactive dice in more ways than one. These dice turn our brand colour when in the dark.",
     client: "Self-initiated",
