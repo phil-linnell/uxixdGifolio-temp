@@ -2,13 +2,13 @@ const gifsTest = [
 
    {
     day: "085",
-    content: "What would a journey planner look like to a commuter that knows their way to work? We explore comfort criteria.",
+    content: "What would a journey planner look like to a commuter that knows their way? We explore comfort criteria.",
     client: "Ford | ustwo",
     gif: "fordmmux.mp4"
    },
    {
     day: "083",
-    content: "Mimicing tilt–shift photography techniques to micro-size these animations into a phygital game board.",
+    content: "Mimicing tilt–shift photography techniques to micro-size animations into a phygital game board.",
     client: "Science Museum",
     gif: "carboncycletrucks.mp4"
    },
