@@ -1,5 +1,11 @@
 const gifs = [
 
+   {
+    day: "055",
+    content: "Digital representations of UK landmarks as an NFT collection.",
+    client: "Liverpool City",
+    gif: "monuments.mp4"
+   },
   {
     day: "054",
     content: "A sudden break in a driverless car can cause anxiety. We test UX anxiety mitigation strategies.",
