@@ -13,6 +13,12 @@ const gifsTest = [
     gif: "carboncycletrucks.mp4"
    },
    {
+    day: "082",
+    content: "We trialled a relaxing scent and an energising scent to 'Dampen' or 'Heighten' cognitive focus",
+    client: "NewTerritory",
+    gif: "sprayscent.mp4"
+   },
+   {
     day: "081",
     content: "The 'Cognition Goldilocks Zone' is just the right mindset to drive safely - can we 'bump' driver's up or down into it?",
     client: "UCL | NewTerritory",
