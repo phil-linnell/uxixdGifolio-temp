@@ -12,12 +12,12 @@ const gifsTest = [
     client: "ustwo",
     gif: "rescale.mp4"
   },
-  {
-    day: "091",
-    content: "To write.",
-    client: "Science Museum",
-    gif: "drench.mp4"
-  },
+   {
+    day: "092",
+    content: "Experimenting with anaglyph 3D as a means to compress and decompress more info into smaller physical formats.",
+    client: "Self-initiated",
+    gif: "vmap.mp4"
+   },
   {
     day: "090",
     content: "Interactive dice in more ways than one. These dice turn our brand colour when in the dark.",
@@ -38,13 +38,13 @@ const gifsTest = [
    },
    {
     day: "087",
-    content: "To write.",
+    content: "Augmented exhisting in-car features with additional tech to bring multi-sensory experienes to the car.",
     client: "NewTerritory",
     gif: "incarsensors.mp4"
    },
    {
     day: "086",
-    content: "To write.",
+    content: "We built a multi-sensory rig in which we can curate what each human sense recieves.",
     client: "NewTerritory",
     gif: "rig.mp4"
    },
@@ -54,12 +54,12 @@ const gifsTest = [
     client: "Ford | ustwo",
     gif: "fordmmux.mp4"
    },
-   {
+  {
     day: "084",
-    content: "Experimenting with anaglyph 3D as a means to compress and decompress more info into smaller physical formats.",
-    client: "Self-initiated",
-    gif: "vmap.mp4"
-   },
+    content: "A tower defence game that educates children about water shortage and responsible usage.",
+    client: "Science Museum",
+    gif: "drench.mp4"
+  },
    {
     day: "083",
     content: "Mimicing tilt–shift photography techniques to micro-size animations into a phygital game board.",
