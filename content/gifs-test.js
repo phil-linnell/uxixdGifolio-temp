@@ -48,12 +48,12 @@ const gifsTest = [
     client: "NewTerritory",
     gif: "rig.mp4"
    },
-    {
+   {
     day: "085",
-    content: "There are many ways to do user testing. It's often best to meet the user in their environment.",
+    content: "We disected a chat between Michael Knight and K.I.T.T. to start understanding how we can talk to driverless cars.",
     client: "ustwo",
-    gif: "playtest.mp4"
-  },
+    gif: "avchat.mp4"
+   },
   {
     day: "084",
     content: "A tower defence game that educates children about water shortage and responsible usage.",
@@ -108,12 +108,12 @@ const gifsTest = [
     client: "PlayStation",
     gif: "gow.mp4"
    },
-   {
+  {
     day: "075",
-    content: "We disected a chat between Michael Knight and K.I.T.T. to start understanding how we can talk to driverless cars.",
+    content: "There are many ways to do user testing. It's often best to meet the user in their environment.",
     client: "ustwo",
-    gif: "avchat.mp4"
-   },
+    gif: "playtest.mp4"
+  },
    {
     day: "074",
     content: "Explore the life-size exterior and interior of your dream car using AR.",
