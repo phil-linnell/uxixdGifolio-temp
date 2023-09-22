@@ -1,6 +1,12 @@
 const gifsTest = [
 
    {
+    day: "094",
+    content: "We disected a chat between Michael Knight and K.I.T.T. to start understanding how we can talk to driverless cars.",
+    client: "ustwo",
+    gif: "avchat.mp4"
+   },
+   {
     day: "093",
     content: "What would a journey planner look like to a commuter that knows their way? We explore comfort criteria.",
     client: "Ford | ustwo",
@@ -50,9 +56,9 @@ const gifsTest = [
    },
    {
     day: "085",
-    content: "We disected a chat between Michael Knight and K.I.T.T. to start understanding how we can talk to driverless cars.",
-    client: "ustwo",
-    gif: "avchat.mp4"
+    content: "An immersive, interactive love and sex exhibition that stimulates all the senses.",
+    client: "Amora",
+    gif: "amora.mp4"
    },
   {
     day: "084",
