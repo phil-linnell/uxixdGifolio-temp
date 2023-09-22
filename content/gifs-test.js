@@ -32,7 +32,7 @@ const gifsTest = [
    },
    {
     day: "088",
-    content: "We created an immersive multi-sensory metaverse prototype to test novel new in-car experiences.",
+    content: "We created an immersive multi-sensory metaverse prototype to test new in-car experiences.",
     client: "NewTerritory",
     gif: "metaverse.mp4"
    },
