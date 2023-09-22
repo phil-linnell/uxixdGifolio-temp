@@ -26,7 +26,7 @@ const gifsTest = [
    },
    {
     day: "081",
-    content: "The 'Cognition Goldilocks Zone' is a 'just right' level of focus - can we 'bump' user's up or down into it?",
+    content: "The 'Cognition Goldilocks Zone' is 'just right' for focus - can we 'bump' user's up or down into the zone?",
     client: "UCL | NewTerritory",
     gif: "goldilocks.mp4"
    },
