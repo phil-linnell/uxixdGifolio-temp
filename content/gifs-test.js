@@ -1,11 +1,11 @@
 const gifsTest = [
 
-  {
+   {
     day: "093",
-    content: "There are many ways to do user testing. It's often best to meet the user in their environment.",
-    client: "ustwo",
-    gif: "playtest.mp4"
-  },
+    content: "What would a journey planner look like to a commuter that knows their way? We explore comfort criteria.",
+    client: "Ford | ustwo",
+    gif: "fordmmux.mp4"
+   },
   {
     day: "092",
     content: "Why should a car's HMI be one size fits all? Can we tailor the experience based on ergonomic factors?",
@@ -48,12 +48,12 @@ const gifsTest = [
     client: "NewTerritory",
     gif: "rig.mp4"
    },
-   {
+    {
     day: "085",
-    content: "What would a journey planner look like to a commuter that knows their way? We explore comfort criteria.",
-    client: "Ford | ustwo",
-    gif: "fordmmux.mp4"
-   },
+    content: "There are many ways to do user testing. It's often best to meet the user in their environment.",
+    client: "ustwo",
+    gif: "playtest.mp4"
+  },
   {
     day: "084",
     content: "A tower defence game that educates children about water shortage and responsible usage.",
