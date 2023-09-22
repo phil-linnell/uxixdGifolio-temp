@@ -14,15 +14,15 @@ const gifsTest = [
    },
    {
     day: "079",
-    content: "Experimenting with anaglyph 3D as a means to compress and decompress more info into smaller physical formats.",
-    client: "Self-initiated",
-    gif: "vmap.mp4"
-   },
-   {
-    day: "078",
     content: "A connected coffee machine that tracks who's taking a coffee break - join them or avoid?",
     client: "Gruppo | NewTerritory",
     gif: "coffeebreak.mp4"
+   },
+   {
+    day: "078",
+    content: "Experimenting with anaglyph 3D as a means to compress and decompress more info into smaller physical formats.",
+    client: "Self-initiated",
+    gif: "vmap.mp4"
    },
    {
     day: "077",
