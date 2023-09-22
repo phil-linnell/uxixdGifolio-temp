@@ -1,5 +1,11 @@
 const gifsTest = [
-
+ 
+   {
+    day: "088",
+    content: "To write.",
+    client: "NewTerritory",
+    gif: "metaverse.mp4"
+   },
    {
     day: "087",
     content: "To write.",
