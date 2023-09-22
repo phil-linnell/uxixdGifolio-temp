@@ -128,15 +128,15 @@ const gifsTest = [
    },
    {
     day: "072",
-    content: "We made 'digital executive toys' to help SMEs understand and 'play' with their data.",
-    client: "Worldpay",
-    gif: "worldpaytoy.mp4"
-   },
-   {
-    day: "071",
     content: "Contextual actions. Directions back to your car, with beep and flash offered upon approach.",
     client: "JLR | ustwo",
     gif: "jlr.mp4"
+   },
+   {
+    day: "071",
+    content: "We made 'digital executive toys' to help SMEs understand and 'play' with their data.",
+    client: "Worldpay",
+    gif: "worldpaytoy.mp4"
    },
    {
     day: "070",
