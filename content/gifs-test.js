@@ -9,14 +9,14 @@ const gifsTest = [
   {
     day: "092",
     content: "To write.",
-    client: "Science Museum",
-    gif: "drench.mp4"
+    client: "ustwo",
+    gif: "rescale.mp4"
   },
   {
     day: "091",
     content: "To write.",
-    client: "ustwo",
-    gif: "rescale.mp4"
+    client: "Science Museum",
+    gif: "drench.mp4"
   },
   {
     day: "090",
