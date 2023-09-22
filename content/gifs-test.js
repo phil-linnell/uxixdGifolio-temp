@@ -1,10 +1,16 @@
 const gifsTest = [
 
    {
-    day: "084",
+    day: "085",
     content: "What would a journey planner look like to a commuter that knows their way? We explore comfort criteria.",
     client: "Ford | ustwo",
     gif: "fordmmux.mp4"
+   },
+   {
+    day: "084",
+    content: "Experimenting with anaglyph 3D as a means to compress and decompress more info into smaller physical formats.",
+    client: "Self-initiated",
+    gif: "vmap.mp4"
    },
    {
     day: "083",
@@ -32,15 +38,15 @@ const gifsTest = [
    },
    {
     day: "079",
-    content: "A connected coffee machine that tracks who's taking a coffee break - join them or avoid?",
+    content: "A connected coffee machine that knows when you're approaching and has your favourite coffee ready.",
     client: "Gruppo | NewTerritory",
-    gif: "coffeebreak.mp4"
+    gif: "personalcoffee.mp4"
    },
    {
     day: "078",
-    content: "Experimenting with anaglyph 3D as a means to compress and decompress more info into smaller physical formats.",
-    client: "Self-initiated",
-    gif: "vmap.mp4"
+    content: "A connected coffee machine that tracks who's taking a coffee break - join them or avoid?",
+    client: "Gruppo | NewTerritory",
+    gif: "coffeebreak.mp4"
    },
    {
     day: "077",
