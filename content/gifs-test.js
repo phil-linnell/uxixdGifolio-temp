@@ -14,7 +14,7 @@ const gifsTest = [
    },
    {
     day: "082",
-    content: "We trialled a relaxing and an energising scent to 'Dampen' or 'Heighten' cognitive focus",
+    content: "We trialled a relaxing and an energising scent to 'Dampen' or 'Heighten' user's cognitive focus.",
     client: "NewTerritory",
     gif: "sprayscent.mp4"
    },
