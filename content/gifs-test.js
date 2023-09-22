@@ -2,7 +2,7 @@ const gifsTest = [
 
   {
     day: "093",
-    content: "There are many ways to do user testing. It's often best to meet the user at their environment.",
+    content: "There are many ways to do user testing. It's often best to meet the user in their environment.",
     client: "ustwo",
     gif: "playtest.mp4"
   },
