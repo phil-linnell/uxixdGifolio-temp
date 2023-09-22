@@ -116,9 +116,9 @@ const gifsTest = [
    },
   {
     day: "075",
-    content: "There are many ways to do user testing. It's often best to meet the user in their environment.",
-    client: "ustwo",
-    gif: "playtest.mp4"
+    content: "An array of location-aware digital totems for the British Library that each focus around it's location.",
+    client: "British Library",
+    gif: "blmap.mp4"
   },
    {
     day: "074",
@@ -224,9 +224,9 @@ const gifsTest = [
   },
   {
     day: "057",
-    content: "An array of location-aware digital totems for the British Library that each focus around it's location.",
-    client: "British Library",
-    gif: "blmap.mp4"
+    content: "There are many ways to do user testing. It's often best to meet the user in their environment.",
+    client: "ustwo",
+    gif: "playtest.mp4"
   },
   {
     day: "056",
