@@ -66,18 +66,18 @@ const gifsTest = [
     client: "Science Museum",
     gif: "carboncycletrucks.mp4"
    },
-   {
+  {
     day: "082",
-    content: "We trialled a relaxing and an energising scent to 'Dampen' or 'Heighten' user's cognitive focus.",
-    client: "NewTerritory",
-    gif: "sprayscent.mp4"
-   },
-   {
+    content: "Reductionist approach to glanceable turn-by-turn motorcycle navigation.",
+    client: "Ducati",
+    gif: "ducaticluster.mp4"
+  },
+  {
     day: "081",
-    content: "The 'Cognition Goldilocks Zone' is 'just right' for focus. Can we 'bump' users into the zone?",
-    client: "UCL | NewTerritory",
-    gif: "goldilocks.mp4"
-   },
+    content: "We created a ride-sharing service in an urban experiment to test our design hypotheses.",
+    client: "VW | ustwo",
+    gif: "urbanexperiment.mp4"
+  },
    {
     day: "080",
     content: "Making the right thing and making the thing right means including real users, like we did in this Ford workshop.",
@@ -194,27 +194,27 @@ const gifsTest = [
    },
   {
     day: "061",
-    content: "Reductionist approach to glanceable turn-by-turn motorcycle navigation.",
-    client: "Ducati",
-    gif: "ducaticluster.mp4"
-  },
-  {
-    day: "060",
     content: "Start your car then set the temperature, remotely, so that it's warmed up by the time you jump in.",
     client: "JLR | ustwo",
     gif: "jlrclimate.mp4"
   },
-  {
+   {
+    day: "060",
+    content: "We trialled a relaxing and an energising scent to 'Dampen' or 'Heighten' user's cognitive focus.",
+    client: "NewTerritory",
+    gif: "sprayscent.mp4"
+   },
+   {
     day: "059",
+    content: "The 'Cognition Goldilocks Zone' is 'just right' for focus. Can we 'bump' users into the zone?",
+    client: "UCL | NewTerritory",
+    gif: "goldilocks.mp4"
+   },
+  {
+    day: "058",
     content: "A maluable show stand that invites students to compare UAL colleges, each represented by a movable cube.",
     client: "UAL",
     gif: "ual.mp4"
-  },
-  {
-    day: "058",
-    content: "We created a ride-sharing service in an urban experiment to test our design hypotheses.",
-    client: "VW | ustwo",
-    gif: "urbanexperiment.mp4"
   },
   {
     day: "057",
