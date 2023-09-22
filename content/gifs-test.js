@@ -4,7 +4,7 @@ const gifsTest = [
     day: "092",
     content: "To write.",
     client: "Science Museum",
-    gif: "Drench.mp4"
+    gif: "drench.mp4"
   },
   {
     day: "091",
