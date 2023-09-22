@@ -8,12 +8,12 @@ const gifsTest = [
   },
   {
     day: "092",
-    content: "To write.",
+    content: "Why should a car's HMI be one size fits all? Can we tailor the experience based on ergonomic factors?",
     client: "ustwo",
     gif: "rescale.mp4"
   },
    {
-    day: "092",
+    day: "091",
     content: "Experimenting with anaglyph 3D as a means to compress and decompress more info into smaller physical formats.",
     client: "Self-initiated",
     gif: "vmap.mp4"
@@ -26,19 +26,19 @@ const gifsTest = [
   },
    {
     day: "089",
-    content: "To write.",
+    content: "Repetitive streetlights can contribute to drowsiness. We used AR glass to make the regular irregular.",
     client: "NewTerritory",
     gif: "arirregular.mp4"
    },
    {
     day: "088",
-    content: "To write.",
+    content: "We created an immersive multi-sensory metaverse prototype to test novel new in-car experiences.",
     client: "NewTerritory",
     gif: "metaverse.mp4"
    },
    {
     day: "087",
-    content: "Augmented exhisting in-car features with additional tech to bring multi-sensory experienes to the car.",
+    content: "Augmenting existing in-car features with additional tech to bring multi-sensory experienes to the car.",
     client: "NewTerritory",
     gif: "incarsensors.mp4"
    },
