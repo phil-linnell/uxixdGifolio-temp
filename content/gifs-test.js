@@ -38,7 +38,7 @@ const gifsTest = [
    },
    {
     day: "079",
-    content: "A connected coffee machine that knows when you're approaching and has your favourite coffee ready.",
+    content: "A connected coffee machine that knows when you're approaching and has your beverage ready.",
     client: "Gruppo | NewTerritory",
     gif: "personalcoffee.mp4"
    },
