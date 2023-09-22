@@ -13,6 +13,12 @@ const gifsTest = [
     gif: "carboncycletrucks.mp4"
    },
    {
+    day: "081",
+    content: "The 'Cognition Goldilocks Zone' is just the right mindset to drive safely - can we 'bump' driver's up or down into it?",
+    client: "UCL | NewTerritory",
+    gif: "goldilocks.mp4"
+   },
+   {
     day: "080",
     content: "Making the right thing and making the thing right means including real users, like we did in this Ford workshop.",
     client: "Ford",
