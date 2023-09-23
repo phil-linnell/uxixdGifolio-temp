@@ -7,6 +7,12 @@ const gifsTest = [
     gif: "dicetemp.mp4"
   },
    {
+    day: "095",
+    content: "Design, development and hosting decisions can be made to reduce a website's carbon footprint.",
+    client: "NewTerritory",
+    gif: "cleanwebsite.mp4"
+   },
+  {
     day: "094",
     content: "We disected a chat between Michael Knight and K.I.T.T. to start understanding how we can talk to driverless cars.",
     client: "ustwo",
