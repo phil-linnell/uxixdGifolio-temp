@@ -20,9 +20,9 @@ const gifsTest = [
    },
   {
     day: "092",
-    content: "Why should a car's HMI be one size fits all? Can we tailor the experience based on ergonomic factors?",
-    client: "ustwo",
-    gif: "rescale.mp4"
+    content: "Reductionist approach to glanceable turn-by-turn motorcycle navigation.",
+    client: "Ducati",
+    gif: "ducaticluster.mp4"
   },
    {
     day: "091",
@@ -78,11 +78,11 @@ const gifsTest = [
     client: "Science Museum",
     gif: "carboncycletrucks.mp4"
    },
-  {
+    {
     day: "082",
-    content: "Reductionist approach to glanceable turn-by-turn motorcycle navigation.",
-    client: "Ducati",
-    gif: "ducaticluster.mp4"
+    content: "Why should a car's HMI be one size fits all? Can we tailor the experience based on ergonomic factors?",
+    client: "ustwo",
+    gif: "rescale.mp4"
   },
   {
     day: "081",
