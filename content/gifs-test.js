@@ -1,6 +1,12 @@
 const gifsTest = [
 
    {
+    day: "095",
+    content: "We designed the complete Tate Kids portal including games and interactive learning.",
+    client: "Tate",
+    gif: "tatekids.mp4"
+   },
+   {
     day: "094",
     content: "We disected a chat between Michael Knight and K.I.T.T. to start understanding how we can talk to driverless cars.",
     client: "ustwo",
