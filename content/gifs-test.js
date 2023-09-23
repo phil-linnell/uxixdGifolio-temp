@@ -2,9 +2,9 @@ const gifsTest = [
 
    {
     day: "095",
-    content: "We designed the complete Tate Kids portal including games and interactive learning.",
-    client: "Tate",
-    gif: "tatekids.mp4"
+    content: "An immersive, interactive love and sex exhibition that stimulates all the senses.",
+    client: "Amora",
+    gif: "amora.mp4"
    },
    {
     day: "094",
@@ -62,9 +62,9 @@ const gifsTest = [
    },
    {
     day: "085",
-    content: "An immersive, interactive love and sex exhibition that stimulates all the senses.",
-    client: "Amora",
-    gif: "amora.mp4"
+    content: "We designed the complete Tate Kids portal including games and interactive learning.",
+    client: "Tate",
+    gif: "tatekids.mp4"
    },
   {
     day: "084",
