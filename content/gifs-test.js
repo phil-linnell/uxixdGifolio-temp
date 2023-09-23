@@ -2,15 +2,15 @@ const gifsTest = [
 
    {
     day: "095",
-    content: "An immersive, interactive love and sex exhibition that stimulates all the senses.",
-    client: "Amora",
-    gif: "amora.mp4"
-   },
-   {
-    day: "094",
     content: "We disected a chat between Michael Knight and K.I.T.T. to start understanding how we can talk to driverless cars.",
     client: "ustwo",
     gif: "avchat.mp4"
+   },
+   {
+    day: "094",
+    content: "An immersive, interactive love and sex exhibition that stimulates all the senses.",
+    client: "Amora",
+    gif: "amora.mp4"
    },
    {
     day: "093",
