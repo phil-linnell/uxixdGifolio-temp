@@ -1,16 +1,16 @@
 const gifsTest = [
 
+  {
+    day: "100",
+    content: "Interactive dice in more ways than one. These dice turn our brand colour when in the dark.",
+    client: "Self-initiated",
+    gif: "dicetemp.mp4"
+  },
    {
     day: "095",
     content: "We disected a chat between Michael Knight and K.I.T.T. to start understanding how we can talk to driverless cars.",
     client: "ustwo",
     gif: "avchat.mp4"
-   },
-   {
-    day: "094",
-    content: "An immersive, interactive love and sex exhibition that stimulates all the senses.",
-    client: "Amora",
-    gif: "amora.mp4"
    },
    {
     day: "093",
@@ -30,12 +30,12 @@ const gifsTest = [
     client: "Self-initiated",
     gif: "vmap.mp4"
    },
-  {
+   {
     day: "090",
-    content: "Interactive dice in more ways than one. These dice turn our brand colour when in the dark.",
-    client: "Self-initiated",
-    gif: "dicetemp.mp4"
-  },
+    content: "An immersive, interactive love and sex exhibition that stimulates all the senses.",
+    client: "Amora",
+    gif: "amora.mp4"
+   },
    {
     day: "089",
     content: "Repetitive street lights can contribute to drowsiness. An AR windscreen made the regular irregular.",
