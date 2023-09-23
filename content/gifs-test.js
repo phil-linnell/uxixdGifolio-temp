@@ -62,7 +62,7 @@ const gifsTest = [
    },
    {
     day: "085",
-    content: "We designed the complete Tate Kids portal including games and interactive learning.",
+    content: "We designed the complete Tate Kids portal including website, games, interactive learning and more!",
     client: "Tate",
     gif: "tatekids.mp4"
    },
