@@ -8,7 +8,7 @@ const gifsTest = [
   },
    {
     day: "095",
-    content: "Design, development and hosting decisions can be made to reduce a website's carbon footprint.",
+    content: "Design, development and hosting decisions can be made to reduce a website's carbon footprint, like we did here.",
     client: "NewTerritory",
     gif: "cleanwebsite.mp4"
    },
