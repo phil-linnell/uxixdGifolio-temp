@@ -1,5 +1,12 @@
 const gifs = [
-
+  
+  
+  {
+    day: "056",
+    content: "UX & IXD is a multi-sensory discipline, so we couldn't help but use coffee scented ink for this brand's print materials.",
+    client: "Caffè Culture",
+    gif: "coffeescent.mp4"
+  },
    {
     day: "055",
     content: "Digital representations of UK landmarks as an NFT collection.",
