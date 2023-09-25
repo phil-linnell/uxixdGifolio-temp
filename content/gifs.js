@@ -1,6 +1,11 @@
 const gifs = [
   
-  
+  {
+    day: "057",
+    content: "There are many ways to do user testing. It's often best to meet the user in their environment.",
+    client: "ustwo",
+    gif: "playtest.mp4"
+  },
   {
     day: "056",
     content: "UX & IXD is a multi-sensory discipline, so we couldn't help but use coffee scented ink for this brand's print materials.",
