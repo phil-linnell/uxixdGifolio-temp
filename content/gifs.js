@@ -1,6 +1,12 @@
 const gifs = [
   
   {
+    day: "058",
+    content: "A maluable show stand that invites students to compare UAL colleges, each represented by a movable cube.",
+    client: "UAL",
+    gif: "ual.mp4"
+  },
+  {
     day: "057",
     content: "There are many ways to do user testing. It's often best to meet the user in their environment.",
     client: "ustwo",
