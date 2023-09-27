@@ -1,5 +1,11 @@
 const gifs = [
   
+   {
+    day: "059",
+    content: "The 'Cognition Goldilocks Zone' is 'just right' for focus. Can we 'bump' users into the zone?",
+    client: "UCL | NewTerritory",
+    gif: "goldilocks.mp4"
+   },
   {
     day: "058",
     content: "A maluable show stand that invites students to compare UAL colleges, each represented by a movable cube.",
