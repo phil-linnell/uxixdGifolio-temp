@@ -1,5 +1,11 @@
 const gifs = [
-  
+
+   {
+    day: "060",
+    content: "We trialled a relaxing and an energising scent to 'Dampen' or 'Heighten' user's cognitive focus.",
+    client: "NewTerritory",
+    gif: "sprayscent.mp4"
+   },
    {
     day: "059",
     content: "The 'Cognition Goldilocks Zone' is 'just right' for focus. Can we 'bump' users into the zone?",
