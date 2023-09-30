@@ -1,5 +1,17 @@
 const gifs = [
 
+    {
+    day: "063",
+    content: "We consider the entire digital ecosystem to bring new brand experiences to their customers.",
+    client: "Self-initiated",
+    gif: "carconnectedtech.mp4"
+   },
+   {
+    day: "062",
+    content: "An online phygital Top Trumps game with physical cards and digital AR components.",
+    client: "PlayStation",
+    gif: "playstationar.mp4"
+   },
    {
     day: "061",
     content: "Start your car then set the temperature, remotely, so that it's warmed up by the time you jump in.",
