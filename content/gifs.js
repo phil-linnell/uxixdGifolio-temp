@@ -1,5 +1,11 @@
 const gifs = [
 
+     {
+    day: "067",
+    content: "Porsche's network of EV chargers double as AR beacons to play, collect and earn rewards.",
+    client: "Porsche",
+    gif: "porschear.mp4"
+   },
   {
     day: "066",
     content: "How do you get a golf ball into a lemon? This warm-up exercise is ideal for levelling the playing field.",
