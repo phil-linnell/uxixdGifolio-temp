@@ -1,5 +1,35 @@
 const gifs = [
 
+  {
+    day: "072",
+    content: "Contextual actions. Directions back to your car, with beep and flash offered upon approach.",
+    client: "JLR | ustwo",
+    gif: "jlr.mp4"
+   },
+   {
+    day: "071",
+    content: "We made 'digital executive toys' to help SMEs understand and 'play' with their data.",
+    client: "Worldpay",
+    gif: "worldpaytoy.mp4"
+   },
+   {
+    day: "070",
+    content: "Gamification and play theory sit behind this touchscreen game that helps young visitors learn.",
+    client: "Science Museum",
+    gif: "smgoodbye.mp4"
+   },
+   {
+    day: "069",
+    content: "In our book, we speculate that sex might be something to do in driverless cars, coining the term 'The Last Mile Club'.",
+    client: "ustwo",
+    gif: "lastmileclub.mp4"
+   },
+   {
+    day: "068",
+    content: "A guerilla campaign concept for Snapple using fruit labels placed on real fruit in-store, showing off the real fruit ingredients.",
+    client: "Snapple",
+    gif: "snapple.mp4"
+   },
      {
     day: "067",
     content: "Porsche's network of EV chargers double as AR beacons to play, collect and earn rewards.",
