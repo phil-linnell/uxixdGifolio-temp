@@ -1,5 +1,11 @@
 const gifs = [
 
+   {
+    day: "073",
+    content: "I asked a classroom of 10-year-olds to draw what they would want from a driverless car.",
+    client: "NewTerritory",
+    gif: "avkids.mp4"
+   },
   {
     day: "072",
     content: "Contextual actions. Directions back to your car, with beep and flash offered upon approach.",
