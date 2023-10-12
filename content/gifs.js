@@ -1,5 +1,17 @@
 const gifs = [
 
+{
+    day: "075",
+    content: "An array of location-aware digital totems for the British Library that each focus around it's location.",
+    client: "British Library",
+    gif: "blmap.mp4"
+  },
+   {
+    day: "074",
+    content: "Explore the life-size exterior and interior of your dream car using AR.",
+    client: "JLR | ustwo",
+    gif: "jlrarhmi.mp4"
+   },
    {
     day: "073",
     content: "I asked a classroom of 10-year-olds to draw what they would want from a driverless car.",
