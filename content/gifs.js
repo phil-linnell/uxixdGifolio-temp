@@ -1,5 +1,23 @@
 const gifs = [
 
+  {
+    day: "078",
+    content: "A connected coffee machine that tracks who's taking a coffee break - join them or avoid?",
+    client: "Gruppo | NewTerritory",
+    gif: "coffeebreak.mp4"
+   },
+   {
+    day: "077",
+    content: "Innovative packaging with a double pull-to-open mechanic, exposing secret compartments.",
+    client: "PlayStation",
+    gif: "psclank.mp4"
+   },
+   {
+    day: "076",
+    content: "An ever-telescoping Mount Olympus special edition for this Greek God themed PlayStation franchise.",
+    client: "PlayStation",
+    gif: "gow.mp4"
+   },
 {
     day: "075",
     content: "An array of location-aware digital totems for the British Library that each focus around it's location.",
