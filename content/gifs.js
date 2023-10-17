@@ -1,6 +1,12 @@
 const gifs = [
 
   {
+    day: "079",
+    content: "A connected coffee machine that knows when you're approaching and has your beverage ready.",
+    client: "Gruppo | NewTerritory",
+    gif: "personalcoffee.mp4"
+   },
+  {
     day: "078",
     content: "A connected coffee machine that tracks who's taking a coffee break - join them or avoid?",
     client: "Gruppo | NewTerritory",
