@@ -1,5 +1,11 @@
 const gifs = [
 
+   {
+    day: "080",
+    content: "Making the right thing and making the thing right means including real users, like we did in this Ford workshop.",
+    client: "Ford",
+    gif: "fordas.mp4"
+   },
   {
     day: "079",
     content: "A connected coffee machine that knows when you're approaching and has your beverage ready.",
