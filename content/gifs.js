@@ -1,5 +1,29 @@
 const gifs = [
 
+   {
+    day: "085",
+    content: "We designed the complete Tate Kids portal including website, games, interactive learning and more!",
+    client: "Tate",
+    gif: "tatekids.mp4"
+   },
+  {
+    day: "084",
+    content: "A tower defence game that educates children about water shortage and responsible usage.",
+    client: "Science Museum",
+    gif: "drench.mp4"
+  },
+   {
+    day: "083",
+    content: "Mimicing tilt–shift photography techniques to micro-size animations into a phygital game board.",
+    client: "Science Museum",
+    gif: "carboncycletrucks.mp4"
+   },
+    {
+    day: "082",
+    content: "Why should a car's HMI be one size fits all? Can we tailor the experience based on ergonomic factors?",
+    client: "ustwo",
+    gif: "rescale.mp4"
+  },
   {
     day: "081",
     content: "We created a ride-sharing service in an urban experiment to test our design hypotheses.",
