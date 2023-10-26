@@ -1,5 +1,23 @@
 const gifs = [
 
+      {
+    day: "088",
+    content: "We created an immersive multi-sensory metaverse prototype to test new in-car experiences.",
+    client: "NewTerritory",
+    gif: "metaverse.mp4"
+   },
+   {
+    day: "087",
+    content: "Augmenting existing in-car features with additional tech to bring multi-sensory experienes to the car.",
+    client: "NewTerritory",
+    gif: "incarsensors.mp4"
+   },
+   {
+    day: "086",
+    content: "We built a multi-sensory rig in which we can curate what each human sense recieves, simulating almost anything.",
+    client: "NewTerritory",
+    gif: "rig.mp4"
+   },
    {
     day: "085",
     content: "We designed the complete Tate Kids portal including website, games, interactive learning and more!",
