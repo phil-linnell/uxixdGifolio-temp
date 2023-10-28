@@ -1,5 +1,17 @@
 const gifs = [
 
+   {
+    day: "090",
+    content: "An immersive, interactive love and sex exhibition that stimulates all the senses.",
+    client: "Amora",
+    gif: "amora.mp4"
+   },
+   {
+    day: "089",
+    content: "Repetitive street lights can contribute to drowsiness. An AR windscreen made the regular irregular.",
+    client: "NewTerritory",
+    gif: "arirregular.mp4"
+   },
       {
     day: "088",
     content: "We created an immersive multi-sensory metaverse prototype to test new in-car experiences.",
