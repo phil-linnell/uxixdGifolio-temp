@@ -1,6 +1,12 @@
 const gifs = [
 
    {
+    day: "091",
+    content: "Experimenting with anaglyph 3D as a means to compress and decompress more info into smaller physical formats.",
+    client: "Self-initiated",
+    gif: "vmap.mp4"
+   },
+   {
     day: "090",
     content: "An immersive, interactive love and sex exhibition that stimulates all the senses.",
     client: "Amora",
