@@ -1,5 +1,11 @@
 const gifs = [
 
+ {
+    day: "092",
+    content: "Reductionist approach to glanceable turn-by-turn motorcycle navigation.",
+    client: "Ducati",
+    gif: "ducaticluster.mp4"
+  },
    {
     day: "091",
     content: "Experimenting with anaglyph 3D as a means to compress and decompress more info into smaller physical formats.",
