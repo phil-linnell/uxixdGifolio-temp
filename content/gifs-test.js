@@ -6,6 +6,12 @@ const gifsTest = [
     client: "Self-initiated",
     gif: "dicetemp.mp4"
   },
+    {
+    day: "095",
+    content: "A suite of portable devices bring multi-sensory immersion to gaming, home entertainment, the car, health and retail.",
+    client: "NewTerritory",
+    gif: "sensetech.mp4"
+   },
   {
     day: "094",
     content: "We disected a chat between Michael Knight and K.I.T.T. to start understanding how we can talk to driverless cars.",
