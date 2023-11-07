@@ -1,5 +1,35 @@
 const gifs = [
 
+  {
+    day: "99",
+    content: "Interactive dice in more ways than one. These dice turn our brand colour when in the dark.",
+    client: "Self-initiated",
+    gif: "dicetemp.mp4"
+  },
+  {
+    day: "098",
+    content: "We created an open standard for audio based navigation - developed with blind commuters at TfL stations.",
+    client: "Wayfindr",
+    gif: "wayfindr.mp4"
+  }, 
+  {
+    day: "097",
+    content: "We measured physiological responses, such as heart rate, to test the efficacy of our experiences.",
+    client: "NewTerritory",
+    gif: "heart.mp4"
+  }, 
+  {
+    day: "096",
+    content: "An innovative new cluster concept, that changes over time, tested in a Mercedes-Benz S-Class.",
+    client: "ustwo",
+    gif: "mercedescluster.mp4"
+  }, 
+  {
+    day: "095",
+    content: "A suite of portable devices bring multi-sensory immersion to gaming, home entertainment, the car, health and retail.",
+    client: "NewTerritory",
+    gif: "sensetech.mp4"
+   },
    {
     day: "094",
     content: "We dissected a chat between Michael Knight and K.I.T.T. to start understanding how we can talk to driverless cars.",
