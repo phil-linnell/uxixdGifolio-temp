@@ -6,13 +6,19 @@ const gifsTest = [
     client: "Self-initiated",
     gif: "dicetemp.mp4"
   },
-    {
+  {
+    day: "096",
+    content: "An innovative new cluster concept, that changes over time, tested in a Mercedes-Benz S-Class.",
+    client: "ustwo",
+    gif: "mercedescluster.mp4"
+  }, 
+  {
     day: "095",
     content: "A suite of portable devices bring multi-sensory immersion to gaming, home entertainment, the car, health and retail.",
     client: "NewTerritory",
     gif: "sensetech.mp4"
    },
-  {
+   {
     day: "094",
     content: "We disected a chat between Michael Knight and K.I.T.T. to start understanding how we can talk to driverless cars.",
     client: "ustwo",
@@ -24,12 +30,12 @@ const gifsTest = [
     client: "Ford | ustwo",
     gif: "fordmmux.mp4"
    },
-  {
+   {
     day: "092",
     content: "Reductionist approach to glanceable turn-by-turn motorcycle navigation.",
     client: "Ducati",
     gif: "ducaticluster.mp4"
-  },
+   },
    {
     day: "091",
     content: "Experimenting with anaglyph 3D as a means to compress and decompress more info into smaller physical formats.",
