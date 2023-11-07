@@ -7,6 +7,12 @@ const gifsTest = [
     gif: "dicetemp.mp4"
   },
   {
+    day: "098",
+    content: "We created an open standard for audio based navigation - developed with blind commuters at TfL stations.",
+    client: "Wayfindr",
+    gif: "wayfindr.mp4"
+  }, 
+  {
     day: "097",
     content: "We measured physiological responses, such as heart rate, to test the efficacy of our experiences.",
     client: "NewTerritory",
