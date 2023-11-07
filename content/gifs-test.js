@@ -1,11 +1,17 @@
 const gifsTest = [
 
   {
-    day: "100",
+    day: "99",
     content: "Interactive dice in more ways than one. These dice turn our brand colour when in the dark.",
     client: "Self-initiated",
     gif: "dicetemp.mp4"
   },
+  {
+    day: "097",
+    content: "We measured physiological responses, such as heart rate, to test the efficacy of our experiences.",
+    client: "NewTerritory",
+    gif: "heart.mp4"
+  }, 
   {
     day: "096",
     content: "An innovative new cluster concept, that changes over time, tested in a Mercedes-Benz S-Class.",
