@@ -1,10 +1,16 @@
 const gifsTest = [
 
   {
+    day: "100",
+    content: "We had to end on a META-GIF. Gifolio has been away to show UX and IXD inventions over full project case studies.",
+    client: "Self-initiated",
+    gif: "UXIXD_dice.mp4"
+  },
+  {
     day: "99",
     content: "Interactive dice in more ways than one. These dice turn our brand colour when in the dark.",
     client: "Self-initiated",
-    gif: "dicetemp.mp4"
+    gif: "UXIXD_dice.mp4"
   },
   {
     day: "098",
