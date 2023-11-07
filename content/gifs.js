@@ -1,6 +1,12 @@
 const gifs = [
 
   {
+    day: "100",
+    content: "Had to end on a META GIF. Gifolio is a way to show UX and IXD inventions, not full project case studies. It's been a blast!",
+    client: "Self-initiated",
+    gif: "UXIXD_gifolio.mp4"
+  },
+  {
     day: "99",
     content: "Interactive dice in more ways than one. These dice turn our brand colour when in the dark.",
     client: "Self-initiated",
