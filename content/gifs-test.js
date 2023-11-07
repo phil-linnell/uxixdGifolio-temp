@@ -4,7 +4,7 @@ const gifsTest = [
     day: "100",
     content: "We had to end on a META-GIF. Gifolio has been away to show UX and IXD inventions over full project case studies.",
     client: "Self-initiated",
-    gif: "UXIXD_dice.mp4"
+    gif: "UXIXD_gifolio.mp4"
   },
   {
     day: "99",
